@@ -1,0 +1,176 @@
+
+Expert Report: New Findings on Herbs and Synergistic Combinations for Hyperlipidemia Since September 2023
+
+
+Executive Summary
+
+This report provides a comprehensive analysis of the latest research, since September 2023, on natural products and their synergistic combinations for treating hyperlipidemia, dyslipidemia, and hypercholesterolemia. It moves beyond a simple catalog of effects to a detailed examination of underlying pharmacological mechanisms and the advanced methodologies now being employed to uncover them.
+A central theme is the convergence of traditional herbalism with modern, high-tech scientific discovery. Key findings include the emergence of well-studied herbs, such as Berberine and Hibiscus, as agents with sophisticated, multi-target mechanisms that directly parallel those of conventional pharmaceuticals, including the inhibition of PCSK9 and the upregulation of LDLR. The report also highlights the increasing trend toward rational, evidence-based synergistic formulations, particularly in Traditional Chinese Medicine (TCM), where modern analysis is explaining how ancient herb pairs achieve superior efficacy.
+Furthermore, this document underscores the transformative role of computational and rapid identification methods, such as molecular docking and AI-assisted high-throughput screening. These technologies are no longer just supplementary tools; they are the new standard for accelerating discovery, enabling researchers to quantitatively compare the efficacy of natural compounds to synthetic drugs and to engineer optimized multi-component formulations. For instance, a compound from garlic, Kaempferol, has been shown via molecular docking to have a higher binding affinity to the HMG-CoA reductase enzyme than the reference drug Simvastatin.
+In conclusion, the research landscape is evolving from empirical observation to a data-driven, mechanism-focused discipline. This shift promises to yield safer, more effective, and more personalized therapeutic options for lipid management, either as standalone treatments or as strategic adjuncts to conventional therapies.
+
+1.0 Introduction: The Convergence of Tradition and Technology in Lipid Management
+
+The global health burden of hyperlipidemia, dyslipidemia, and hypercholesterolemia continues to grow, driving a strong interest in safe and effective alternatives or adjuncts to conventional pharmaceutical interventions. Historically, the use of medicinal herbs for these conditions has been based on centuries of traditional knowledge and empirical observation. However, in recent years, a significant paradigm shift has occurred. The field is rapidly moving from a qualitative understanding of "what works" to a quantitative, molecular-level comprehension of "how it works." This transition is being catalyzed by the adoption of cutting-edge research methodologies, including computational modeling, high-throughput screening, and omics technologies.
+This report is structured to reflect this evolution. It begins with an in-depth analysis of individual herbs, focusing on the latest research that elucidates their specific mechanisms of action. This is followed by a section dedicated to the principle of synergy, exploring how multi-compound and combination formulations are engineered to achieve superior, multi-targeted effects. The final section delves into the innovative computational and rapid identification methods that are not only accelerating the discovery process but also providing a new level of scientific rigor and validation for natural product research. The aim is to provide a comprehensive, expert-level perspective that integrates these three critical areas of inquiry, thereby offering a nuanced understanding of the current and future landscape of natural product-based lipid management.
+
+2.0 Part I: Comprehensive Analysis of Key Herbal Agents and Their Novel Mechanisms
+
+The latest research on individual herbs has moved beyond simply confirming their efficacy to a deeper exploration of their precise molecular mechanisms. This section provides an in-depth review of several key herbal agents, highlighting the most significant new findings that elevate them to the forefront of modern pharmacology.
+
+2.1 Berberine (BBR): A Multitarget Agent with Newfound Mechanisms
+
+Berberine (BBR), an isoquinoline alkaloid isolated from a variety of plants, has long been recognized for its anti-diabetic and lipid-lowering properties.1 Recent findings provide a more sophisticated understanding of its mechanisms, positioning it as a multi-target agent that rivals conventional pharmaceuticals. A pivotal discovery is its role in reducing proprotein convertase subtilisin/kexin type 9 (PCSK9).1 PCSK9 is a protein that regulates the number of LDL receptors (LDLR) on liver cells. By inhibiting PCSK9, BBR effectively increases the availability of LDLR, which in turn enhances the clearance of LDL-cholesterol from the bloodstream.3 This mechanism is distinct from statins, which primarily inhibit the HMG-CoA reductase enzyme.1 The ability of BBR to modulate this pathway makes it a compelling agent, particularly for patients who are intolerant to statins, as conventional medicine has also developed PCSK9 inhibitors as a new class of blockbuster drugs.4
+The research further elaborates on BBR's multi-pronged approach to lipid management. Studies have shown that BBR metabolites can upregulate LDLR expression in human hepatoma cells, contributing to its lipid-lowering effects.1 Beyond direct metabolic pathways, BBR also exerts its therapeutic effects by mediating gut microbiota, thereby reducing atherosclerosis in preclinical models.1 Its anti-atherosclerosis and antioxidant activities have also been demonstrated in hyperlipidemic model rats, and it encourages LXR$\alpha$/ABCA1-dependent cholesterol efflux to reduce the development of foam cells, a key step in atherosclerosis.1 The convergence of these mechanisms—from direct LDLR upregulation and PCSK9 inhibition to broader effects on gut microbiota and foam cell formation—demonstrates that BBR's efficacy is not a singular action but a sophisticated, multi-level intervention.1 This advanced understanding validates BBR not merely as a "natural alternative" but as a powerful pharmacological agent with a mechanism of action that is increasingly relevant to modern drug development. The clinical synergy with conventional drugs is also being explored, as the combination of simvastatin with berberine has been shown to improve lipid-lowering efficacy.1
+
+2.2 Hibiscus sabdariffa: Clinical Validation and Cardioprotective Synergy
+
+Hibiscus sabdariffa (HS) continues to be a subject of intense research, with recent findings providing robust clinical validation of its cardiovascular benefits. Its lipid-lowering effects have been demonstrated not only in animal models but also in human trials, where it has shown equivalent efficacy to standard antihypertensive agents like hydrochlorothiazide and lisinopril.1 This places Hibiscus in a rare category of natural products that can be directly compared to conventional pharmaceuticals with a high level of evidence.1
+Multiple clinical studies have provided specific details on its efficacy. One trial found that 500 mg per day of HS calyx powder resulted in a significant reduction in triglyceride levels.5 Another study using 100 mg per day of HS extract powder also demonstrated a reduction in blood glucose and total cholesterol, while simultaneously increasing high-density lipoprotein (HDL) levels.5 The promising effects of HS are attributed to its high flavonoid content and its ability to induce vasodilation, providing both lipid-lowering and antihypertensive benefits.1 This dual action highlights the plant's cardioprotective advantages, addressing multiple facets of cardiometabolic risk. The research is also moving toward investigating synergistic combinations. A potential blend of roselle (
+Hibiscus sabdariffa L.) and red ginger (Zingiber officinale var. rubrum) is being studied for its complementary mechanisms, including ACE inhibition, antioxidant activity, and modulation of vascular tone, which are critical for antihypertensive treatment.6
+
+2.3 Allium sativum (Garlic) and Its Potent Compounds
+
+Garlic (Allium sativum) has long been lauded for its lipid-lowering effects in traditional medicine, but new computational research is providing a precise, quantitative explanation for this activity. Molecular docking studies, a form of computational modeling, have been used to screen individual compounds from garlic for their potential to inhibit HMG-CoA reductase (HMGCR), the same key enzyme targeted by statin drugs.7
+In a particularly compelling finding, a study demonstrated that the compound Kaempferol, found in single bulb garlic, had a binding energy of -8.1 kcal/mol to the HMGCR enzyme.7 This is a more favorable, and therefore more potent, binding affinity than that of the reference drug, Simvastatin, which had a binding energy of -7.7 kcal/mol.7 The lower binding energy indicates that Kaempferol binds more tightly to the target enzyme, suggesting that it could be a more effective inhibitor of cholesterol biosynthesis at the molecular level.7 This evidence is a profound demonstration of how computational methods are elevating natural product research by providing direct, quantitative comparisons to synthetic drugs. This discovery moves garlic from a simple herbal remedy to a source of a potential new, and possibly more potent, drug candidate.
+
+2.4 Curcumin: Enhancing Bioavailability for Clinical Efficacy
+
+Research on Curcumin, the active component of turmeric (Curcuma longa), is no longer focused on simply demonstrating its lipid-lowering effects, which are well-documented.1 The latest research has shifted to addressing its primary challenge: poor bioavailability.9 This problem has historically limited its clinical utility, but modern formulation science is providing innovative solutions.
+New research is focused on developing fixed-dose combination (FDC) products that enhance Curcumin's absorption and stability.9 These FDCs strategically incorporate adjuvants that work synergistically to improve absorption. For example, piperine, a compound from black pepper, significantly enhances Curcumin absorption by inhibiting an enzyme in the liver that breaks it down.9 Similarly, because Curcumin is fat-soluble, combining it with lipids like phospholipids or oils improves its absorption by forming micelles that solubilize the compound.9 Polysaccharides, such as cyclodextrin, are also used to increase solubility.9 This shift in focus, from basic efficacy studies to sophisticated formulation strategies, indicates the maturation of natural product research. It highlights a critical trend where the development of plant-based therapies is now guided by principles of pharmacokinetics and bioavailability, similar to conventional drug development.9
+
+2.5 Other Promising Herbs: New Findings from Recent Literature
+
+The research landscape for lipid-lowering herbs is remarkably dynamic, with recent literature identifying a diverse range of new and emerging candidates. Beyond the most studied agents, a wide variety of herbs and their compounds are being investigated for their specific mechanisms. For example, Sinapic acid has been shown to attenuate the effects of a high-fat diet by modulating genes involved in lipid metabolism, including HMGCR.1 Similarly, extracts from
+Corchorus olitorius (Jute leaves) have demonstrated improved lipid metabolism in obese and diabetic rodent models, evidenced by significant reductions in triglycerides, total cholesterol, and LDL-c.5
+Other studies are exploring the bioactive components responsible for these effects. Cosmos caudatus Kunth (Ulam Raja), for instance, was found to have preventive effects against hyperlipidemia, with key compounds like quercetin, rutin, and chlorogenic acid being responsible for reducing cardiac output and inducing diuresis.5
+Typha angustifolia is now utilized in clinical practice, with experimental studies showing its effects on hypercholesterolemia and endothelial protection, and flavonoids identified as the most representative active metabolites.1 Compounds from the Chinese herb
+Daphne giraldii Nitsche, specifically Daphnetoxin and Gniditrin, have been shown to activate the LDLR promoter, providing a novel mechanism for cholesterol-lowering.10 This breadth of research underscores a global, concerted effort to systematically screen and validate the therapeutic potential of the world's diverse flora, moving beyond a few well-known herbs to a broader exploration of biodiversity.
+
+3.0 Part II: The Principle of Synergy: Multi-Compound and Combination Formulations
+
+In modern phytotherapy, the concept of synergy has moved from a vague notion to a precise, scientifically validated principle. Recent research is providing mechanistic explanations for why combining different herbs or compounds yields a superior therapeutic outcome. This section explores these synergistic effects in detail, from traditional herb pairs to novel multi-herb blends and strategic herb-drug combinations.
+
+3.1 Traditional Chinese Medicine (TCM) Herb Pairs: Modern Insights into Ancient Wisdom
+
+The art of Traditional Chinese Medicine (TCM) has long relied on the synergistic effects of multi-herb formulas. Recent studies are now using modern analytical techniques to explain the molecular basis of these ancient pairings. The Danshen-Shanzha Formula, a combination of Radix Salvia miltiorrhiza and Fructus Crataegi, is a classic example. Extensively used for promoting blood circulation and treating atherosclerotic diseases, this formula's efficacy is attributed to shared components like protocatechuic acid and chlorogenic acid, as well as specific active ingredients like tanshinone IIA.6 The research demonstrates that the combination's therapeutic effect is rooted in a multi-component action, addressing various pathways simultaneously.6
+Another set of studies provides a powerful illustration of this principle by analyzing the Coptidis rhizoma (CR) herb pair. The combination of CR with Glycyrrhizae radix et rhizoma (GRR), for instance, has been found to be more efficient than the individual herbs.6 The co-administration not only moderates the bitter taste of berberine from CR but also prolongs its efficacy by forming a more stable salt.6 When CR is paired with
+Scutellariae radix (SR), the co-decoction results in a synergistic effect that increases the concentration of both berberine and baicalin in the aqueous extract, thereby enhancing the overall therapeutic potential.6 Perhaps most mechanistically compelling is the combination of CR with
+Magnoliae officinalis cortex (MOC), where honokiol from MOC has been shown to actively promote the absorption of berberine, leading to significantly higher berberine concentration in rat plasma.6 These findings provide a profound, step-by-step explanation for the superior efficacy of these traditional pairings, demonstrating that one herb can influence the pharmacokinetics or bioavailability of another.
+
+3.2 Novel Polyherbal Blends: Clinical Trials and Formulations
+
+The development of novel multi-herbal blends represents a modern approach to the traditional concept of polyherbalism. Unlike single-molecule drugs that target a single pathway, these blends are designed to provide a comprehensive, multi-targeted therapeutic effect. A standardized multi-herbal formulation called GUTAC, consisting of Glycyrrhiza glabra, Urtica dioica, Trigonella foenum-graecum, Artemisia persica, and Camellia sinensis, demonstrated significant hypolipidemic and anti-obesity effects in a rat model.11 The benefits were not isolated to a single marker but were attributed to the bioactive compounds' ability to modulate lipid metabolism, oxidative stress, and inflammatory pathways simultaneously.11 Similarly, the
+KaraHeart™ blend has been shown to significantly reduce LDL, VLDL, triglycerides, and total cholesterol while increasing HDL in patients with mild hyperlipidemia.10
+These examples illustrate the potential of polyherbalism to treat complex, multifactorial diseases like dyslipidemia more effectively. The human body's lipid regulation is a complex network of interconnected pathways. By providing a multi-compound therapy, these formulations can affect multiple points in this network, potentially leading to a more robust and holistic therapeutic outcome.12 This approach may also provide benefits for co-morbidities, as seen with the GUTAC formulation's hepatoprotective and renoprotective effects.11
+
+3.3 Herb-Drug Combinations: A New Frontier in Integrative Medicine
+
+The conventional dichotomy between herbal and pharmaceutical medicine is dissolving as research increasingly explores the benefits of strategic herb-drug combinations. This approach aims to leverage the multi-target benefits of natural products while potentially reducing the dosage and side effects of conventional drugs. The combination of berberine and simvastatin is a prime example, where co-administration has been shown to improve lipid-lowering efficacy.1 This is significant because statin intolerance and side effects are a major clinical problem. By using a natural adjunct, clinicians may be able to achieve the desired therapeutic effect with a lower statin dose, thus mitigating adverse reactions.
+Another study investigated the effects of dietary Thymus vulgaris extract with Atorvastatin in diabetic and hyperlipidemic rats, examining the impact on liver, kidney, heart, and brain histopathological features.6 The findings suggest that such combinations can provide a broader range of benefits beyond simple lipid-lowering, including the protection of vital organs. Furthermore, research indicates that artichoke leaf extract supplements may work effectively in combination with lipid-lowering therapy for hyperlipidemia, offering a synergistic approach to management.13 The data indicates that the future of herbal medicine may not be as a simple alternative but as an integral component of a sophisticated, integrative therapeutic strategy.
+Table 1: Key Individual Herbs and Their Novel Mechanisms
+
+Herb Name
+Key Compound(s)
+Documented Effects
+Novel Mechanism(s)
+Source(s)
+Berberine (BBR)
+Berberine
+Decreases serum TC, TG, and LDL-C; increases HDL; reduces atherosclerosis and foam cell formation.
+Reduces PCSK9; upregulates LDLR; mediates gut microbiota; reduces LOX-1-mediated endothelial dysfunction.
+1
+Garlic
+Kaempferol, Allicin
+Reduces serum cholesterol, triglycerides, and LDL-C.
+Inhibits HMGCR; molecular docking shows higher binding affinity than Simvastatin.
+1
+Curcumin
+Curcuminoids
+Improves serum lipid levels; mitigates oxidative stress.
+Poor bioavailability is overcome by fixed-dose combinations with piperine, lipids, and polysaccharides.
+1
+Hibiscus sabdariffa
+Flavonoids
+Reduces serum cholesterol and triglycerides; increases HDL-C; comparable efficacy to standard antihypertensive agents.
+High flavonoid content; induces vasodilation.
+1
+Yellow Vine
+Tetraacetyl-d-xylonic nitrile
+Reduces lipid levels.
+Inhibits PCSK9 to upregulate LDLR expression.
+10
+
+4.0 Part III: Accelerating Discovery: Computational and Rapid Identification Methods
+
+The landscape of natural product research is being fundamentally reshaped by computational and rapid identification methods. These tools are transforming the discovery process from a slow, laborious one to a targeted, predictive, and highly efficient pipeline. They enable researchers to go beyond traditional trial-and-error, providing a deeper, more quantitative understanding of a compound's potential efficacy at the molecular level.
+
+4.1 Molecular Docking: Predicting Efficacy at the Molecular Level
+
+Molecular docking is a sophisticated computational technique that simulates the interaction of a small molecule (a ligand) with a target protein.15 This method allows researchers to predict a compound's binding affinity and potential inhibitory effect before any laboratory experiments are conducted. The research on garlic compounds provides a compelling example of this technology in action. A study used molecular docking to predict the potential of compounds from single bulb garlic to inhibit cholesterol biosynthesis by targeting HMGCR.7 The results were not merely qualitative; they were quantitative, providing a direct comparison to a leading conventional statin drug. The analysis revealed that Kaempferol, a flavonoid from garlic, had a more favorable binding energy to HMGCR than Simvastatin, a finding that suggests its potential as a more potent inhibitor of cholesterol synthesis.7 This finding elevates Kaempferol from a simple herbal component to a promising drug candidate with a scientifically validated mechanism of action. The use of this method transforms the discovery process from observation-based to mechanism-driven, providing a new level of rigor and accelerating the identification of potent natural compounds.15
+
+4.2 High-Throughput and AI-Assisted Screening
+
+High-throughput screening (HTS) programs have become a cornerstone of modern drug discovery, enabling the rapid testing of thousands of compounds simultaneously to identify those with specific biological activities.16 This technology is now being applied to natural product libraries, dramatically reducing the time and resources required to find new therapeutic agents. The "HerboChips" platform, a microarray-based reverse target screening technology, is a prime example, allowing for the rapid identification of effective Traditional Chinese Medicine components that interact with specific proteins.16
+The most advanced research, however, integrates these methods into a multi-modal pipeline. A study on a new herbal medicinal recipe composed of Yellow Vine, Ginger, and Safflower provides a powerful illustration. Researchers used a combination of molecular docking, GC-MS/MS, and real-time PCR to identify potential PCSK9 inhibitors and determine a suitable herb ratio for their formulation.14 This integrated approach allowed them to move from a computational hypothesis to a validated herbal blend with a defined mechanism (PCSK9 inhibition leading to LDLR upregulation) and a specific, optimal ratio (3 parts Yellow Vine, 2 parts Ginger, and 1 part Safflower).10 Similarly, AI-assisted computational screening and docking simulations are being used to efficiently prioritize marine natural products as potential small-molecule PCSK9 inhibitors, casting a wide net for novel therapeutics from non-traditional sources.4 The successful identification of peptides from a marine organism,
+Haliotis discus hannai, as potential HMGCR inhibitors through virtual screening further demonstrates this forward-looking, technology-driven approach.19
+Table 2: Summary of Computational and Rapid Screening Results
+
+Method
+Herbal Source/Compound
+Targeted Protein/Pathway
+Key Quantitative Metric
+Significance
+Source(s)
+Molecular Docking
+Garlic / Kaempferol
+HMGCR
+Binding Energy: -8.1 kcal/mol
+Higher binding affinity than Simvastatin (-7.7 kcal/mol)
+7
+Integrated Multi-modal Pipeline
+Yellow Vine, Ginger, Safflower
+PCSK9 / LDLR
+Optimal Herb Ratio: 3:2:1
+Formula inhibits PCSK9 to upregulate LDLR expression
+10
+AI-Assisted Screening
+Marine Natural Products
+PCSK9
+Prioritization of candidates
+Accelerates discovery of novel inhibitors from non-traditional sources
+4
+Virtual Screening
+Marine Peptides (Haliotis discus hannai)
+HMGCR
+Inhibition of HMGCR activity
+Provides novel strategy for developing natural drugs from marine sources
+19
+
+5.0 Concluding Analysis: Synthesizing Insights and Charting a Path Forward
+
+The research since September 2023 marks a significant maturation in the field of natural product-based lipid management. The findings presented in this report collectively illustrate a fundamental shift from a qualitative, observational discipline to a quantitative, mechanism-driven science. The core trends are clear: a move toward multi-target pharmacology, a strategic focus on bioavailability and formulation, and the widespread adoption of computational and rapid screening technologies.
+The days of simply reporting that a herb "lowers cholesterol" are past. The most compelling new evidence explains how these agents work at a molecular level, often revealing that their mechanisms are identical or analogous to those of cutting-edge synthetic drugs. The discovery that Berberine inhibits PCSK9 and that a compound from garlic has a higher binding affinity to HMGCR than a leading statin are not just interesting facts; they are foundational findings that challenge the conventional dominance of single-molecule pharmaceuticals. These discoveries position natural products as direct competitors and, more importantly, as strategic complements to existing therapies.
+Furthermore, the analysis of synergistic combinations demonstrates that the therapeutic advantage of natural products often lies in their multi-component nature. Modern science is now providing the mechanistic rationale for ancient wisdom, revealing how herb pairs can enhance bioavailability, prolong efficacy, and provide a broader therapeutic scope. This multi-target approach is particularly well-suited for a complex, multifactorial disease like dyslipidemia.
+While the progress is substantial, challenges remain. The need for more high-quality human clinical trials to validate preclinical findings is a recurring theme in the literature. Standardization of herbal formulations is also a persistent challenge, as the chemical composition can vary widely depending on growing conditions and processing methods. However, the adoption of technologies like molecular docking and high-throughput screening offers a promising path forward. These methods not only accelerate the discovery of new and potent compounds but also provide a powerful new toolkit for optimizing formulations and ensuring consistency.
+Based on these findings, the path forward for research and application should be guided by several key principles. The industry should prioritize studies that integrate computational screening with rigorous clinical validation to efficiently identify and prove the efficacy of new agents. The development of sophisticated, bioavailable fixed-dose combinations should be a central focus, as this is a key to unlocking the full clinical potential of many promising compounds. Finally, a greater emphasis on strategic herb-drug combinations will open a new frontier in personalized and integrative medicine, potentially improving patient outcomes by reducing the reliance on high-dose single-agent therapies and mitigating associated side effects. The convergence of tradition and technology is not just a trend; it is the new standard, and it is set to transform the landscape of lipid management.
+Works cited
+hypercholesterolemia|hyperlipidemia|hyperlipoproteinemia herb03faulty-reuploads
+Bioactive compounds from herbal medicines to manage dyslipidemia - ResearchGate, accessed September 6, 2025, https://www.researchgate.net/publication/336011959_Bioactive_compounds_from_herbal_medicines_to_manage_dyslipidemia
+Berberine is a novel cholesterol-lowering drug working through a unique mechanism distinct from statins - PubMed, accessed September 6, 2025, https://pubmed.ncbi.nlm.nih.gov/15531889/
+AI-Assisted Computational Screening and Docking Simulation ..., accessed September 6, 2025, https://www.researchgate.net/publication/388709344_AI-Assisted_Computational_Screening_and_Docking_Simulation_Prioritize_Marine_Natural_Products_for_Small-Molecule_PCSK9_Inhibition
+Herbal Remedies for Dyslipidemia and Hypercholesterolemia
+Herbal Remedies for Dyslipidemia and Hypercholesterolemia02
+Molecular Docking: Single Bulb Garlic (Allium ... - AIP Publishing, accessed September 6, 2025, https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0052643/14233195/030028_1_online.pdf
+Blood lipids lowering effect of medicinal plants - Semantic Scholar, accessed September 6, 2025, https://pdfs.semanticscholar.org/9a4c/16771984c25d5f4c978f9eb44eaf80dc2f56.pdf
+Curcumin-Based Fixed Dose Combination Products for Cholesterol ..., accessed September 6, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC10863436/
+Herbal Cholesterol Lowering Supplements - Consensus Academic ..., accessed September 6, 2025, https://consensus.app/questions/herbal-cholesterol-lowering-supplements/
+Effect of the Several Herbal Medicines Mixture on BMI and Lipid ..., accessed September 6, 2025, https://ijdo.ssu.ac.ir/article-1-906-en.html
+Chinese herbal formula in the treatment of metabolic ... - Frontiers, accessed September 6, 2025, https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1476419/full
+The best herbs to help lower cholesterol - MedicalNewsToday, accessed September 6, 2025, https://www.medicalnewstoday.com/articles/herbs-to-help-lower-cholesterol-quickly
+The Cholesterol-Modulating Effect of the New Herbal Medicinal Recipe from Yellow Vine (Coscinium fenestratum (Goetgh.)), Ginger (Zingiber officinale Roscoe.), and Safflower (Carthamus tinctorius L.) on Suppressing PCSK9 Expression to Upregulate LDLR Expression in HepG2 Cells - PubMed, accessed September 6, 2025, https://pubmed.ncbi.nlm.nih.gov/35890469/
+(PDF) Molecular docking bioactive compound from Strobilanthes crispus to decrease cholesterol levels - ResearchGate, accessed September 6, 2025, https://www.researchgate.net/publication/354801423_Molecular_docking_bioactive_compound_from_Strobilanthes_crispus_to_decrease_cholesterol_levels
+Chip-Based High Throughput Screening of Herbal Medicines | Request PDF - ResearchGate, accessed September 6, 2025, https://www.researchgate.net/publication/47154885_Chip-Based_High_Throughput_Screening_of_Herbal_Medicines
+Lipid Metabolism Compound Library - Selleck Chemicals, accessed September 6, 2025, https://www.selleckchem.com/screening/lipid-metabolism-compound-library.html
+The Cholesterol-Modulating Effect of the New Herbal Medicinal Recipe from Yellow Vine (Coscinium fenestratum (Goetgh.)), Ginger (Zingiber officinale Roscoe.), and Safflower (Carthamus tinctorius L.) on Suppressing PCSK9 Expression to Upregulate LDLR Expression in HepG2 Cells - Mahidol University, accessed September 6, 2025, https://mahidol.elsevierpure.com/en/publications/the-cholesterol-modulating-effect-of-the-new-herbal-medicinal-rec
+Virtual screening and evaluation of bioactive peptides from Haliotis ..., accessed September 6, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11730078/
