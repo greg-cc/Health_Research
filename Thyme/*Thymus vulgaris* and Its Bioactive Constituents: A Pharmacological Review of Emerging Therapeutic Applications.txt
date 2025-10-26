@@ -175,7 +175,6 @@ Bladder Cancer: T-24 cell line.11
 Hepatocellular Carcinoma: HepG2 cell line.11
 Hematological Malignancies: Leukemia and Multiple Myeloma cell lines.11
 Ovarian Cancer: IGR-OV1 adenocarcinoma cells, including those resistant to chemotherapy.22
-Gastric Cancer: Including human gastric AGS adenocarcinoma cells.
 A general proposed mechanism for this cytotoxicity involves the lipophilic nature of compounds like thymol. These molecules are thought to accumulate in the lipid-rich membranes of cancer cells, disrupting their structure and increasing their permeability. This leads to the leakage of essential enzymes and metabolites, ultimately causing cell death.7
 
 Modulation of Core Oncogenic Signaling Pathways
@@ -255,67 +254,6 @@ Antiproliferative effects, Cell cycle arrest
 A Paradoxical Finding: The Hormetic Effect
 
 A surprising and critically important finding emerged from the study on UMSCC1 cells. While high concentrations of TEO were cytotoxic, subtoxic concentrations were found to stimulate cancer cell proliferation and viability.22 This biphasic or "hormetic" dose-response effect has been observed with other cytotoxic agents, including standard chemotherapies like doxorubicin.22
-
-Extrapolation of Anti-Neoplastic Activity Based on Known Molecular Pathways
-
-Based on the molecular pathways that have been identified as targets for thyme's active compounds, it is possible to extrapolate to other types of cancer that are known to be driven by these same mechanisms. This analysis provides a scientifically-grounded hypothesis for which other malignancies might be susceptible to thyme's anti-cancer effects.
-
-Cancers Dependent on the Wnt/β-Catenin Pathway
-
-The research clearly shows that thymol can inhibit the Wnt/β-catenin signaling pathway, a mechanism that was validated in colorectal cancer models.11 This pathway is a fundamental driver of cell growth and is aberrantly activated in many other cancers beyond just colorectal .
-Potential Targets:
-Gastrointestinal (GI) Cancers: Dysregulation of the Wnt pathway is a common feature across numerous GI cancers. This includes liver cancer (hepatocellular carcinoma), gastric (stomach) cancer, and small bowel cancer, where components of this pathway are frequently mutated .
-Breast Cancer: High expression of β-catenin has been specifically reported in aggressive basal-like breast cancer subtypes, suggesting this pathway is a key vulnerability .
-Other Solid Tumors: The Wnt/β-catenin pathway has also been implicated in the progression of ovarian cancer, prostate cancer, skin cancer, and glioma (a type of brain tumor) .
-
-Cancers Dependent on PI3K/AKT/mTOR and MAPK Signaling
-
-Studies have confirmed that thymol and carvacrol can inhibit the PI3K/AKT/mTOR and MAPK pathways, which are two of the most critical cascades governing cancer cell proliferation, survival, and resistance to therapy.23 Their dysregulation is a hallmark of a vast number of human cancers .
-Potential Targets for PI3K/AKT/mTOR Inhibition:
-Breast Cancer: This pathway is particularly relevant in hormone receptor-positive (HR+) breast cancer, where mutations are found in up to 40% of cases .
-Renal Cell Carcinoma (Kidney Cancer): Approved mTOR inhibitors are already used for advanced renal cell carcinoma, indicating the pathway's importance in this cancer type .
-Neuroendocrine Tumors (NETs): This pathway is also a validated target in NETs .
-Potential Targets for MAPK Inhibition:
-Melanoma: The MAPK pathway is a primary driver, with BRAF mutations present in 60–70% of cases and NRAS mutations in 15–30% .
-Pancreatic, Lung, and Thyroid Cancers: Key components of this pathway are frequently mutated in these malignancies, making them theoretically susceptible to agents that can disrupt this signaling .
-
-Cancers Susceptible to Modulation of Interferon Signaling
-
-Thyme essential oil was found to regulate interferon signaling in head and neck cancer cells.6 This pathway is central to the immune system's ability to recognize and attack tumor cells .
-Potential Targets:
-Cancers Treated with Immunotherapy: The effectiveness of modern checkpoint inhibitors in cancers like melanoma and non-small cell lung cancer is highly dependent on a functioning interferon response within the tumor . An agent that modulates this pathway could potentially enhance the efficacy of these therapies.
-"Cold" Tumors: Cancers that typically do not provoke a strong immune response, such as pancreatic cancer, ovarian cancer, and certain breast cancers, are known as "cold" tumors. Therapies designed to boost interferon signaling are being explored to make these tumors "hot" and thus more responsive to immunotherapy .
-
-Cancers Susceptible to Modulation of N-Glycan Biosynthesis and ERK5 Signaling
-
-In studies on head and neck cancer, thyme essential oil was also shown to affect N-glycan biosynthesis and ERK5 signaling.22
-Potential Targets for N-Glycan Biosynthesis: Altered N-glycans are a universal feature of cancer ("pan-cancer"), contributing to metastasis and immune evasion . This pathway is being investigated as a therapeutic target in a wide range of cancers, including pancreatic cancer and B-cell malignancies .
-Potential Targets for ERK5 Signaling: Upregulation of ERK5 is associated with a more aggressive disease course and metastasis in numerous cancers, including lung cancer, breast cancer, liver cancer (HCC), and malignant mesothelioma .
-
-Summary of Potential Cancer Targets by Pathway
-
-
-Targeted Pathway
-Known Effect of Thyme/Constituents
-Potential Extrapolated Cancer Targets
-Wnt/β-catenin
-Inhibition by thymol 12
-Liver, Gastric, Small Bowel, Breast, Ovarian, Prostate, Glioma
-PI3K/AKT/mTOR
-Inhibition by thymol and carvacrol 23
-Breast (HR+), Renal Cell Carcinoma, Neuroendocrine Tumors
-MAPK
-Inhibition by thymol and carvacrol 23
-Melanoma, Pancreatic, Lung, Thyroid Cancer
-Interferon Signaling
-Modulation by Thyme Essential Oil 22
-Melanoma, Non-Small Cell Lung Cancer, Pancreatic, Ovarian, other "cold" tumors
-N-Glycan Biosynthesis
-Modulation by Thyme Essential Oil 22
-Pancreatic Cancer, B-Cell Cancers, and others due to its pan-cancer role
-ERK5 Signaling
-Modulation by Thyme Essential Oil 22
-Lung, Breast, Liver (HCC), Malignant Mesothelioma
 
 Metabolic Regulation: A Multi-System Approach to Cardiometabolic Health
 
