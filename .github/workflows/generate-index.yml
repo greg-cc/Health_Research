@@ -1,0 +1,54 @@
+name: Generate Single Recursive Index
+
+on:
+  push:
+    branches:
+      - main # Or 'master'
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install tree
+        run: sudo apt-get update && sudo apt-get install -y tree
+
+      - name: Generate single recursive index.html
+        run: |
+          # --- Configure Your Settings ---
+          TARGET_DIR="docs/files"   # The directory to index
+          PAGE_TITLE="Index of Files"      # The <title> and <h1> of the page
+          # -------------------------------
+          
+          echo "Generating index for $TARGET_DIR..."
+          
+          # Navigate into the target directory so all links are relative
+          cd $TARGET_DIR
+          
+          # Use tree to generate an HTML file
+          # -H '.' : Generate HTML with links relative to the current dir ('.')
+          # -L 10  : Set a recursion depth limit of 10 levels
+          # -T "..." : Sets the page <title> and <h1>
+          # -I "..." : Ignore the index.html file itself from the listing
+          # --noreport: Don't show the "X directories, Y files" at the bottom
+          # -o "..." : Output directly to the index.html file
+          tree -H '.' -L 10 -T "$PAGE_TITLE" -I "index.html" --noreport -o "index.html" --charset utf-8
+          
+          echo "Generated index.html"
+
+      - name: Commit and push if index.html changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Add the single index.html file
+          git add "docs/files/index.html" 
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "docs: auto-generate recursive directory index"
+            git push
+          else
+            echo "No changes to commit."
+          fi
