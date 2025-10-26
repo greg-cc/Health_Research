@@ -1,0 +1,492 @@
+Here's a categorization of the provided documents, along with a summary of each in layman's terms:
+1. PEA Fundamentals & General Reviews
+This category includes documents that explain what Palmitoylethanolamide (PEA) is, how it works, and provide broad overviews of its properties or historical background.
+•
+Excerpts from "1034_TEXTextracted.txt": This source introduces palmitoylethanolamide (PEA) as a member of the fatty acid ethanolamide family. It notes PEA's proposed mechanisms of action for reducing inflammation, preventing allergic reactions, and relieving pain.
+•
+Excerpts from "1229945.pdf": This document highlights PEA as a crucial molecule recognized for its pain-relieving and brain-protective abilities, often suggested for pain and inflammatory health issues. It traces PEA's discovery in egg yolk (1954), then in peanut flour and soy lecithin (1957). It also mentions its anti-allergic properties and its presence in various animal tissues, including the brain, liver, and muscle of rats and guinea pigs (1965), and later in many other animal species.
+•
+Excerpts from "1271_TEXTextracted.txt": This source identifies PEA as a natural lipid mediator (a type of fat-like molecule produced in the body) known for its wide-ranging effects on protecting brain cells, managing chronic pain, and influencing the immune system.
+•
+Excerpts from "2175_TEXTextracted.txt": This document explains that PEA belongs to a group of molecules called ALIAmides (Autacoid Local Injury Antagonist amides), a term coined by Rita Levi Montalcini's team. These are naturally occurring, fat-based molecules with anti-inflammatory properties, involved in the body's response to inflammation.
+•
+Excerpts from "457_TEXTextracted.txt": This source indicates PEA's role as an anti-inflammatory and neuroprotective agent that targets various molecules in the brain associated with aging. It discusses a new formulation of PEA combined with lipoic acid and vitamin D3, which improves absorption, reduces harmful reactive oxygen species and nitric oxide, and interacts with cannabinoid and estrogen receptors to reduce inflammation. This suggests a new strategy to restore brain function and slow aging.
+•
+Excerpts from "457_TEXTextracted.txt": This source explains that "neuroinflammation" is the brain's response to imbalances in its normal state. It describes that this response can either promote inflammation (by releasing substances that increase blood flow or cause damage) or resolve it (by releasing protective lipid mediators like PEA).
+•
+Excerpts from "5305_TEXTextracted.txt": This review suggests that as societies experience changes in diet, chronic diseases linked to inflammation become more common. It proposes that dietary supplements, like PEA, can help reduce the risk and severity of these conditions.
+•
+Excerpts from "58_TEXTextracted.txt": This document provides a brief overview of the endocannabinoid system, noting its relatively recent discovery (late 20th century). It emphasizes the system's fundamental role throughout the body, including its involvement in regulating pain and the immune system.
+•
+Excerpts from "58_TEXTextracted.txt": This source summarizes that PEA can help treat various problems in the brain and nervous system by reducing inflammation, reactive oxygen species, and other harmful substances, often by activating specific cell receptors called PPARs.
+•
+Excerpts from "600_TEXTextracted.txt": This document reiterates the endocannabinoid system's importance for proper bodily function, including its widespread presence and its role in controlling pain and the immune system.
+•
+Excerpts from "9526_TEXTextracted.txt": This review proposes PEA as a nutritional strategy to keep brain inflammation (neuroinflammation) within healthy limits. It explains that neuroinflammation is a natural process for maintaining balance in the body. The review highlights the benefits of orally administering specially processed forms of PEA (micronized and ultra-micronized) for brain inflammatory disorders. It also suggests that combining PEA with antioxidant plant compounds like luteolin and polydatin could be advantageous because of the role of oxidative stress in neuroinflammation.
+•
+Excerpts from "British J Pharmacology - 2016 - Petrosino - The pharmacology of palmitoylethanolamide and first data on the therapeutic.pdf": This review positions PEA as a promising nutritional supplement because it's naturally found in many foods and is produced by mammalian cells and tissues. It has important brain-protective, anti-inflammatory, and pain-relieving effects. The document discusses the various ways PEA works in the central and peripheral nervous systems, as well as its effectiveness and safety for neurodegenerative disorders, pain, and inflammatory diseases. It also covers newer PEA formulations with smaller particles (micronized and ultra-micronized) and combinations with antioxidants like luteolin.
+•
+Excerpts from "British J Pharmacology - 2016 - Petrosino - The pharmacology of palmitoylethanolamide and first data on the therapeutic.pdf": This section details the molecular targets of PEA, including G protein-coupled receptors (CB1, CB2, GPR55), ion channels (TRPV1), and nuclear hormone receptors (PPAR-α). It also lists the enzymes responsible for PEA's breakdown.
+•
+Excerpts from "Jagger et.al 98 Pain & Inflammation_ Pain.pdf": This source notes that the discovery of cannabinoid receptors (CB1 in the brain, CB2 in the body's tissues) and natural cannabinoid-like compounds has renewed interest in their pain-relieving effects.
+•
+Excerpts from "Jagger et.al 98 Pain & Inflammation_ Pain.pdf": This study found that PEA, like the cannabinoid ANA, could reduce pain in models of bladder inflammation and paw pain in rats. It suggests that because PEA primarily acts on peripheral CB2 receptors and not brain CB1 receptors, it might be possible to develop pain medications that don't have the mind-altering side effects associated with cannabinoids.
+•
+Excerpts from "Lav-NevritinaL-RP-7.pdf": This document explains that cannabinoids work by affecting specific receptors in the brain and immune system. It notes that many studies support their use for chronic pain, and that high levels of CB1 receptors in the spinal cord may explain their pain-reducing effects. Peripheral CB2 receptors are thought to be involved in treating inflammatory pain. However, it also cautions about potential short-term side effects like confusion, sleepiness, and gastrointestinal issues, and mentions that their use is heavily regulated.
+•
+Excerpts from "Psychiatry Clin Neurosci - 2022 - Abedini - Efficacy and safety of palmitoylethanolamide as an adjunctive treatment for.pdf": This source indicates that PEA levels increase in the body and brain during nerve injury and inflammation. It also mentions that a study found a link between reduced diversity of gut bacteria and increased PEA in feces, which could be a sign of an "unhealthy" gut microbiome and has been connected to mental health issues like psychosis and depression.
+•
+Excerpts from "S1043661814000656_TEXTextracted.txt": This review discusses endocannabinoid-related fat-based mediators, including PEA, which share similar metabolic processes with endocannabinoids. It explores their roles in normal bodily functions and in common neurological disorders.
+•
+Excerpts from "brainsci-14-00293-v2.pdf": This document states that PEA is a natural molecule found in human tissues, including the brain, and is made "on demand" to restore balance in the body by controlling the overactivity of mast cells. It also highlights that combining PEA with certain plant-based compounds like luteolin results in microcomposites with enhanced brain-protective, anti-inflammatory, and antioxidant effects.
+•
+Excerpts from "can.2016_TEXTextracted.txt": This source discusses the GPR55 receptor, which is considered an unusual cannabinoid receptor and is involved in various bodily processes. However, its specific role in the brain is still not fully understood.
+•
+Excerpts from "fnbeh-05-00057.pdf": This review examines how manipulating the endocannabinoid system in animals affects learning, memory, anxiety, and depression. It notes that drugs that block the breakdown of anandamide (a natural endocannabinoid) can also affect other fat-based molecules like PEA.
+•
+Excerpts from "fnbeh-05-00057.pdf": This document concludes that activating the endocannabinoid system typically interferes with short-term memory and the ability to form new long-term memories. Conversely, blocking the system can improve learning and memory. Interestingly, increasing natural levels of anandamide (a related compound) can enhance learning, likely through PEA and its targets (PPAR-α system).
+•
+Excerpts from "fnbeh-05-00057.pdf": This source suggests that cannabinoid signaling can reduce depression-like and anxiety-like behaviors in laboratory models. These effects are stronger in stressful situations, implying that medications that boost this signaling could be useful for emotional disorders.
+•
+Excerpts from "fnut-07-00017.pdf": This review explains that bioactive lipids, including PEA, are crucial for gut health and how the gut interacts with the brain (the gut-brain axis). These lipids, released "on demand," can have either pro-inflammatory or anti-inflammatory effects on the gut, immune system, and central nervous system, helping to regulate overall balance.
+•
+Excerpts from "fnut-07-00017.pdf": This document describes the endocannabinoid system (eCB) as a complex network of signaling molecules found in many body parts, including the brain, liver, and gut bacteria. Key eCB molecules, AEA and 2-AG, activate cannabinoid receptors (CB1 and CB2). CB1 receptors are mainly in the brain and nerves, affecting sensation, memory, and movement, while CB2 receptors are more in peripheral organs and immune cells.
+•
+Excerpts from "fnut-07-00017.pdf": This source suggests that targeting specific Specialized Pro-resolving Lipid Mediators (SPMs) and the endocannabinoid system (which includes PEA and OEA) could lead to new therapies. This would involve activating beneficial anti-inflammatory lipids or blocking their receptors and enzymes.
+•
+Excerpts from "laviolette-et-al-2017-palmitoylethanolamide-modulates-gpr55-receptor-signaling-in-the-ventral-hippocampus-to-regulate.pdf": This research investigated how PEA, by activating the GPR55 receptor in the ventral hippocampus (a brain region important for memory and emotions), affects the brain's dopamine system. They found that PEA led to increased dopamine activity and caused disruptions in social interaction, recognition memory, and fear memory. These effects were blocked by a GPR55 antagonist, suggesting a specific role for GPR55 signaling.
+•
+Excerpts from "pyu111.pdf": This document states that fat-based molecules like PEA and oleoylethanolamide (OEA) are natural substances in the body with many functions, and they are produced "on demand" when needed.
+•
+Excerpts from "rstb.2011_TEXTextracted.txt": This source considers the potential of natural fatty acid ethanolamides, such as PEA, to treat widespread inflammation or block inflammatory signals from the body's periphery (outside the brain) from reaching the brain.
+•
+Excerpts from "s12035-013-8487-6_TEXTextracted.txt": This document highlights that when PEA is given as a treatment, it has been effective in experimental models of both acute inflammation (like rapid, short-term swelling) and neurogenic inflammation (inflammation involving nerves) that are linked to mast cells. It also has brain-protective effects, such as in models of spinal cord injury, a type of nerve cell death caused by excessive stimulation, and against memory and learning problems induced by a specific amyloid beta protein in mice.
+•
+Excerpts from "s12035-015-9253-8_TEXTextracted.txt": This source suggests that preventing or slowing down the natural breakdown of PEA by targeting specific enzymes could be another way to treat brain inflammation (neuroinflammation).
+•
+Excerpts from "s40122-024-00685-4.pdf": This document reviews how PEA helps manage chronic nerve pain. It emphasizes PEA's anti-inflammatory and pain-relieving effects, particularly through its interaction with the endocannabinoid system and its ability to reduce brain inflammation. It notes that PEA's ability to protect mast cells and glial cells (support cells in the nervous system) is key for both pain relief and treating neurodegenerative diseases. The review also addresses challenges with PEA's absorption and discusses newer formulations designed to improve its effectiveness.
+•
+Excerpts from "s40122-024-00685-4_TEXTextracted.txt": This review summarizes what's been published about PEA's use in chronic nerve pain management over the past 15 years. It details PEA's drug actions, specifically how it affects the body (pharmacodynamics) and how it's processed (pharmacokinetics). The review delves into why PEA is useful for nerve pain and mixed pain, and explores new patented formulations designed to overcome absorption issues and enhance its anti-inflammatory, antioxidant, and pain-relieving effects.
+•
+Excerpts from "s40122-024-00685-4_TEXTextracted.txt": This source mentions that the story of PEA began in the mid-20th century when researchers found this natural substance in egg yolk. Initially, its potential therapeutic uses were not fully explored.
+•
+Excerpts from "s40122-024-00685-4_TEXTextracted.txt": This document explains that research has gradually uncovered how PEA works, including its interaction with cannabinoid type 2 (CB2) receptors and its ability to control mast cell activation, which helps reduce pain. It also notes that PEA affects CB1 receptors and has brain-protective qualities. This broadens PEA's potential beyond just treating symptoms to addressing the root causes of persistent nerve pain.
+2. PEA in Neurodegenerative Diseases (NDDs) & Cognitive Impairment
+This category covers documents focusing on PEA's role in specific neurodegenerative conditions (like Alzheimer's, Parkinson's, Frontotemporal Dementia, Multiple Sclerosis, Amyotrophic Lateral Sclerosis) and general cognitive issues, including Traumatic Brain Injury (TBI) and stroke.
+•
+Excerpts from "1138_TEXTextracted.txt": This document is a study protocol for investigating the long-term oral administration of N-palmitoylethanolamine (a form of PEA) in individuals with mild cognitive impairment (MCI). It highlights PEA's important role in preventing brain inflammation and nerve cell damage caused by amyloid-beta (Aβ), a protein linked to Alzheimer's, in mouse models.
+•
+Excerpts from "1155270_TEXTextracted.txt": This introduction states that Alzheimer's Disease (AD) is the most common brain-wasting dementia, characterized by amyloid-beta buildup, neurofibrillary tangles, and brain inflammation. It suggests that abnormal activity of support cells in the brain (reactive gliosis) is key, and that early treatments combining brain protection with anti-inflammatory effects (like PEA) could be a good approach for AD. PEA is described as a natural molecule produced by these support cells, with known anti-inflammatory and brain-protective effects. The study aims to see if chronic PEA treatment can affect the development of AD in a special mouse model.
+•
+Excerpts from "1155270_TEXTextracted.txt": This source, along with, reports findings from quantitative Magnetic Resonance Spectroscopy (MRS) showing that PEA treatment altered metabolic markers in the brain regions (prefrontal cortex and hippocampus) of AD mice at different ages. These changes suggest PEA's influence on brain chemistry.
+•
+Excerpts from "1155270_TEXTextracted.txt": This document refers to research on how PEA treatment affects the development and progression of Alzheimer's disease in a triple-transgenic mouse model, focusing on changes in metabolism and brain structure.
+•
+Excerpts from "1155275_TEXTextracted.txt": This document emphasizes that Alzheimer's disease is the most common form of dementia in older people, where abnormal brain support cells (reactive gliosis) play a significant role. It suggests that using combined treatments that protect brain cells and reduce inflammation, like PEA, to restore the function of these support cells (astrocytes) could be a suitable approach for AD. PEA, a natural compound made by glial cells, has demonstrated anti-inflammatory and neuroprotective effects, and its ability to improve memory problems in AD rodent models has been shown.
+•
+Excerpts from "1155275_TEXTextracted.txt": This source concludes that its findings demonstrate how AD develops behaviorally and molecularly, and it highlights the therapeutic promise of ultra-micronized PEA (um-PEA) in managing the disease.
+•
+Excerpts from "1161_TEXTextracted.txt": This document explains that Alzheimer's Disease (AD) is characterized by visible brain shrinkage and microscopic signs like amyloid plaques and neurofibrillary tangles. It notes that newer biomarkers (tools to detect disease activity in living individuals) have led to updated understandings of AD, though its clinical progression remains unpredictable.
+•
+Excerpts from "1191_TEXTextracted.txt": This source explains that a large and varied group of diseases are characterized by problems in the brain's white matter, which are any disorders that weaken or change the myelin sheath. Myelin is the protective coating around nerve fibers in the brain, optic nerves, and spinal cord.
+•
+Excerpts from "1191_TEXTextracted.txt": This document explains that cognitive decline isn't just about grey matter; age-related changes in the brain's white matter (myelinated nerve fibers) also contribute. It notes that white matter volume decreases from around age 50, and myelin sheaths show signs of degeneration, including internal "balloons" or cavities that cause swelling.
+•
+Excerpts from "1191_TEXTextracted.txt": This source points out that while Alzheimer's disease was traditionally seen as a "grey matter" disease, advanced brain imaging now clearly shows damage to white matter. Post-mortem and in-vivo studies reveal reduced white matter volume, structural changes, and defects in the myelin's lipid layers.
+•
+Excerpts from "1429799897_SkaperetalCNSND-DT_NeuroinflammationNeurocognitiveDisorders(2014).pdf": This document highlights that inflammation is a key component in neurodegenerative diseases (like Alzheimer's) and certain mental health disorders (like anxiety/depression). It states that immune cells in the brain, such as microglia and mast cells, are crucial players in brain inflammation. When these cells are out of balance, it can affect cognitive performance, and PEA, a natural lipid, can help by modulating these cells, offering a new treatment strategy for cognitive decline.
+•
+Excerpts from "1429799897_SkaperetalCNSND-DT_NeuroinflammationNeurocognitiveDisorders(2014).pdf": This document explains that PEA is produced and broken down by microglia and mast cells, and it helps to control their activity. Studies in mouse models of Alzheimer's disease (AD) showed that PEA reduced memory problems and counteracted abnormal astrocyte activity caused by amyloid-beta. In a mouse model of Parkinson's disease, PEA reduced nerve cell loss and inflammation, and improved motor problems. This suggests PEA helps maintain balance in cells by resolving inflammation.
+•
+Excerpts from "1429799897_SkaperetalCNSND-DT_NeuroinflammationNeurocognitiveDisorders(2014).pdf": This source discusses how a combination of PEA and luteolin (a plant compound) in an ultra-micronized form was more effective than PEA alone in animal models. For instance, in a mouse model of anxiety/depression, this combination showed significant antidepressant effects and promoted brain cell growth and connections. In an ex-vivo (outside a living organism) Alzheimer's disease model, this combination normalized inflammation markers and prevented nerve cell death, whereas PEA or luteolin alone were ineffective.
+•
+Excerpts from "14399_TEXTextracted.txt": This document mentions transient global amnesia, a type of temporary memory loss that is less severe than typical dementias. It usually affects people aged 60 and over and resolves naturally within 12 to 24 hours.
+•
+Excerpts from "1601718_TEXTextracted.txt": This document states that effective drug treatments for dementia and Alzheimer's disease are still unclear. It highlights PEA as an important mediator with pain-relieving, anti-inflammatory, and brain-protective properties, acting on various targets in the central and peripheral nervous systems, as well as immune cells, with a good safety profile. The study mentioned here examines the behavioral effects of long-term PEA administration in Tg2576 mice, an Alzheimer's model.
+•
+Excerpts from "1669443_TEXTextracted.txt": This source confirms that long-term use of PEA helps to prevent cognitive decline in Tg2576 mice, which are a common animal model for Alzheimer's disease.
+•
+Excerpts from "1742-2094-9-49.pdf": This study showed that PEA can prevent brain support cells (astrocytes) from over-multiplying and reduces nerve cell death in lab cultures exposed to amyloid-beta (Aβ), a protein involved in Alzheimer's. It supports the idea that an imbalance of Aβ in the brain is a starting point for AD, leading to damage of nerve connections and nerve cell death.
+•
+Excerpts from "1871527313666140806124322_TEXTextracted.txt": This source identifies Alzheimer’s disease as the most common neurodegenerative disorder, with amyloid-beta fibril deposits (senile plaques) as a key pathological feature. It suggests that brain inflammation plays a significant role in the harmful effects of amyloid-beta in AD.
+•
+Excerpts from "2020.JAD.uncorrected+proofs.pdf": This document describes a study investigating the effects of PEA combined with luteolin (PEA-LUT) on behavior, cognitive function, and brain activity in patients with Frontotemporal Dementia (FTD). It specifies that patients underwent cognitive and neurophysiological tests before and after four weeks of PEA-LUT treatment at a dose of 700 mg twice daily.
+•
+Excerpts from "2403493_TEXTextracted.txt": This source notes that PEA has different protective effects against damage caused by amyloid-beta (Aβ42) in lab-grown nerve cells and astrocytes from different types of mice. Specifically, PEA showed protective effects in normal mouse nerve cells but not in nerve cells from AD mice that produced too much Aβ.
+•
+Excerpts from "2584_TEXTextracted.txt": This review explains that cognitive dysfunction syndrome in dogs and cats is a common neurodegenerative disorder in older animals, serving as a natural model for human Alzheimer's disease. It highlights that brain inflammation can contribute to nerve cell degeneration. The document discusses the potential benefits of PEA as a dietary intervention to rebalance this inflammation and protect brain cells. PEA can work directly by activating specific receptors (GPR55 and PPAR-α), which can reduce signs of age-related cognitive problems. It can also indirectly boost the effects of other natural endocannabinoids, improving memory processes.
+•
+Excerpts from "2584_TEXTextracted.txt": This source states that age-related cognitive decline in pets, particularly Canine Cognitive Dysfunction Syndrome (CCDS), is a significant area of interest due to its strong similarities with human Alzheimer's disease. CCDS is broadly defined and includes conditions like hyperaggressiveness, confusional syndrome, involutive depression, and dysthymia in older dogs.
+•
+Excerpts from "2584_TEXTextracted.txt": This document clarifies that a definitive diagnosis of Cognitive Dysfunction Syndrome (CDS) in pets can only be made after death, through microscopic examination of the brain. A presumptive diagnosis relies on the pet's medical history and observable behavioral signs, and it's crucial to rule out other medical conditions that might mimic CDS. Several questionnaires have been developed to aid in CDS diagnosis.
+•
+Excerpts from "2584_TEXTextracted.txt": This source indicates that mild cognitive impairment (MCI) was found in 13% to 28% of dogs aged 8–12 years, and in an even higher percentage (41% to 68%) of dogs 13 years and older. This was based on a diagnostic classification system that considers clinical signs across different categories.
+•
+Excerpts from "293_TEXTextracted.txt": This document defines Subjective Cognitive Impairment (SCI), also known as "brain fog," as a self-reported decline in cognitive abilities (like concentration or problem-solving) compared to prior functioning, without strict diagnostic cutoffs. It suggests that PEA and luteolin are promising agents for combating brain inflammation. An exploratory comparison within the study showed similar cognitive improvements whether patients received PEA alone or PEA with corticosteroids, which supports the idea that long-term COVID-19 neurological issues might be linked to inflammation, and that modulating this inflammation is important.
+•
+Excerpts from "297_TEXTextracted.txt": This document states that Traumatic Brain Injury (TBI) typically impairs brain functions such as executive actions, cognitive abilities, memory processing, and language. Animal models are used to study TBI and find new treatments. Historically, TBI treatment focused mainly on protecting neurons, but recent literature emphasizes the importance of also considering damage to blood vessel lining (endothelial cells) and other precursor cells.
+•
+Excerpts from "4845_TEXTextracted.txt": This study reports that a modified form of PEA, N-Palmitoylethanolamide-Oxazoline (PEA-OXA), protects against brain injury (middle cerebral artery occlusion, MCAo) in diabetic rats by affecting a specific pathway (SIRT1). It notes that many brain-protective and anti-inflammatory compounds haven't been very successful in stroke models, possibly because they only protect nerve cells and don't shield brain blood vessels from inflammation and harmful reactive molecules.
+•
+Excerpts from "4845_TEXTextracted.txt": This document shows that histological analysis (studying tissue under a microscope) revealed PEA-OXA significantly improved neurological injuries caused by MCAo compared to regular PEA at the same dose. It also noted an effect on mast cell degranulation (release of substances from mast cells) in the injured tissue.
+•
+Excerpts from "509_TEXTextracted.txt": This document describes acute ischemic stroke (AIS) as a major cause of brain damage due to reduced blood supply and a prolonged inflammatory process. It introduces co-ultramicronized PEA and luteolin (PEALut) as a promising nutritional strategy to resolve brain inflammation occurring in AIS, suggesting it can help counteract the inflammatory processes that worsen brain damage after a stroke.
+•
+Excerpts from "509_TEXTextracted.txt": This source reports that PEALut has shown brain-protective effects in animal stroke models and has improved neurological status, spasticity (muscle stiffness), cognitive abilities, pain, and independence in daily activities in 250 human stroke patients after just 30 days of treatment. It also notes that cognitive impairment affects over 40% of stroke survivors, with most cognitive improvements occurring within the first three months after a stroke.
+•
+Excerpts from "667_TEXTextracted.txt": This document serves as a review of PEA's effects on neurodegenerative diseases, covering both animal and human studies. It highlights PEA's brain-protective, anti-inflammatory, and pain-relieving functions.
+•
+Excerpts from "8052642_TEXTextracted.txt": This document explains that Frontotemporal Dementia (FTD) is a complex disorder mainly affecting the frontal and/or temporal lobes of the brain. It manifests as problems with executive functions (like planning), language difficulties, or changes in behavior and personality.
+•
+Excerpts from "8052642_TEXTextracted.txt": This study concludes that PEA treatment for FTD is safe and may help slow down the progression of the disease, functional decline, and language deterioration. It calls for further multi-center studies to confirm its effectiveness and better understand how it works.
+•
+Excerpts from "British J Pharmacology - 2016 - Petrosino - The pharmacology of palmitoylethanolamide and first data on the therapeutic.pdf": This section discusses how neurodegenerative diseases like Alzheimer's, Parkinson's, multiple sclerosis (MS), and amyotrophic lateral sclerosis (ALS) are characterized by the gradual and selective death of nerve cells. This cell death leads to a progressive loss of nervous system functions, resulting in cognitive problems, dementia, behavioral issues, motor abnormalities, or paralysis.
+•
+Excerpts from "Dialnet-SystematicReviewOfNeuroprotectiveActionsOfTheECPIn-10142941.pdf": This is a systematic review that aims to analyze how PEA protects against nerve cell damage and inflammation in a specific mouse brain cell line (HT-22 hippocampal neurons) subjected to oxygen deprivation and reoxygenation. The goal is to apply these findings to patients with neurodegenerative diseases like Alzheimer's and Parkinson's. The review suggests that PEA, especially with antioxidant supplements, provides significant brain protection, influences immune signaling, and reduces acetylcholine levels. It concludes that PEA contributes to preventing cognitive neurological damage, including memory preservation.
+•
+Excerpts from "Dialnet-SystematicReviewOfNeuroprotectiveActionsOfTheECPIn-10142941.pdf": This document reports that among the human studies reviewed, Alzheimer's and Parkinson's diseases were each studied in two investigations, while Frontotemporal Dementia and Amyotrophic Lateral Sclerosis were each explored in one study.
+•
+Excerpts from "JAD-143039_TEXTextracted.txt": This study investigates the different effects of PEA against amyloid-beta-induced toxicity in lab-grown brain cells (cortical neurons and astrocytes) from both normal and Alzheimer's disease model mice. It proposes that a treatment approach focusing on both brain protection and reducing brain inflammation could be effective for Alzheimer's disease, given its varied pathological changes.
+•
+Excerpts from "JAD-170699_TEXTextracted.txt": This research shows that PEA can reduce the activation of astrocytes (brain support cells) caused by amyloid-beta (Aβ42) and improve the survival of nerve cells in lab-grown co-cultures of astrocytes and neurons. It suggests that astrocyte problems might contribute to brain inflammation and neurodegeneration.
+•
+Excerpts from "JAD-200426_TEXTextracted.txt": This document describes a study (also referenced in) that explores the effects of PEA combined with luteolin (PEA-LUT) on behavior and brain activity in patients diagnosed with Frontotemporal Dementia (FTD).
+•
+Excerpts from "JAD143039.pdf": This document states that Alzheimer's disease (AD) pathology is marked by extracellular amyloid plaques (surrounded by activated microglia, reactive astrocytes, and degenerating neurons) and intracellular neurofibrillary tangles (caused by abnormal tau protein).
+•
+Excerpts from "S0022093022020132_TEXTextracted.txt": This source mentions PEA and other endocannabinoids in the context of a lithium-pilocarpine model of temporal lobe epilepsy, as well as the destruction of nerve tissue in the hippocampus and the abnormal sprouting of mossy fibers.
+•
+Excerpts from "S0889159112002048_TEXTextracted.txt": This document highlights that Traumatic Brain Injury (TBI) is a major cause of death and disability worldwide. It explains that the initial mechanical injury to the brain leads to problems with the blood-brain barrier, swelling in the brain, and increased pressure inside the skull. The subsequent "secondary injury" involves an inflammatory response and the release of harmful substances (cytokines), leading to further nerve cell death. This study shows that PEA helps protect the brain's blood vessels and reduces this secondary injury after TBI in mice.
+•
+Excerpts from "biof_TEXTextracted.txt": This review explains that brain inflammation leads to brain degeneration, cognitive problems, and neurodegenerative disorders. Traumatic brain injury (TBI) can activate brain support cells (glial cells) and immune cells, causing them to release inflammatory substances. Luteolin, a plant compound, is reviewed for its brain-protective effects in TBI and neurodegenerative disorders, particularly by suppressing immune cell activation (like mast cells) and inflammatory mediators.
+•
+Excerpts from "biomolecules-11-00600-v2.pdf": This document notes that existing treatments for Alzheimer's disease (AD) are not cures, and many clinical trials have failed, prompting a search for new approaches like targeting astrocytes (brain support cells). It suggests that PEA's unique ability to modulate astrocytes based on their state makes it a potential therapeutic agent that could modify the disease's course in AD. It also mentions that neurofibrillary tangles, made of hyperphosphorylated tau proteins, cause changes in nerve cell structure.
+•
+Excerpts from "brainsci-14-00293-v2.pdf": This source reports on an exploratory study showing that patients who had neurological symptoms after COVID-19 and were treated with co-ultraPEALut (PEA combined with luteolin) experienced objective and subjective improvements in cognitive function, with statistically significant improvements in memory and general cognitive assessments. Control patients also improved, but less noticeably.
+•
+Excerpts from "brainsci-14-00293-v2.pdf": This document concludes that co-ultraPEALut is beneficial for subjective cognitive impairment (brain fog) following SARS-CoV-2 infection. This supports the idea that brain inflammation might be a key cause of "long COVID" neurological issues, and highlights the importance of treatments that manage this inflammation.
+•
+Excerpts from "cddis2014376_TEXTextracted.txt": This document states that Alzheimer's disease is characterized by progressive dementia, affecting memory and other cognitive skills. It emphasizes that beyond plaques and tangles, amyloid-beta fragments trigger a strong brain inflammatory response, producing various inflammatory substances.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This is a systematic review examining the therapeutic effects of PEA in cognitive decline. Its goal is to clarify PEA's role in neurocognitive disorders (NCDs) and cognitive decline by synthesizing all available clinical and preclinical data. The review suggests that PEA could be a valuable treatment option to prevent neurodegeneration and support the body's natural repair processes against disease progression.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This document mentions studies that show PEA, when added to standard treatment, improves memory and cognitive function in patients with traumatic brain injury (TBI).
+•
+Excerpts from "fpsyt-13-1038122.pdf": This document refers to studies showing that PEA treatment in rats counteracts abnormal glial cell activity and amyloid-beta (Aβ) buildup caused by Aβ. It also improves nerve cell health after Aβ exposure and, when given early, prevents increased glial cell activity, higher levels of inflammatory genes and enzymes, and improves nerve cell survival in the hippocampus of AD rats.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This source refers to studies that assessed PEA's brain-protective and behavioral effects in rats with middle cerebral artery occlusion (MCAo), a model of stroke. The evaluations included motor behavior, brain tissue damage, and astrocyte activation.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This document cites studies that investigated PEA's anti-inflammatory and brain-protective effects in mice with vascular dementia (VaD). These studies found that endogenous (naturally occurring) PEA levels decrease after VaD onset, and PEA administration can increase these levels, improving memory and cognition and affecting brain function.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This document refers to studies assessing PEA's anti-inflammatory and brain-protective effects in AD mice. These studies evaluated memory, cognition, neuroinflammation, neuroprotective factors, and glutamate levels in the hippocampus, finding that PEA improved cognitive function.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This document states that PEA administration improves spatial memory and working memory in mice with spared nerve injury (SNI).
+•
+Excerpts from "jcm-09-00428-v2.pdf": This study evaluated the brain-protective and antioxidant effects of chronic oral ultra-micronized PEA (um-PEA) in an animal model of Alzheimer's disease (3xTg-AD mice). The results showed that um-PEA was absorbed into the brain, improved cognitive deficits, reduced brain inflammation and oxidative stress, and lowered high glutamate levels in the hippocampus. The authors emphasize that since PEA is already approved for human use, these findings support its rapid translation into clinical practice. The document also notes that AD is the most common neurodegenerative disorder, causing progressive loss of mental abilities, functional decline, and behavioral problems.
+•
+Excerpts from "jcm-13-00509.pdf": This document explains that stroke is a leading cause of death and disability, with acute ischemic stroke (AIS) being the most common type. The brain's response to ischemic injury involves a rapid and prolonged inflammatory process, activating support cells (microglia, astrocytes) and releasing inflammatory substances, which worsens brain damage. It states that PEA, a natural lipid found in the brain, is released "on demand" during injury to counteract damage. PEA works by modulating mast cells and microglia, protecting nerve cells from over-excitation, reducing tissue inflammation, and providing neuroprotection.
+•
+Excerpts from "laviolette-et-al-2017-palmitoylethanolamide-modulates-gpr55-receptor-signaling-in-the-ventral-hippocampus-to-regulate.pdf": This document describes research on how PEA influences signaling at the GPR55 receptor in the ventral hippocampus (a brain area crucial for cognition and emotion). It found that PEA affects the brain's dopamine system and can disrupt social interaction, recognition memory, and spatial memory.
+•
+Excerpts from "npp201225.pdf": This document describes the brain-protective effects of PEA in mice injected with amyloid-beta 25–35 (Aβ25–35), a protein fragment linked to Alzheimer's disease. It notes that Aβ accumulation, abnormal tau protein (neurofibrillary tangles), and brain inflammation are the main processes that together lead to memory problems and cognitive decline.
+•
+Excerpts from "s00213-018-4982-9_TEXTextracted.txt": This source mentions that delayed low oxygen levels in the brain after a traumatic brain injury can worsen long-term behavioral problems.
+•
+Excerpts from "s12035-024-04073-z_TEXTextracted.txt": This review discusses that cognitive impairment is a frequent co-occurring condition with chronic pain, significantly reducing patients' quality of life. It explores the cellular and molecular changes linked to pain-induced cognitive problems, including alterations in nerve cell activity and structure, connections between nerve cells, glial cells and immune signaling molecules (cytokines), neurotransmitters, and the gut-brain connection. The document also touches on potential treatment strategies.
+•
+Excerpts from "s12975-015-0440-8_TEXTextracted.txt": This document describes a study on co-ultramicronized PEA/luteolin (PEALut) in treating cerebral ischemia (stroke). It reports significant improvements in neurological status, cognitive abilities, muscle spasticity, and independence in daily activities in human stroke patients. Acute ischemic stroke, the leading cause of disability, involves oxidative stress and inflammation. PEALut showed brain-protective effects by reducing damaged brain tissue size and preventing cell death (apoptosis), and it also modified astrocyte activity.
+•
+Excerpts from "s12975-015-0440-8_TEXTextracted.txt": This source reports that most stroke patients (84%) in the study were undergoing rehabilitation, either as inpatients or outpatients.
+•
+Excerpts from "s40122-019-0111-7.pdf": This review addresses chronic pain in elderly individuals with cognitive impairment, noting that severe cognitive decline can make it difficult for patients to express pain verbally. It suggests that standard self-assessment pain scales may not be reliable in such cases. Treatment should consider the older patient's physiological changes, multiple co-existing health conditions, and potential drug interactions. The document highlights that brain changes in Alzheimer's disease and loss of communication can lead to pain being underestimated and undertreated. In severe dementia, observing non-verbal pain behaviors is crucial.
+•
+Excerpts from "s41398-017-0076-4_TEXTextracted.txt": This research demonstrates that ultra-micronized PEA improves learning and memory problems in a triple-transgenic mouse model of Alzheimer's disease by providing anti-inflammatory and brain-protective effects. It notes that Alzheimer's disease poses a growing health and economic burden in aging societies.
+•
+Excerpts from "s41398-017-0076-4_TEXTextracted.txt": This document presents data from western blots (to measure protein levels) and densitometric analyses of GFAP and S100B proteins (markers of brain support cells) in the hippocampi of Alzheimer's disease mice. It also shows results from cytokine arrays (to measure inflammatory molecules like IL-16, IL-5, M-CSF, MCP-5) and RT-PCR (for IL-10), indicating PEA's effects on brain inflammation.
+•
+Excerpts from "skaper-et-al-the-aliamide-palmitoylethanolamide-and-cannabinoids-but-not-anandamide-are-protective-in-a-delayed.pdf": This study reports that PEA, unlike anandamide (a related compound), protected cultured mouse cerebellar neurons from toxicity caused by glutamate (an excitatory neurotransmitter). PEA reduced this damage in a dose-dependent manner and was most effective when given shortly after glutamate exposure. Cannabinoids also showed protective effects in this model. The findings suggest that a specific type of cannabinoid receptor (CB2-like) may help regulate harmful cellular processes in the nervous and immune systems.
+•
+Excerpts from "srep16676_TEXTextracted.txt": This source indicates that co-ultramicronized PEA/luteolin helps in the development of both maturing and immature oligodendrocyte progenitor cells in rats. Oligodendrocytes are cells responsible for forming myelin, the protective sheath around nerve fibers in the brain.
+•
+Excerpts from "v1_TEXTextracted.txt": This document mentions the Italian guideline on the diagnosis and treatment of dementia and mild cognitive impairment.
+3. PEA in Pain Management
+This category focuses on documents specifically addressing PEA's use in various pain conditions, including chronic, neuropathic, orofacial, fibromyalgia, and migraine.
+•
+Excerpts from "101_TEXTextracted.txt": This document describes studies that investigated the effects of PEA in animal models of epilepsy and acute seizures. These studies used different methods, including various animal types, ways of administration, exposure times, PEA dosages, and models for the conditions (chemical, electrical, or genetic stimulation).
+•
+Excerpts from "1271_TEXTextracted.txt": This document provides a table summarizing the clinical use of ultra-micronized PEA (umPEA), including recommended dosages and observed outcomes for various conditions. These conditions include neuropathic pain (peripheral, diabetic, sciatic), fibromyalgia, sciatica and low back pain, pelvic pain (including endometriosis), osteoarthritis, migraine and primary headache, neurodegenerative disorders (Alzheimer's, Parkinson's), and postoperative pain. The table also lists proposed mechanisms of action, such as anti-inflammatory effects, mast cell stabilization, and glial modulation.
+•
+Excerpts from "1653_TEXTextracted.txt": This document describes a systematic review and meta-analysis aiming to quantify the improvement provided by PEA in various chronic pain conditions. The search adhered to PRISMA guidelines, using keywords like "micronized Palmitoylethanolamide," "ultra-micronized Palmitoylethanolamide," and specific types of chronic pain.
+•
+Excerpts from "1653_TEXTextracted.txt": This table presents summary results showing a reduction in pain severity (NRS/VAS score) over different time points (T0 to T60).
+•
+Excerpts from "1672_TEXTextracted.txt": This source mentions that several studies were excluded from a meta-analysis because they did not specifically investigate PEA's effect on nociceptive musculoskeletal and neuropathic pain, instead focusing on conditions like endometriotic/pelvic pain, mouth pain, or irritable bowel syndrome.
+•
+Excerpts from "1672_TEXTextracted.txt": This document states that eight studies that qualified for meta-analysis were grouped and analyzed according to Cochrane guidelines. It summarizes their main features, including study design, exposure, assessment methods, and bias risk.
+•
+Excerpts from "1672_TEXTextracted.txt": This source reports that a systematic search initially yielded 2022 results, but only ten met the inclusion criteria. Of these, eight had comparable primary outcomes related to pain intensity reduction and were included in the meta-analysis.
+•
+Excerpts from "1672_TEXTextracted.txt": This source mentions a meta-analysis specifically on the effectiveness of PEA for pain.
+•
+Excerpts from "1757_TEXTextracted.txt": This image shows the effects of PEA on discriminative memory in mice with or without spared nerve injury (SNI), a model often used to study neuropathic pain.
+•
+Excerpts from "1871527318666190227205359_TEXTextracted.txt": This abstract describes fibromyalgia syndrome as a chronic and complex condition characterized by widespread pain, muscle stiffness, unrefreshing sleep, and cognitive problems.
+•
+Excerpts from "1873_TEXTextracted.txt": This document includes images showing the basic structure and treatment setups for DRG (dorsal root ganglia) neurons in a laboratory setting. It also references a study indicating that PEA can help restore normal nerve fiber function in patients experiencing painful neuropathy caused by chemotherapy.
+•
+Excerpts from "2785_TEXTextracted.txt": This document suggests that nutraceuticals (like PEA) could be a valuable alternative to multiple drug treatments for chronic pain conditions and fibromyalgia (FM). This is particularly relevant because standard therapies often struggle to control these conditions adequately and can have many side effects.
+•
+Excerpts from "3701_TEXTextracted.txt": This document explains that PEA works directly on specific cell receptors (PPAR-α and GPR55) and indirectly, through an "entourage effect," on other receptors (CB1, CB2, and TRPV1). It also highlights that both PEA and luteolin are powerful antioxidants and brain-protective agents. Many preclinical studies have shown PEA's effectiveness in various diseases that all share the problem of ongoing, unresolved inflammation in the nervous system.
+•
+Excerpts from "3701_TEXTextracted.txt": This source details the Pain Detect Questionnaire (PD-Q), a validated tool used to identify and monitor neuropathic pain. It assesses pain intensity (current, strongest, mean), pain pattern, radiating pain, and seven sensory symptoms (like tingling, electric shock, numbness) on a 0-5 scale to calculate a total score.
+•
+Excerpts from "5330_TEXTextracted.txt": This document explains that neuropathic pain results from damage or disease of the somatosensory nervous system and is generally hard to treat. It clarifies that pain can be classified by duration (acute/chronic), location (deep/superficial/visceral), or cause (cancer). The main distinction is between neuropathic and nociceptive pain, which is important for guiding treatment. Neuropathic pain is further divided into central and peripheral types based on the injury's location.
+•
+Excerpts from "5330_TEXTextracted.txt": This document provides an update on ALIAmides, specifically PEA and its formulations, in the management of peripheral neuropathic pain.
+•
+Excerpts from "5503_TEXTextracted.txt": This source defines neuropathic pain as "pain caused by an injury or disease of the somatosensory nervous system". It explains that damage to nerve fibers, either peripheral or central, can disrupt or alter pain signals, leading to this type of pain.
+•
+Excerpts from "600_TEXTextracted.txt": This review found that PEA treatment was significantly effective in reducing abdominal pain severity in Irritable Bowel Syndrome (IBS). It also noted that PEA is a nutritional compound capable of reducing the activation of mast cells, which are involved in IBS.
+•
+Excerpts from "952_TEXTextracted.txt": This paper discusses the role of non-nerve cells in pain signaling and reviews many studies on PEA's effects in chronic inflammatory and neuropathic pain. It suggests that micro-PEA (micronized PEA) has a place in the dietary management of chronic pain in dogs and cats. The document also categorizes pain into transient, acute, inflammatory, neuropathic, and functional types.
+•
+Excerpts from "952_TEXTextracted.txt": This figure illustrates the four different types of pain based on their cause: nociceptive, inflammatory, neuropathic, and functional pain. It also explains that when spinal microglia and mast cells become overactive, they release many substances that can cause chronic nerve hypersensitivity (central sensitization) and lead to neuropathic pain.
+•
+Excerpts from "952_TEXTextracted.txt": This chart compares mast cells and microglia, two types of immune-inflammatory cells involved in pain. It outlines their characteristics: mast cells are resident immune cells found in most tissues, especially near sensory nerves, and release mediators quickly in response to stimuli, involved in inflammatory and neuropathic pain. Microglia are resident brain and spinal cord immune cells that activate in response to stress and release pro-inflammatory substances, primarily involved in neuropathic pain.
+•
+Excerpts from "952_TEXTextracted.txt": This table summarizes human clinical trials using micro-PEA (micronized or ultra-micronized PEA) for chronic neuropathic pain. It highlights significant pain reduction in patients with sciatic pain and relief for diabetic neuropathy pain associated with carpal tunnel syndrome.
+•
+Excerpts from "Add-on administration of ultramicronized palmitoylethanolamide in the treatment of new-onset burning mouth syndrome.pdf": This document references a study on the use of PEA for patients with non-surgical lumbar radiculopathy (nerve root pain in the lower back).
+•
+Excerpts from "Jagger et.al 98 Pain & Inflammation_ Pain.pdf": This section details the formalin test, a well-established animal model used to study persistent body pain. It involves injecting formalin into a rat's hind paw and observing their pain behaviors over time to quantify the nociceptive (pain) response.
+•
+Excerpts from "Jagger et.al 98 Pain & Inflammation_ Pain.pdf": This document reports that PEA significantly reduced the pain behavior in the second phase of the formalin test in rats at doses of 5 and 10 mg/kg.
+•
+Excerpts from "Lav-NevritinaL-RP-7.pdf": This source cites a meta-analysis on the efficacy of PEA for pain.
+•
+Excerpts from "fnut-1-1560654.pdf": This document describes a double-blind, randomized controlled trial investigating a formulation of hydrodispersible PEA and melatonin (PEATONIDE®) for migraine management. Patients self-administered the treatment or placebo orally every evening for three months. The main goal was to assess migraine frequency, while secondary goals included reducing intensity, duration, disability, analgesic use, and associated symptoms.
+•
+Excerpts from "fnut-1-1560654.pdf": This source reports that 60 patients (equal numbers of women and men, average age 42.5 years) with diagnosed episodic migraine were recruited for the PEATONIDE® study.
+•
+Excerpts from "fnut-1-1560654.pdf": This document suggests that the observed reductions in migraine frequency, duration, intensity, disability, and symptoms directly lead to a decrease in the overall burden of migraine and an improvement in patients' quality of life.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This document notes that although PEA has been tested in various conditions, more research is needed to fully understand its relevance for different cognitive decline presentations.
+•
+Excerpts from "pharmaceutics-15-01193.pdf": This document reviews the potential benefits of PEA in managing orofacial pain, which includes various acute (like pulpitis, post-surgery) and chronic conditions (like periodontitis, muscle pain, temporomandibular joint disorders, burning mouth syndrome (BMS), oral lichen planus (OLP)). PEA is highlighted as a naturally occurring fat-based mediator with anti-inflammatory, pain-relieving, antimicrobial, and brain-protective properties, making it interesting for dental applications.
+•
+Excerpts from "pharmaceutics-15-01193.pdf": This source states that PEA has shown therapeutic benefits in many disorders, including chronic pain, neurodegeneration, and inflammation. In the dental field, it's noted that adding PEA-containing supplements to standard periodontal disease treatment seems to improve clinical and inflammatory markers, as well as reduce pain after treatment. For Burning Mouth Syndrome (BMS), PEA provided significant benefits in reducing the burning sensation and its intensity.
+•
+Excerpts from "pharmaceutics-15-01193.pdf": This document mentions several other natural plant agents (like Ficus, Kebergia, Eremostachys, Perovskia, Aesculus hippocastanum, and Scutellaria baicalensis) that have shown promising pharmacological activities, often possessing anti-inflammatory and antioxidant properties, and are sometimes found in combination with PEA.
+•
+Excerpts from "s13041-015-0139-5_TEXTextracted.txt": This document describes how PEA reduces pain-related behaviors and restores the balance of nerve cell connections (glutamatergic synapses) in the medial prefrontal cortex of neuropathic mice. This suggests PEA's role in modulating nerve pain at a fundamental brain level.
+•
+Excerpts from "s13063-016-1496-9.pdf": This document outlines a study design using "N-of-1 trials" to test the effectiveness of ultra-micronized PEA (um-PEA) for chronic pain in individual geriatric patients. The goal is to help clinicians make decisions about long-term treatment for that specific patient. The primary measure for combining results across trials (meta-analysis) will be daily pain intensity, with secondary measures including daily analgesic use and impact on daily activities.
+•
+Excerpts from "s13063-016-1496-9.pdf": This source details the assessment tools for the N-of-1 pain trials: daily pain intensity is measured using an 11-point visual numeric scale (0-10), with supporting labels and pictures. Patients or caregivers also record their daily use of pain medications. The impact of pain on daily activities is assessed weekly using a modified questionnaire.
+•
+Excerpts from "s40122-015-0038-6_TEXTextracted.txt": This document notes that fibromyalgia syndrome is a widespread rheumatic disease, often underestimated and underdiagnosed, affecting 2% to 4% of the general population, with a clear majority being females.
+•
+Excerpts from "s40122-024-00685-4.pdf": This document explains that PEA, a fat-based molecule known for its anti-inflammatory and pain-relieving effects, has undergone significant development from its initial discovery to its current recognition as a therapeutic component for managing chronic nerve pain.
+•
+Excerpts from "s40122-024-00685-4_TEXTextracted.txt": This document emphasizes that PEA's interactions with cannabinoid receptors and its protective effects on mast cells and glial cells (support cells in the brain and nerves) are crucial for both pain relief and addressing neurodegenerative diseases.
+•
+Excerpts from "s40122-024-00685-4_TEXTextracted.txt": This document is a narrative review summarizing the role of PEA in managing chronic neuropathic pain, covering its pharmacological properties and usefulness for both neuropathic and mixed pain conditions.
+4. PEA in Mental Health & Psychosis
+This category includes documents focusing on PEA's role in conditions like Autism Spectrum Disorder (ASD), depression, anxiety, and psychosis.
+•
+Excerpts from "1346_TEXTextracted.txt": This document states that the causes of Autism Spectrum Disorder (ASD) are not fully understood, but problems with inflammation and glutamate signaling (a brain chemical) have been observed. This has led to research on molecules like PEA that target these systems for ASD treatment. The document describes a systematic review that included human and animal studies on PEA's effects in ASD.
+•
+Excerpts from "1346_TEXTextracted.txt": This document mentions studies that explored PEA's effect on neuronal damage in animals after birth, and how repeated stress and exposure to cannabinoids affect brain levels of endocannabinoids and other related compounds.
+•
+Excerpts from "20_TEXTextracted.txt": This source points out that mental health conditions frequently co-occur with Autism Spectrum Disorder (ASD), posing a major challenge for doctors. This is because treatments that work for people without ASD often have mixed results in the ASD population.
+•
+Excerpts from "20_TEXTextracted.txt": This document outlines a multi-phase study (screening, feasibility, extension) involving various clinical assessments and scales for patients with Autism Spectrum Disorder (ASD), including detailed psychiatric and neuropsychological evaluations. It also mentions monitoring inflammation biomarkers and the gut microbiome.
+•
+Excerpts from "293_TEXTextracted.txt": This source highlights that numerous publications have shown PEA's effectiveness in various diseases that, despite having different causes, share a common problem: ongoing, unresolved inflammation in the nervous system.
+•
+Excerpts from "673578_TEXTextracted.txt": This document describes studies that investigated whether oleoylethanolamide (OEA) and palmitoylethanolamide (PEA) could reduce brain inflammation and stress responses (like HPA axis activation and anhedonia, or loss of pleasure) caused by a bacterial toxin (lipopolysaccharide, LPS) in rats. They found that LPS increased inflammatory signals and markers of oxidative stress in the frontal cortex.
+•
+Excerpts from "adt.2018_TEXTextracted.txt": This review discusses plant-based drugs for psychiatric disorders, including their potential use in Autism Spectrum Disorders (ASDs). It notes that many findings are from small studies or case reports, emphasizing the need for larger clinical trials to confirm safety and effectiveness. It also lists "co-ultramicronized N-Palmitoylethanolamide-Luteolin (co-ultraPEA-LUT)" as an abbreviation used in this field.
+•
+Excerpts from "bph_TEXTextracted.txt": This document mentions research findings in clinical neuroscience, particularly related to mood and anxiety disorders.
+•
+Excerpts from "fcaf080.pdf": This table provides baseline characteristics of patients, including various psychiatric and cognitive assessment scores like NPI (Neuropsychiatric Inventory), SAND (Screening for Aphasia in Neurodegeneration), FBI (Frontal Behavioral Inventory), and ACE-R (Addenbrooke’s Cognitive Examination Revised).
+•
+Excerpts from "fnbeh-05-00057.pdf": This editorial focuses on new challenges and future directions in understanding and treating conditions that affect behavior, emphasizing the underlying biological mechanisms.
+•
+Excerpts from "fphar-09-00998.pdf": This document notes that neurosteroids (steroids produced in the brain) and the endocannabinoid system are becoming increasingly recognized in the study of various disorders. It specifically highlights that psychiatric conditions like Post-Traumatic Stress Disorder (PTSD) are linked to changes in the availability of these natural brain chemicals, which may be related to co-occurring cognitive decline, brain inflammation, and neurodegenerative disorders.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This systematic review aimed to collect and discuss all available clinical and preclinical data on PEA's role in psychosis (both non-affective and affective types). It suggests that PEA's effects on brain inflammation and glutamate signaling might explain its potential clinical usefulness in psychosis.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This document reports that a comprehensive initial search for studies on PEA and psychosis yielded 418 results, with 13 ultimately selected for detailed systematic analysis after screening. These included studies involving both human patients and animal models, investigating different aspects of PEA's signaling pathway.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This table summarizes clinical and preclinical studies investigating the link between PEA and psychotic disorders. It includes findings on PEA levels in schizophrenia patients (both in plasma and brain tissue) and other endocannabinoids/acylethanolamines. For example, it notes that PEA brain tissue levels were lower in schizophrenia patients compared to controls.
+•
+Excerpts from "pcn_TEXTextracted.txt": This source mentions that the "prevalence and burden of bipolar disorder" were assessed as part of the global burden of disease study in 2013.
+•
+Excerpts from "pcn_TEXTextracted.txt": This document highlights the potential of the endocannabinoid system for developing a new class of antidepressant medications.
+•
+Excerpts from "pyu111.pdf": This document reports that lipopolysaccharide (LPS), a bacterial toxin, increased markers of oxidative stress (nitrites) in the frontal cortex of rats.
+•
+Excerpts from "s12916-024-03248-8.pdf": This exploratory study examined the relationship between levels of endocannabinoids (AEA, 2-AG) and related compounds (2-OG, OEA, PEA) in the blood, and the severity of depression. It found that serum levels of 2-AG, AEA, and PEA, along with other markers, were positively linked to depression.
+•
+Excerpts from "s12916-024-03248-8_TEXTextracted.txt": This document outlines the psychiatric assessment tools used in the study to evaluate the presence and severity of depressive symptoms in individuals, including the Montgomery–Åsberg Depression Rating Scale, Clinical Global Impression-Severity of Illness (CGI-S), and the Beck Depression Inventory—Second Edition (BDI-II).
+•
+Excerpts from "s12916-024-03248-8_TEXTextracted.txt": This source indicates that the BDI-II, CGI-Severity of illness, and OEA (oleoylethanolamide) were the most important factors in categorizing different groups of patients.
+•
+Excerpts from "s40501-024-00327-8.pdf": This review highlights that many current medications for bipolar disorder (BD) were discovered by chance and are grouped empirically, without a clear link to specific brain chemical systems. It proposes organizing new experimental drugs based on how they affect neurotransmitter systems to improve the development of BD treatments.
+•
+Excerpts from "s40501-024-00327-8.pdf": This document summarizes the findings from 11 randomized controlled trials that investigated various substances, including PEA, for acute mania/hypomania in adult bipolar disorder patients.
+•
+Excerpts from "s40501-024-00327-8.pdf": This review concludes that PEA, when used as an add-on treatment, alongside melatonin and levetiracetam, and clonidine, showed statistically significant reductions in manic symptoms in bipolar disorder patients.
+5. Methodology & Study Design
+This category encompasses documents that primarily describe research methods, experimental procedures, or data analysis techniques, rather than specific findings about PEA's effects.
+•
+Excerpts from "027681.pdf": This document outlines the detailed steps for preparing tissue samples for study. It involves cleaning tissues, then fixing them with formaldehyde solution to preserve them. Brains are carefully removed, further fixed, and then cut into very thin (40-μm-thick) sections for storage. This preparation is crucial for later immunohistochemical procedures to look for markers of brain inflammation and abnormal astrocyte activity.
+•
+Excerpts from "101_TEXTextracted.txt": This source displays a PRISMA flowchart, which is a visual guide illustrating the systematic search strategy used for a review.
+•
+Excerpts from "101_TEXTextracted.txt": This section details the study selection process for a systematic review. Out of 52 initial records, articles like other reviews were excluded, and a three-step screening process narrowed down the list to eight studies for final analysis. No human studies met the criteria, and all included studies focused on the palmitoylethanolamide signaling pathway.
+•
+Excerpts from "101_TEXTextracted.txt": This entry is a "Summary of studies investigating palmitoylethanolamide and its correlations to epilepsy and acute seizures", likely an index or table summarizing research.
+•
+Excerpts from "1091581820986073_TEXTextracted.txt": This document describes the preparation of fixed thyroid glands for microscopic examination. The process involves dehydrating the tissue with alcohol, clearing it with xylene, embedding it in paraffin wax, then sectioning it very thinly (7 µm) with a microtome. The sections are then stained with hematoxylin and eosin for evaluation by a pathologist.
+•
+Excerpts from "1091581820986073_TEXTextracted.txt": This section describes the investigation of fetuses after a C-section delivery. This includes counting the total, abnormal, dead, and live fetuses, as well as the number and individual weights of male and female fetuses, and the sex ratio. External abnormalities are categorized as "normal variants," "minor abnormalities," or "major malformations". The anogenital distance (AGD) of live fetuses is also measured.
+•
+Excerpts from "1091581820986073_TEXTextracted.txt": This document defines the classifications used for fetal findings: a "normal variant" is a common occurrence in a population (like variations in bone formation); a "minor abnormality" is a malformation unlikely to directly affect the fetus's survival; and a "major malformation" is a significant birth defect that could be life-threatening.
+•
+Excerpts from "1138_TEXTextracted.txt": This document lists the inclusion and exclusion criteria for enrolling patients in a study. Inclusion criteria include specific scores on cognitive tests (MMSE, CDR scale), age range, cognitive capacity, language ability, and having a reference person. Exclusion criteria involve specific neurological diseases, physical limitations, certain medications, and a history of substance abuse.
+•
+Excerpts from "1155_TEXTextracted.txt": This document, along with and, describes the statistical methods used in a study. Data are presented as means, and differences are evaluated using ANOVA followed by Bonferroni's post hoc test for comparing multiple groups.
+•
+Excerpts from "1346_TEXTextracted.txt": This section details the study selection process for a systematic review. Out of 53 initial records, duplicates were removed, and titles/abstracts were screened. A final list of 10 studies (3 human, 6 animal, 1 mixed) was used for analysis, all focusing on the PEA signaling pathway.
+•
+Excerpts from "1429799897_SkaperetalCNSND-DT_NeuroinflammationNeurocognitiveDisorders(2014).pdf": This section describes the review criteria used for a publication, detailing the databases searched (MEDLINE and PubMed), the publication years (2004-2014), the search terms used (e.g., "inflammation," "neuroinflammation," "palmitoylethanolamide"), and that only English full-text articles were included.
+•
+Excerpts from "1653_TEXTextracted.txt": This section describes the search strategy and study selection process for a systematic review. It involved searching databases, removing duplicate records, and then two authors independently screening titles, abstracts, and full texts against inclusion/exclusion criteria. Reference lists of retrieved articles were also checked.
+•
+Excerpts from "1672_TEXTextracted.txt": This source presents a PRISMA flowchart, which visually outlines the process of searching, selecting, and identifying studies for systematic reviews and meta-analyses.
+•
+Excerpts from "1672_TEXTextracted.txt": This document explains how the risk of missing important studies was reduced by having two authors independently assess study eligibility. Duplicate records were removed, and titles, abstracts, and full texts were carefully reviewed. The reference lists of retrieved articles were also checked to find more relevant papers.
+•
+Excerpts from "1742-2094-11-108.pdf": This document, along with and, describes the statistical analysis methods used. For data that wasn't normally distributed, they used medians with interquartile ranges and compared them with the Kruskal-Wallis test followed by Dunn’s test. For individual pairs, the Mann–Whitney U-test was used. Normally distributed data (means ± SEM) were analyzed using parametric one-way ANOVA and the Bonferroni test.
+•
+Excerpts from "20_TEXTextracted.txt": This section describes the statistical analysis plan for a feasibility study, specifically for the "feasibility phase". The main outcome was analyzed using a "one-way within-subjects analysis of variance" to look for time effects, with results confirmed by Friedman’s test if needed. For unusual data points (outliers), they planned to check analyses using a method called "robust estimation of confidence intervals".
+•
+Excerpts from "20_TEXTextracted.txt": This section outlines data security measures for a study. Local databases are protected by passwords, and forms that link participant IDs to personal information are stored in a separate locked file with limited access. Participant study information is only released with written consent.
+•
+Excerpts from "3604_TEXTextracted.txt": This document, along with and, describes the statistical analysis of experimental data. Biomolecular and behavioral data are shown as mean ± S.E.M. and analyzed using Two-way ANOVA followed by post-hoc Tukey’s tests. Immunohistochemical data (expressed as percentages) are also analyzed with Two-way ANOVA and Tukey’s.
+•
+Excerpts from "3879_TEXTextracted.txt": This source mentions that Microsoft Excel and GraphPad Prism 4 software were used for statistical processing. It specifies that ELISA samples were run three times and averaged, and in Y-maze analysis, the number of experimental sessions was the unit of analysis.
+•
+Excerpts from "4845_TEXTextracted.txt": This document details statistical analysis for a study, stating that all values are presented as the mean ± standard error of the mean. Images from immunohistochemistry and immunofluorescence represent at least three experiments from different animals. Data were analyzed using one-way ANOVA followed by a Bonferroni post hoc test for multiple comparisons.
+•
+Excerpts from "4940_TEXTextracted.txt": This source describes that data analysis was conducted using either GraphPad Prism 8.0 or SPSS 25. Before any other tests, data were checked for normal distribution to determine which statistical tests were appropriate.
+•
+Excerpts from "610_TEXTextracted.txt": This document describes how data from the Masshunter Quantitative Analysis Software were initially expressed in nanograms per milligram of tissue and then converted to nanomoles or picomoles per milligram by dividing by the molar mass. It also states that SPSS 24.0 was used for statistical analysis, checking for normality (Shapiro-Wilk test) and homogeneity of variance (Levene’s test).
+•
+Excerpts from "610_TEXTextracted.txt": This document details how Area Under the Curve (AUC) analysis was performed and how data are presented (means ± S.E.M. or median with interquartile range and min/max).
+•
+Excerpts from "Dialnet-SystematicReviewOfNeuroprotectiveActionsOfTheECPIn-10142941.pdf": This document describes the general objective and methodology of a systematic review of literature. The aim is to analyze PEA's brain-protective and anti-inflammatory actions in a mouse brain cell line to apply findings to human patients. The review method involves a rigorous process of identifying, selecting, evaluating, and summarizing relevant scientific articles published between 2014 and 2024 from specific databases using keywords. Articles were chosen based on their titles, abstracts, and keywords, and their content was analyzed thematically.
+•
+Excerpts from "Dialnet-SystematicReviewOfNeuroprotectiveActionsOfTheECPIn-10142941.pdf": This source states that out of the total articles collected for the systematic review, 12 were selected and divided into two groups: six investigations focused on human patients, and six on murine (rat) models.
+•
+Excerpts from "JAD-200426_TEXTextracted.txt": This document outlines options for browsing journals by discipline and subject area, including health sciences, life and biomedical sciences, materials science and engineering, and social sciences and humanities.
+•
+Excerpts from "Lav-NevritinaL-RP-7.pdf": This section details the meta-analytic procedures. Data were extracted independently by reviewers onto Excel spreadsheets, with the primary outcome being PEA's effectiveness for chronic pain measured by the visual analog scale (VAS). Information on patient conditions, trial design, dose, and other details was also collected. Disagreements were resolved through discussion or by a senior investigator, and authors/pharmaceutical companies were contacted for missing data.
+•
+Excerpts from "Lav-NevritinaL-RP-7.pdf": This document explains how subgroup analyses were performed using a fixed-effects model to test for differences. They investigated if PEA was effective, if dosing or duration increased efficacy, and if trial characteristics (like blinding) affected efficacy.
+•
+Excerpts from "NDT_TEXTextracted.txt": This document describes a retrospective observational study on patients attending a neurological long COVID clinic. It explains that descriptive statistics (absolute and relative frequencies for categories, means and ranges for continuous data) were used to summarize patient information. Follow-up visits were conducted as needed.
+•
+Excerpts from "NDT_TEXTextracted.txt": This source states that data on long-term neurological disturbances were collected through clinical interviews and classified into seven categories. "Persistent symptoms" were defined as those lasting more than four weeks, indicating "long COVID syndrome".
+•
+Excerpts from "NDT_TEXTextracted.txt": This document describes that neuropsychological evaluations were performed at the neurologist's discretion, using a standardized battery of tests including the Montreal Cognitive Assessment (MoCA) and scales for depression, anxiety, and fatigue (DASS-21, Modified Fatigue Impact Scale). Raw scores were adjusted for age and education.
+•
+Excerpts from "aac_TEXTextracted.txt": This section describes the method for determining fungal burden in brain tissue. Brains were removed, weighed, homogenized, diluted, and plated on agar for CFU (colony forming units) counting. It also details brain histology: fixation in paraformaldehyde, washing, paraffin embedding, sectioning, and staining for microscopic examination.
+•
+Excerpts from "brainsci-14-00293-v2.pdf": This document details the assessment tools used in a study for patients with subjective cognitive impairment after COVID-19. These included the Fatigue Severity Scale (FSS), the Prospective and Retrospective Memory Questionnaire (PRMQ), and a subjective assessment of health changes. Patients received co-ultramicronized PEA and luteolin as an add-on therapy.
+•
+Excerpts from "cddis2014376_TEXTextracted.txt": This document mentions that statistical analysis of S100B protein data was performed using one-way or two-way ANOVA followed by Bonferroni multiple comparison test.
+•
+Excerpts from "ctn-08-00020.pdf": This document lists various neuropsychiatric scales and assessment tools used in clinical trials, providing their abbreviations. These include measures for intelligence (WAIS-IV), autism traits (RAADS-R, AQ, EQ, CAT-Q), neuropsychological examination (ENB-2), diagnostic interviews (SCID-CV, SCID-PD), personality (MMPI), side effects (UKU-SERS), PEA formulation (Um-PEA), symptom checklists (SCL-90), anxiety/depression (HADS), disability (WHODAS 2.0), and biomarkers (SERS, eCBome).
+•
+Excerpts from "deshmukh-et-al-2021-palmitoylethanolamide-prenatal-developmental-toxicity-study-in-rats.pdf": This document outlines the process for extracting and preserving thyroid glands from animals, followed by weighing, dehydration, embedding in paraffin, sectioning (at 7 mm), staining with hematoxylin and eosin, and then microscopic examination by a board-certified pathologist.
+•
+Excerpts from "deshmukh-et-al-2021-palmitoylethanolamide-prenatal-developmental-toxicity-study-in-rats.pdf": This section details the fetal investigations conducted after delivery by cesarean section. These included counting various categories of fetuses (total, abnormal, dead, live, male, female), measuring their individual weights, determining the sex ratio, and measuring the anogenital distance (AGD). External abnormalities were carefully noted and classified.
+•
+Excerpts from "deshmukh-et-al-2021-palmitoylethanolamide-prenatal-developmental-toxicity-study-in-rats.pdf": This document explains the classification of findings from skeletal examinations using Alizarin Red S staining. "Normal variants" refer to common occurrences like variations in bone formation. "Minor abnormalities" are malformations not expected to directly affect the fetus's survival, while "major malformations" are serious birth defects with teratological significance or that would be life-threatening.
+•
+Excerpts from "fcaf080.pdf": This document describes the statistical analysis plan for a study, including the use of standard descriptive statistics, and a "repeated measures linear mixed model" to analyze the primary outcome. This model accounts for individual variations and factors like treatment, time, disease type, and age. Missing data were handled using weighted estimating equations.
+•
+Excerpts from "fnbeh-05-00057.pdf": This section emphasizes the importance of using complementary animal models (e.g., those involving aversion versus reward, or general behavior versus specific memory tasks). This helps researchers be more confident that observed drug effects are truly on learning and memory processes, rather than on motivation, emotion, or motor skills.
+•
+Excerpts from "fnut-1-1560654.pdf": This document describes the statistical methods used in a study. Categorical data (like yes/no responses) are summarized with frequencies and percentages, while numerical data (like measurements) are shown as mean ± standard deviation. The statistical analysis involves first checking if the data is normally distributed. Then, appropriate tests like the two-tailed unpaired Student’s t-test (with Bonferroni corrections) are used for normally distributed data, or the Wilcoxon-Man-Whitney test for non-normally distributed data. Statistical significance was set at p < 0.05.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This document describes the search strategy for a systematic review on PEA and neurocognitive disorders (NCDs). It involved using broad search terms for both PEA and NCDs across various electronic databases to ensure a comprehensive collection of studies.
+•
+Excerpts from "fpsyt-13-1038122.pdf": This table provides a detailed overview of the methodological quality of clinical studies investigating PEA and neurocognitive disorders. It includes information on study design, population characteristics (age, gender), how PEA was measured, the control groups used, comparability of subjects, presence of other health conditions, and how confounding factors were handled.
+•
+Excerpts from "fpsyt-15-1463849.pdf": This section describes the literature search strategy used for a systematic review. It involved searching electronic databases (PubMed, Scopus, Web of Science) for original studies published in English up to a specific date. A combination of broad search terms for "palmitoylethanolamide" and "psychosis" was used to ensure inclusivity.
+•
+Excerpts from "fpsyt-15-1463849.pdf": This document states that factors like study design, the specific population studied (e.g., schizophrenia patients, clinical high-risk individuals, or mouse/rat models), age, gender, and the suitability of the psychosis model (for animal studies) were assessed to identify similarities and differences across studies.
+•
+Excerpts from "fpsyt-15-1463849.pdf": This table (along with and) provides details on the methodological quality of clinical and preclinical studies on PEA]. It describes how researchers clarified the differences between various smell and taste alterations for patients. All collected data were then extracted and analyzed by a statistician.
+•
+Excerpts from "s00405-023-08085-8_TEXTextracted.txt": This source describes the olfactory testing method. Clinicians, unaware of the patient's treatment group, used pen-like devices with odorants to test smell function. Participants identified 16 common odors from multiple-choice options. Scores were used to classify olfactory function (e.g., anosmia, hyposmia, normosmia).
+•
+Excerpts from "s10072-024-07566-w.pdf": This document describes a systematic review on interventions for "brain fog" caused by "long COVID". It followed the PRISMA checklist and aimed to describe different types of interventions. Due to varied study methodologies, a narrative summary to 2613 after duplicate removal and title/abstract screening. After further evaluation and quality assessment, 17 studies were included in the final review.
+•
+Excerpts from "s10072-024-07566-w.pdf": This document lists the countries where the studies in a review were conducted (e.g., USA, UK, Japan) and the types of studies included (e.g., pilot, clinical trial, case report). It also details the various assessment tools used to evaluate "brain fog", such as the Wechsler Memory Scale, Montreal Cognitive Assessment (MoCA), and Fatigue Severity Scale (FSS).
+•
+Excerpts from "s10072-024-07566-w.pdf": This section indicates that rehabilitation was a treatment approach used in six of the studies reviewed for brain fog, with each study employing a slightly different method and yielding varied results.
+•
+-07566-w_TEXTextracted.txt": This source describes that four authors independently extracted information from the selected studies, and any disagreements were resolved by consulting a senior reviewer. They also independently assessed the quality of studies based on criteria like COVID-19 diagnosis, intervention duration, and brain fog symptom assessment methods.
+•
+Excerpts from "s12916-024-03248-8_TEXTextracted.txt": This document describes how demographic and clinical data were summarized using mean ± SD and compared using Student t-test or Pearson’s chi-square test. Serum biomarker levels were reported as mean ± SEM, and differences between groups were analyzed using multivariate analysis of covariance, with age and certain drug treatments as adjustments.
+•
+Excerpts from "s12937-024-00966-w_TEXTextracted.txt": This document describes cognitive assessment methods, including how scores from specific tests were adjusted to a normal distribution and then combined to create a "global cognition composite" that reflects overall memory and executive functions.
+•
+Excerpts from "s12975-015-0440-8_TEXTextracted.txt": This section details the histological evaluation of brain damage (infarct) in rats after their motor behavior and neurological deficits were assessed. The process involved anesthetizing and sacrificing the rats, rapidly removing and fixing their brains, and then preparing the tissue in paraffin for microscopic analysis.
+•
+Excerpts from6-1496-9.pdf": This document describes the statistical methods for N-of-1 trials. Results on daily pain intensity are summarized by calculating mean scores for each week and period, then pairing them with the administered treatment. A paired t-test is used for statistical comparison. The document also mentions testing possible factors that explain differences in treatment effect and using Bayesian statistical methods.
+•
+** Excerpts from "s13063-016-1496-s role in chronic neuropathic pain management. It involved searching multiple databases (PubMed, Scopus, Embase, PsycINFO, Web of Science, Google Scholar) from 2010-2024, using specific Medical Subject Headings (MeSH) terms and Boolean operators. References from identified papers were also examined.
+•
+Excerpts from "s40122-024-00685-4.pdf": This document describes the study selection process: two independent authors screened abstracts and titles, then full texts, with a high agreement rate. Disagreements were resolved by consensus or with the lead author's help. Data extraction was guided by a coding scheme, with 10% of extracted data independently checked for accuracy.
+•
+Excerpts from "s40122-024-00685-4.pdf": This document states that a flowchart was used to visually represent the article selection process. This helps readers understand the systematic5-4_TEXTextracted.txt"**: This document describes the study's methodology using a "thorough descriptive thematic analysis" to understand PEA's role in chronic neuropathic pain management, following the Scale for Assessment of Narrative Review Articles (SANRA).
+•
+Excerpts from "s40122-024-00685-4_TEXTextracted.txt": This section describes the data charting and extraction process. A coding scheme was developed to guide the extraction of formal charting process.
+•
+Excerpts from "s40122-024-00685-4_TEXTextracted.txt": This document reports that a comprehensive examination of the literature resulted in the selection of 51 studies. This collection of studies informs the exploration of PEA's potential in managing chronic neuropathic and/or mixed pain.
+•
+Excerpts from "s40122-024-00685-4_TEXTextracted.txt": This document states that all 156 assessments from three raters across 51 manuscripts were included in the statistical analysis. The mean cumulative score for all manuscripts was 6.28 points, with highest scores for justifying the article's importance and stating clear aims.
+•
+Excerpts from "s40501-024-00327-8.pdf": This document details the comprehensive electronic literature searches conducted in PubMed, APA PsycInfo, and outcome measures, a statistical meta-analysis was not possible, so a qualitative narrative synthesis was used to summarize the findings.
+6. Miscellaneous Applications & Indexing Entries
+This category includes documents that cover other specific medical conditions, general health applications of PEA, or primarily serve as indexing or bibliographic entries.
+•
+Excerpts from "1049909119850807_TEXTextracted.txt": This entry is a title from a publication, indicating a "Qualitative Systematic Review" on "The Potential Benefits of Pal endocannabinoids in human eye tissues: Implications for glaucoma".
+•
+Excerpts from "2175_TEXTextracted.txt": This document notes that research is ongoing to see if PEA can be used for pain in dogs and cats with osteoarthritis. It also mentions that the plant Silybum marianum L. (Silymarin) has been used for centuries for various ailments, including liver issues, digestive problems, menstrual disorders, and varicose veins.
+•
+7_TEXTextracted.txt": This document provides data on the clinical characteristics of outpatients and hospitalized patients treated with PEA for COVID-19.
+•
+Excerpts from "4313_TEXTextracted.txt": This entry refers to a review article titled "Palmitoylethanolamide in Postmenopausal Metabolic Syndrome: Current Evidence and Clinical Perspectives".
+•
+Excerpts from "4453_TEXTextracted.txt": This source states that PEA can increase the activity of a specific enzyme (β-enzyme), which in turn boosts the production of 2-Arachidonoylglycerol (another endocannabinoid). This suggests that increased levels of endocannabinoids might help to control the release of substances from mast cells (mast cell degranulation).
+•
+Excerpts from "4940_TEXTextracted.txt": This source lists a "Protocol for a scoping review" on the "Clinical applications of palmitoylethanolamide in pain management". ItALut (PEA and luteolin) had improved scores on the Barthel Index (BI), indicating better independence in daily activities, and modified Rankin Scale (mRS) scores, indicating reduced disability, compared to the control group in stroke patients.
+•
+Excerpts from "9526_TEXTextracted.txt": This source notes that 359 patients reported improvements in their pain score and quality of life.
+•
+Excerpts from "deshmukh-et-olamide-prenatal-developmental-toxicity-study-in-rats.pdf": This source mentions a study that investigated the effects of PEA on the skin's allergic inflammatory response in beagle dogs that were hypersensitive to ascaris (a type of worm).
+•
+Excerpts from "micronized_ultramicronized_palmitoylethanolamide.4_TEXTextracted.txt": This document lists various demographic data and pre-existing medical conditions that were collected from patients, including heart disease, diabetes, chronic lung023-08085-8_TEXTextracted.txt"**: This document states that transient loss of smell (anosmia) is often present during the acute phase of SARS-CoV-2 infection, particularly in mild or moderate cases of COVID-19. It suggests that brain inflammation is believed to play a critical role in the development of this COVID-19-related smell dysfunction.
+•
+* Excerpts from "s00405-023-08085-8_TEXTextracted  Excerpts from "s10072-024-00966-w_TEXTextracted.txt": This document notes that among the interventions for "brain fog," pharmacological treatment required the longest median duration (75 days), while noninvasive brain stimulation needed the fewest sessions (12) and hyperbaric oxygen therapy required a median of 40 sessions.
+•
+Excerpts from "urdaneta-et-al-2018-autism-spectrum-disorders-potential-neuro-psychopharmacotherapeutic-plant-based-drugs.pdf": This document states that, according to European Union law, "herbal medicinal products" are any medicines containing a herbal base, herbal preparations, or a combination of both.
+NotebookLM can be inaccurate; please double check its responses.
