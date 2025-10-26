@@ -1,0 +1,317 @@
+Here's a categorization of the documents you provided, along with a summary of each in layman's terms:
+Document Categories
+The documents primarily fall into the following categories, often with overlapping themes:
+•
+Pain Management: Studies focusing on various types of pain, including neuropathic pain, chronic pain, fibromyalgia, carpal tunnel syndrome, burning mouth syndrome, and exercise-induced pain.
+•
+Inflammation: Research exploring palmitoylethanolamide's (PEA) anti-inflammatory effects in different contexts, such as vascular injury, general inflammatory responses, and conditions like inflammatory bowel disease.
+•
+Neuroprotection and Neurodegenerative Diseases: Studies investigating PEA's potential in conditions like Alzheimer's disease, Parkinson's disease, multiple sclerosis, traumatic brain injury, and frontotemporal dementia.
+•
+Mechanism of Action: Documents detailing how PEA works at a cellular and molecular level, involving receptors like PPAR-alpha, the endocannabinoid system, neurosteroids, GABA, and its interaction with enzymes.
+•
+Synergistic Effects/Combinations: Research on PEA used in combination with other compounds (e.g., rutin, luteolin, acetyl-L-carnitine, hemp oil extract, Equisetum arvense L.) to enhance therapeutic outcomes.
+•
+Other Physiological Effects: Includes studies on sleep/wake cycles, brain metabolism, and mood disorders like anxiety and depression.
+•
+Study Protocols: Descriptions of planned clinical trials.
+•
+General Reviews/Properties of PEA: Overviews of PEA's broad health benefits and characteristics.
+Document Summaries
+Here are the summaries of each document, organized by their primary focus:
+1. Pain Management
+•
+"1032088_TEXTextracted.txt" (Fibromyalgia)
+◦
+This study investigated whether adding palmitoylethanolamide (PEA) and acetyl-L-carnitine (ALC) to existing duloxetine and pregabalin treatment could help patients with fibromyalgia, a condition causing widespread pain that often doesn't respond well to standard pain relievers12.
+◦
+Patients who added PEA (600 mg twice daily) and ALC (500 mg twice daily) for 12 weeks showed significant improvements in pain and disease severity scores compared to those who continued their usual treatment alone1....
+◦
+The study concluded that this combination could be an effective add-on therapy for fibromyalgia patients7.
+•
+"1871527317666180420143830_TEXTextracted.txt" (Carpal Tunnel Syndrome and Sleep)
+◦
+This research looked at whether ultramicronized palmitoylethanolamide (um-PEA) could reduce pain and improve sleep quality in people suffering from carpal tunnel syndrome, a condition causing neuropathic pain and often disturbed sleep8.
+◦
+In a study with 42 patients, those who received um-PEA (600 mg twice daily) before and after surgery for carpal tunnel syndrome showed significant improvements in overall sleep quality, including longer continuous sleep and less sleep disturbance, as well as a noticeable reduction in their pain910.
+◦
+The findings suggest that um-PEA can clearly improve sleep quality and reduce pain in these patients10.
+•
+"1877614_TEXTextracted.txt" (Chronic Neck Shoulder Pain)
+◦
+This study explored how neck exercises affect the levels of natural pain-regulating compounds, palmitoylethanolamide (PEA) and stearoylethanolamide (SEA), in the trapezius muscle of women with chronic neck and shoulder pain11.
+◦
+It found that levels of both PEA and SEA were significantly higher in patients with chronic pain compared to healthy individuals12.
+◦
+Different exercise programs (strength plus stretch versus stretch alone) had different effects on the levels of these compounds, suggesting that exercise can influence the body's natural pain-relief system13.
+•
+"IMCRJ_TEXTextracted.txt" (Burning Mouth Syndrome)
+◦
+This report detailed a case where ultramicronized PEA (umPEA) was used as an add-on treatment for a 60-year-old male with burning mouth syndrome (BMS), a chronic oral pain condition that often doesn't respond well to therapies like gabapentin14....
+◦
+After three months of combined therapy with umPEA, the patient experienced a considerable improvement in the frequency and intensity of his pain, with his pain score dropping from 8-9 to 515....
+◦
+The study highlights PEA's known role in resolving neuro-inflammation and its effectiveness in neuropathies and migraines, suggesting it's a promising treatment for BMS16.... The ultramicronized form is considered more effective and safer2223.
+•
+"N_palmitoylethanolamide_in_the_anterior_cingulate_cortex_attenuates_inflammatory_pain_behaviour_indirectly_via_a_CB1_receptor_mediated_mechanism_TEXTextracted.txt" (Inflammatory Pain, ACC)
+◦
+This research investigated how PEA affects inflammatory pain when given directly into a specific brain area called the anterior cingulate cortex (ACC), which is involved in how we perceive and feel pain24.
+◦
+PEA significantly reduced pain behaviors in rats24. This pain-reducing effect was partly blocked by a drug that targets the CB1 receptor, but not by drugs targeting other receptors like PPARα or TRPV1, even though these other receptors also played a role in pain when blocked alone25.
+◦
+The study suggests PEA might indirectly affect the CB1 receptor, possibly by increasing levels of the body's natural cannabinoid, anandamide, in the ACC25.
+•
+"Palmitoylethanolamide-and-hemp-oil-extract-exert-synergistic-anti-nociceptive-effect.pdf" (PEA and Hemp Oil Extract for Pain)
+◦
+This study examined the pain-relieving effects of full-spectrum hemp oil extract (HOE), both alone and in combination with PEA, in mouse models of acute and chronic pain26....
+◦
+HOE by itself had only a modest effect on pain2628. However, when combined with PEA, even at doses that wouldn't be effective on their own, the combination produced a much greater pain reduction than expected from simply adding their individual effects together26....
+◦
+The researchers found that HOE seems to improve how well PEA is absorbed by the body and makes its effects last longer, which helps explain this "greater-than-additive" effect26.... The combination also reduced inflammatory markers in the spinal cord26....
+•
+"ijms-24-05503-v5.pdf" (PEA and Equisetum arvense L. for Neuropathic Pain)
+◦
+This study explored a new nutraceutical combination of palmitoylethanolamide (PEA) and Equisetum arvense L. (horsetail) as a potential treatment for neuropathic pain, which is caused by nerve damage and is often hard to treat with standard medications36....
+◦
+The new combination (named EquiPEA™) was designed to overcome PEA's poor absorption39. Lab tests showed it successfully crossed the intestinal barrier without causing harm, meaning it can reach its targets in the body more effectively than standard PEA forms36....
+◦
+EquiPEA™ showed synergistic beneficial effects on nerve recovery, reducing inflammation and oxidative stress (damage from unstable molecules)36.... It also boosted the activity of receptors (CB1 and CB2) and the GABA system, which are crucial for pain regulation, and helped protect the myelin sheath around nerves47....
+◦
+The study concludes that EquiPEA™ is an innovative and safe option for treating neuropathies51.
+•
+"implication_of_allopregnanolone_in_the.10_TEXTextracted.txt" (Allopregnanolone and PEA's Antinociceptive Effect)
+◦
+This research investigated how the body's natural production of neurosteroids, specifically allopregnanolone (ALLO), is involved in PEA's pain-relieving effects in mouse models of acute and persistent pain5253.
+◦
+It confirmed that PEA's pain-reducing actions are linked to the PPAR-alpha receptor53. Importantly, when the production of neurosteroids was blocked, PEA's pain-relieving effects were partly reduced53.
+◦
+PEA treatment was shown to increase ALLO levels in the spinal cord and restore the expression of proteins essential for neurosteroid production54. This new information helps understand how PEA works to relieve pain55.
+•
+"art00009_TEXTextracted.txt" (Painful Neuropathy)
+◦
+This study evaluated the effect of PEA (300 mg twice daily for two months) in patients experiencing painful neuropathy, especially those associated with severe conditions like multiple myeloma and chemotherapy5657.
+◦
+The treatment led to improvements in pain and warmth sensation thresholds and positive changes in nerve function, indicating that PEA helped the nerves56.
+◦
+It's suggested that PEA might have worked by reducing overactivity of mast cells, which in turn eased swelling around the nerves that was blocking signals57. The study concluded that PEA, being a safe substance, can significantly restore nerve function in these severe pain conditions57.
+•
+"s13063-023-07199-y.pdf" & "s13063-023-07199-y_TEXTextracted.txt" (PEA as Adjuvant to Resistance Training - Study Protocol)
+◦
+This is a protocol for a clinical trial designed to study whether daily PEA supplementation (Levagen+®) can enhance the benefits of resistance training in healthy adults58....
+◦
+The study highlights that common pain relievers like NSAIDs can interfere with muscle growth and strength because they block certain pathways58.... PEA, however, has pain-relieving properties through different mechanisms and has been shown to improve sleep and potentially aid muscle growth58....
+◦
+The trial will measure body composition (lean mass), strength, power, inflammatory markers, hormones, sleep quality, and pain levels. The goal is to see if PEA can be a better option for pain management for athletes by not hindering, or even enhancing, training adaptations59....
+2. Inflammation
+•
+"0929867328666210329120213_TEXTextracted.txt" & "Micro_Composite_Palmitoylethanolamide_Rutin_Reduces_Vascular_Injury_through_Modulation_of_the_Nrf2_HO_1_and_NF_kB_Pathways_TEXTextracted.txt" (Vascular Injury)
+◦
+This study investigated the effects of a new micro-composite of N-palmitoylethanolamine/Rutin (PEA/RUT) on vascular injury, which involves inflammation and oxidative stress, leading to conditions like hardening of the arteries (arteriosclerosis) and narrowing of blood vessels (restenosis)69....
+◦
+Using a model of carotid artery ligation in rats, the researchers found that administering PEA/RUT reduced structural changes in blood vessels, decreased inflammatory cell infiltration, and lowered levels of harmful molecules like reactive oxygen species, cytokines (MCP-1, IL-1β, IL-6, TNF-α), and adhesion molecules (ICAM-1)7273.
+◦
+The study concluded that PEA/RUT has a beneficial effect in reducing inflammation, oxidative stress, and overall vascular damage74. PEA is known for its anti-inflammatory effects, and Rutin has antioxidant and vasoprotective properties7071.
+•
+"Cannabidiol-and-palmitoylethanolamide-are-anti_TEXTextracted.txt" (Human Colon Inflammation)
+◦
+This research aimed to measure the anti-inflammatory effects of cannabidiol (CBD) and PEA in inflamed human colon tissue, specifically from patients with inflammatory bowel disease (IBD) and appendicitis75....
+◦
+Both PEA and CBD reduced inflammatory markers in these human tissue samples7980.
+◦
+The anti-inflammatory effects of PEA were specifically blocked by a substance that inhibits the PPARα receptor8182, suggesting this is how PEA works in the human colon. The study concluded that both PEA and CBD are anti-inflammatory in the human colon8182.
+•
+"66aed2d0-25fe-4976-aad1-d2f5fbe494_TEXTextracted.txt" (PEA and Polyphenols for Inflammation)
+◦
+This study explored the anti-inflammatory effects of PEA and its potential synergistic interactions with plant-derived compounds like quercetin and curcuminoids83....
+◦
+Combinations of PEA with quercetin and curcuminoids were found to reduce the expression of pro-inflammatory markers, especially those related to the NF-kB pathway (like IL-1β and TNF-α), and also lowered reactive oxygen species and nitric oxide release84....
+◦
+PEA specifically reduced these inflammatory markers by activating the PPAR-alpha receptor8889. The study demonstrated that these combinations acted synergistically to combat inflammation8889.
+•
+"pnas_TEXTextracted.txt" & "solorzano-et-al-selective-n-acylethanolamine-hydrolyzing-acid-amidase-inhibition-reveals-a-key-role-for-endogenous.pdf" (PEA and NAAA Inhibition)
+◦
+This research focused on understanding how the body controls inflammation by studying PEA, a natural lipid that reduces inflammation by activating the PPAR-alpha receptor9091. PEA is broken down by an enzyme called NAAA9091.
+◦
+The study discovered a powerful and specific drug (S)-OOPP that blocks NAAA9091. This blockage increased PEA levels in immune cells and reduced inflammatory responses in lab tests and in mice9091. These effects were similar to giving extra PEA and did not happen if the PPAR-alpha receptor was removed9091.
+◦
+Blocking NAAA also reduced inflammation and tissue damage and improved recovery after spinal cord injury in mice91.... The findings suggest that the body's natural PEA, acting through PPAR-alpha, serves as an "early stop signal" for inflammation9293. This enzyme (NAAA) might be a new target for anti-inflammatory medicines that could work by boosting the body's own PEA91....
+•
+"WNL.92.15_supplement.P5_TEXTextracted.txt" (PEA Anti-Inflammatory/Neuroprotective)
+◦
+This study aimed to investigate the anti-inflammatory and neuroprotective properties of PEA as a dietary supplement in aged wild-type mice that were given an intracerebral infection95.
+◦
+The researchers measured various indicators like survival time, bacterial loads, and brain inflammation markers (microglia counts and activation scores, and cytokine levels)95.
+◦
+While the full results are not detailed, the background states PEA's known anti-inflammatory and neuroprotective properties95.
+3. Neuroprotection and Neurodegenerative Diseases
+•
+"1570159X20666220420113513_TEXTextracted.txt" & "papers_TEXTextracted.txt" (Olfactory Dysfunction Post-COVID-19)
+◦
+This study investigated the recovery of smell function in patients who had persistent olfactory impairment after COVID-19 (lasting more than 6 months)96.... These smell disorders are thought to be caused by inflammation in the brain's smell centers9698.
+◦
+The researchers compared a group receiving PEA combined with luteolin (PEA-LUT) oral supplements plus olfactory training to a group receiving only olfactory training with a placebo96.... PEA and luteolin are considered agents that reduce inflammation in the brain and protect nerve cells9698.
+◦
+The group treated with PEA-LUT showed significantly better improvement in their ability to detect and identify smells99100. The study concluded that PEA-LUT could promote smell recovery by regenerating olfactory pathways and reducing neuroinflammation9899.
+•
+"4109_TEXTextracted.txt" (Alzheimer's Disease Phenotype)
+◦
+This research investigated how PEA could help to counteract the features of Alzheimer's Disease (AD) in a special mouse model that develops AD-like symptoms (triple transgene APP and Tau mice)101.
+◦
+The data showed that PEA treatment changed brain metabolism depending on the age of the mice and was able to correct altered molecular pathways that are similar to those seen in Alzheimer's disease101.
+•
+"Neuroglial_Roots_of_Neurodegenerative_Diseases_Therapeutic_Potential_of_Palmitoylethanolamide_in_Models_of_Alzheimer_s_Disease_TEXTextracted.txt" & "art00003_TEXTextracted.txt" (Alzheimer's Neuroinflammation/Angiogenesis)
+◦
+These sources explain that Alzheimer's Disease (AD) involves not just protein deposits, but also significant inflammation caused by overactive glial cells in the brain102103. These inflamed cells actually make the disease worse103.
+◦
+The studies focused on PEA's potential to fight inflammation and protect nerve cells in AD models103104. They found that PEA could reduce the activation of astrocytes (a type of glial cell) caused by amyloid protein and had a strong protective effect on neurons104.
+◦
+PEA also showed anti-angiogenic effects, meaning it could reduce the formation of new blood vessels that can contribute to brain inflammation in AD105. This suggests PEA could be an effective strategy for AD by tackling both neuroinflammation and potentially harmful angiogenesis104106.
+•
+"Administration_of_palmitoylethanolamide_PEA_protects_the_neurovascular_unit_and_reduces_secondary_injury_after_traumatic_brain_injury_in_mice_TEXTextracted.txt" (Traumatic Brain Injury)
+◦
+This study explored the effectiveness of PEA in a mouse model of traumatic brain injury (TBI)107. TBI is a complex injury involving damage to blood vessels in the brain, imbalances in chemical reactions, and inflammation108.
+◦
+The research found that PEA, a naturally occurring fatty acid, helps to maintain chemical balance and prevents further damage after the initial injury107.
+◦
+Specifically, PEA treatment was shown to reduce swelling (edema) and brain damage in the mice107.
+•
+"PIIS1935861X23003297.pdf" & "fulltext_TEXTextracted.txt" (PEA/Luteolin in Frontotemporal Dementia)
+◦
+These documents describe research into Frontotemporal Dementia (FTD), a neurodegenerative disease linked to brain inflammation, for which there's currently no effective drug treatment109110.
+◦
+The study investigated the effects of PEA combined with luteolin (PEA-LUT), which has anti-inflammatory and neuroprotective properties, on the behavior, thinking ability, and brain activity of FTD patients109110.
+◦
+After four weeks of treatment, patients receiving PEA-LUT showed improvements in cognitive scores and their ability to perform daily activities109111. Brain scans also revealed a restoration of certain brain activity patterns109112.
+◦
+The conclusion is that PEA-LUT could improve functional impairments in FTD patients by adjusting brain activity and nerve signaling109112.
+•
+"S1878747923015970_TEXTextracted.txt" (Multiple Sclerosis)
+◦
+This randomized, double-blind, placebo-controlled study investigated ultramicronized PEA (um-PEA) as an add-on therapy for patients with relapsing-remitting multiple sclerosis (RR-MS), a chronic autoimmune and inflammatory disease of the central nervous system113114.
+◦
+Standard first-line therapy (interferon-β1a) often causes side effects like pain and redness at the injection site, which affect patient quality of life113114.
+◦
+The study aimed to see if um-PEA could improve pain, reduce erythema (redness) at injection sites, and enhance patients' overall quality of life115116. It also evaluated effects on circulating inflammatory markers115116.
+◦
+The results suggest that um-PEA could be a suitable add-on therapy to reduce adverse effects in RR-MS117.
+•
+"s12035-018-0959-2_TEXTextracted.txt" (PEA in Parkinson's Disease in Aged Mice)
+◦
+This research focused on Parkinson's disease (PD), a neurodegenerative condition where aging is a major risk factor due to the degeneration of dopamine-producing neurons118119.
+◦
+The study found that pre-treating aged mice with micronized PEA (PEAm) for 60 days before inducing a PD-like condition prevented the development of parkinsonian symptoms118120.
+◦
+PEAm improved behavioral issues, protected dopamine-related markers in the brain, reduced markers of brain inflammation, and even showed a positive effect on the growth of new brain cells in the hippocampus119121. This suggests PEAm could be a valuable approach to prevent age-related neurodegenerative diseases121.
+•
+"art00011_TEXTextracted.txt" (Parkinson's Disease)
+◦
+This study investigated the use of ultramicronized palmitoylethanolamide (um-PEA) as an additional (adjuvant) therapy for patients with advanced Parkinson's disease (PD), a condition where brain inflammation plays a key role in the death of dopamine-producing cells122.
+◦
+Thirty PD patients receiving standard levodopa treatment were given um-PEA (600 mg)123.
+◦
+The findings showed that um-PEA helped to slow down the progression of the disease and reduce disability in these patients124. This suggests that um-PEA could be an effective add-on therapy for PD124.
+•
+"art00019_TEXTextracted.txt" (PEA/Luteolin in Parkinson's Disease Neuroinflammation/Oxidative Stress)
+◦
+This research tested a new combination of PEA and luteolin (a 10:1 ratio) to combat the brain inflammation and oxidative stress seen in Parkinson's disease (PD)125.
+◦
+In a mouse model of PD, the treatment reduced markers of PD, lowered levels of activated astrocytes (a type of brain cell involved in inflammation), and decreased pro-inflammatory cytokines (signaling molecules that cause inflammation)126.
+◦
+The combination also seemed to increase a cellular "cleanup" process called autophagy, which is important for cell health127. These effects were confirmed in lab-grown human brain cells127.
+◦
+Overall, the results indicate that PEA/luteolin can modulate both brain inflammation and the autophagy pathway, which might explain its protective effect on brain cells in PD127.
+•
+"pnas.93.9_TEXTextracted.txt" (PEA and Glutamate Excitotoxicity)
+◦
+This study investigated the protective effects of PEA and cannabinoids against nerve cell death caused by excessive stimulation from the neurotransmitter glutamate, a process known as excitotoxicity, which contributes to brain damage in conditions like stroke and trauma128....
+◦
+They found that PEA, unlike another related compound called anandamide, protected mouse brain cells (cerebellar granule cells) from glutamate toxicity131. This protective effect was strongest when PEA was added shortly after the glutamate exposure131.
+◦
+Cannabinoids, which work similarly to PEA at a specific receptor (CB2) found on mast cells, also prevented nerve cell loss131. Interestingly, the protective effects of PEA and these cannabinoids were blocked by anandamide, a central cannabinoid receptor agonist132.
+◦
+The study suggests that non-CB1 cannabinoid receptors (like CB2-like receptors) play a role in controlling the harmful effects of excitotoxicity, and PEA acts as a natural activator of these receptors, potentially helping to reduce damaging cellular processes in the nervous and immune systems133.
+4. Mechanism of Action
+•
+"2087_TEXTextracted.txt" (Pentobarbital-Evoked Hypnotic Effect)
+◦
+This research explored how PEA influences the sleep-inducing effects of pentobarbital in mice134.... PEA is a natural substance in the body that can affect various functions by activating a specific receptor called PPAR-alpha135....
+◦
+A single injection of PEA into the brain significantly increased the duration of pentobarbital-induced sleep134.... This effect was also seen with a synthetic PPAR-alpha activator and was absent in mice lacking the PPAR-alpha receptor136137.
+◦
+The study found that PEA increases levels of a neurosteroid called allopregnanolone (ALLO) through a PPAR-alpha-dependent mechanism, which then positively affects brain chemicals related to calming effects (GABA(A))139.... This provides new insights into how PEA works in the brain138....
+•
+"ejn_TEXTextracted.txt" (PPARα and Sleep/Wake Cycle)
+◦
+This study investigated the role of the PPARα receptor in regulating the sleep-wake cycle143. PEA and another related lipid, oleoylethanolamide (OEA), are natural activators of PPARα and can promote wakefulness when given to animals143.
+◦
+The research showed that administering PEA or OEA significantly increased the levels of important brain chemicals (neurotransmitters) like acetylcholine (ACh) and serotonin (5-HT) in a brain area involved in wakefulness144.
+◦
+These effects were blocked by a PPARα inhibitor, confirming that PEA influences wakefulness by acting through this receptor144. It also mentions that PEA can help with depressive-like behaviors in obese mice, possibly by affecting brain cell growth and connections145.
+5. Other Physiological Effects
+•
+"S088915912200037X_TEXTextracted.txt" (Obesity-Induced Anxiety/Neuroinflammation)
+◦
+This study investigated the ability of PEA to reduce anxiety and brain inflammation in obese mice fed a high-fat diet (HFD)146147. Obesity often leads to a low-grade inflammation throughout the body, including the brain, affecting emotional processing centers like the hippocampus and amygdala146....
+◦
+PEA treatment improved anxiety-like behaviors and reduced systemic inflammation by lowering pro-inflammatory substances in the blood146147.
+◦
+In the brain, PEA increased dopamine and GABA levels in the amygdala, reduced inflammatory markers in the hypothalamus and hippocampus, and even helped repair the blood-brain barrier which can be disrupted by obesity147....
+◦
+Lab tests confirmed PEA's anti-inflammatory and mitochondrial protective effects are dependent on the PPAR-alpha receptor154. The findings suggest PEA could be a therapeutic option for obesity-related mental health issues by controlling inflammation, blood-brain barrier integrity, and neurotransmitter balance154.
+•
+"S1734-1140(11)70596-5_TEXTextracted.txt" (Antidepressant Effects)
+◦
+This study investigated the potential antidepressant effects of PEA in mouse models of behavioral despair (Tail Suspension Test and Forced Swim Test)155.
+◦
+Oral administration of PEA (in doses ranging from 5 to 40 mg/kg) significantly reduced the amount of time mice spent immobile, which is an indicator of antidepressant activity, performing comparably to fluoxetine (a common antidepressant)155.
+◦
+Importantly, PEA did not affect the mice's general activity levels, suggesting its effects were specific to mood155.
+•
+"art00013_TEXTextracted.txt" (Depression-like behavior)
+◦
+This research explored the antidepressant effects of a combination of PEA and luteolin in mice that exhibited depression-like behavior after being given corticosterone156.
+◦
+The PEA+luteolin compound showed a significant antidepressant effect even at a low dose157. The study also looked at how it affected brain cell growth (neurogenesis) and brain flexibility (neuroplasticity)157.
+◦
+This combination is considered a novel therapeutic strategy for depression157.
+•
+"Diurnal_variation_of_arachidonoylethanolamine_palmitoylethanolamide_and_oleoylethanolamide_in_the_brain_of_the_rat_TEXTextracted.txt" (Diurnal Variation of PEA)
+◦
+This study looked at how the levels of natural lipid compounds, including PEA, change throughout the day and night in different parts of a rat's brain, such as the pons, hippocampus, and hypothalamus158.
+◦
+It found that PEA levels were highest during the dark phase (when rats are awake) in the pons and at the beginning of the dark phase in the hippocampus158.
+◦
+The researchers propose that these compounds build up in the brain while the animal is awake and are then released to help modulate various behaviors, including feeding and sleep158.
+6. General Reviews/Properties of PEA
+•
+"JBR.38_TEXTextracted.txt" (PEA as Endogenous Fatty Acid Amide)
+◦
+This review describes palmitoylethanolamide (PEA) as a naturally occurring fatty acid amide that has been widely studied for its various beneficial effects, including its anti-inflammatory and pain-reducing properties159.
+◦
+PEA is noted for its high tolerability and safety in both animals and humans159.
+◦
+Due to its ability to act on multiple targets and through different mechanisms, PEA has shown therapeutic benefits in a range of conditions, including those affecting the nervous system and the gut160. It's presented as a promising and safe natural ingredient to help reduce diseases linked to inflammatory stress159.
+•
+"The_Potential_Benefits_of_Palmitoylethanolamide_in_Palliation_A_Qualitative_Systematic_Review_TEXTextracted.txt" (General PEA Benefits)
+◦
+This review discusses the benefits of PEA, noting that it works by targeting non-classical cannabinoid receptors rather than the typical CB1 and CB2 receptors161. It can, however, indirectly influence classical cannabinoid receptors through an "entourage effect"161.
+◦
+The document states that there are a significant number of studies (prospective and randomized trials) that demonstrate PEA's pain-relieving effects161.
+◦
+Historically, PEA was found to prevent rheumatic fever and influence the course of influenza161. The review also points out that little is known about how PEA is processed by the body (its pharmacokinetics)161.
+•
+"informit_TEXTextracted.txt" (General PEA Properties)
+◦
+This source mentions that despite being identified in the 1950s, interest in PEA has significantly grown in the last ten years162.
+◦
+This renewed interest is due to its anti-inflammatory and neuroprotective properties162.
+•
+"au.172802344_TEXTextracted.txt" (General PEA Properties, Combinations)
+◦
+This source describes PEA as a naturally occurring fatty acid known for its ability to regulate pain and inflammation163.
+◦
+It primarily works by interacting with its main receptor, PPARα, which influences pain signals and brain inflammation by controlling how pro-inflammatory substances are made, how mast cells activate, how brain immune cells (microglia) activate, and by reducing oxidative stress163.
+◦
+PEA's interaction with other cannabinoid receptors also reduces inflammatory substances and pain sensations164.
+◦
+Evidence suggests PEA not only reduces pain and inflammation but also allows for lower doses of other medications, thereby reducing the risk of drug side effects164. It highlights PEA's potential when used in combination with other therapies for various neurodegenerative diseases like multiple sclerosis, Parkinson's disease, and Alzheimer's disease164.
