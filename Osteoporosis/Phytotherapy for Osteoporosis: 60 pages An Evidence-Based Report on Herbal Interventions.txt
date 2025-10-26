@@ -1,0 +1,804 @@
+
+Phytotherapy for Osteoporosis: An Evidence-Based Report on Herbal Interventions
+
+
+Abstract
+
+Osteoporosis is a systemic skeletal disease characterized by low bone mass and microarchitectural deterioration, leading to increased fracture risk, particularly among the elderly and postmenopausal women. While conventional pharmacotherapies are effective, concerns regarding side effects and long-term adherence have fueled interest in phytotherapy as a complementary approach. This report provides a comprehensive review of numerous herbs and traditional formulas investigated for their potential in managing osteoporosis. It details the primary mechanisms of action, including phytoestrogenic activity, regulation of the OPG/RANKL signaling pathway, stimulation of osteoblast-promoting pathways, and anti-inflammatory and antioxidant effects. Detailed profiles are provided for over 30 therapeutic herbs and two key traditional formulas, summarizing their traditional uses, pharmacological actions, preclinical and clinical evidence, and crucial safety information, including contraindications and drug interactions. The evidence indicates that while many herbs show significant promise in preclinical models, high-quality human clinical trial data is limited. Herbs such as Epimedium spp., Resveratrol, and Rhizoma Drynariae possess the strongest human evidence for improving bone mineral density. The report concludes that while herbal interventions can be valuable adjuncts to conventional care, they must be integrated under the supervision of a qualified healthcare professional due to potential toxicity and drug interactions.
+
+1. Introduction
+
+
+1.1 The Clinical Challenge of Osteoporosis
+
+Osteoporosis represents a significant and growing global health issue. Often termed the "silent disease," it progresses without symptoms until a fracture occurs.1 It is a systemic skeletal disorder defined by low bone mass and the deterioration of the bone's microarchitecture, which results in increased bone fragility and a high susceptibility to fractures, especially of the hip, spine, and wrist.1 The socioeconomic burden of osteoporosis is immense, disproportionately affecting the aging population and postmenopausal women.1
+
+1.2 The Role of Phytotherapy in Osteoporosis Management
+
+Conventional treatments, including bisphosphonates and hormone replacement therapy, are the mainstays of osteoporosis management. However, these treatments are not without challenges, including patient side effects and concerns about long-term efficacy and adherence.1 Consequently, many individuals are exploring phytotherapy, or herbal medicine, as a complementary or alternative strategy. This report aims to provide a critical, evidence-based examination of these traditional remedies, distinguishing scientifically plausible interventions from anecdotal claims. The herbs and formulas discussed herein are considered potential
+adjuncts to a comprehensive care plan, not standalone cures.
+
+2. Core Mechanisms of Herbal Interventions in Bone Health
+
+The pathology of osteoporosis is fundamentally an imbalance in bone remodeling, where the activity of bone-resorbing osteoclasts outpaces that of bone-forming osteoblasts.1 Many herbal interventions target the key molecular pathways that govern this delicate balance.
+
+2.1 Regulation of the OPG/RANKL/RANK Axis
+
+The OPG/RANKL/RANK axis is the master regulator of osteoclast formation. Osteoblasts secrete RANKL (Receptor Activator of Nuclear Factor-κB Ligand), which binds to the RANK receptor on osteoclast precursors, signaling them to mature and resorb bone. To counter this, osteoblasts also secrete Osteoprotegerin (OPG), a decoy receptor that binds to RANKL and prevents it from activating RANK. A healthy OPG-to-RANKL ratio is essential for maintaining bone homeostasis. Many promising herbs appear to exert their effects by increasing OPG and/or decreasing RANKL expression, thereby inhibiting osteoclast formation.1
+
+2.2 Stimulation of Osteoblast-Promoting Pathways
+
+Certain herbs directly stimulate pathways that promote the formation and function of osteoblasts. The Wnt/β-catenin and Bone Morphogenetic Protein (BMP) signaling pathways are critical for directing stem cells to differentiate into bone-forming osteoblasts and for supporting their subsequent function and survival.1
+
+2.3 Phytoestrogenic Activity
+
+Postmenopausal osteoporosis is primarily driven by estrogen deficiency, which leads to a surge in osteoclast activity.7 Many plants contain phytoestrogens—compounds that can bind to estrogen receptors and weakly mimic estrogen's natural bone-protective effects. This is a vital mechanism for many herbs traditionally used to treat menopausal symptoms.7
+
+2.4 Anti-inflammatory and Antioxidant Effects
+
+There is a growing understanding that chronic, low-grade inflammation and oxidative stress are significant contributors to bone loss. These processes create a microenvironment within the bone that favors osteoclast activity while hindering osteoblasts. Therefore, herbs with potent anti-inflammatory and antioxidant properties are of great interest, as they can help restore a more favorable environment for balanced bone remodeling.7
+
+3. A Critical Note on Safety and Evidence
+
+
+3.1 Navigating the Evidence Hierarchy
+
+It is crucial to understand the hierarchy of evidence when evaluating herbal remedies. Much of the available data comes from in vitro (cell culture) studies, which are useful for identifying potential mechanisms but do not prove efficacy in humans. The next level of evidence comes from preclinical animal models, such as ovariectomized rats, which mimic postmenopausal bone loss.9 While these studies provide a strong rationale for an herb's potential, the gold standard remains the human randomized controlled trial (RCT), which directly compares an intervention against a placebo or standard of care.4 For many herbs, the evidence is promising but still preliminary.
+
+3.2 General Safety Considerations
+
+The term "natural" is not synonymous with "safe," particularly for the elderly, who often manage multiple health conditions and take numerous medications. Key safety concerns include:
+Direct Toxicity: Some herbs, such as Psoralea corylifolia, carry a known risk of hepatotoxicity (liver damage).19
+Contamination: Unregulated supplements pose a risk of contamination. For example, raw Shilajit has been found to contain heavy metals like lead and arsenic.21
+Drug-Herb Interactions: The potential for interactions is significant. Many herbs can affect blood clotting, blood sugar, and blood pressure, leading to dangerous interactions with common medications like anticoagulants, antidiabetics, and antihypertensives.22
+
+3.3 The Importance of Professional Supervision
+
+Given the complexities of efficacy, safety, and potential interactions, a critical recommendation must be emphasized: No herb or supplement should be used to treat osteoporosis without the direct supervision of a qualified healthcare professional.26 An expert can assess an individual's health status, review their medications, and ensure the use of high-quality, standardized products.
+
+4. Detailed Profiles of Therapeutic Herbs for Osteoporosis
+
+
+4.1 Epimedium spp. (Horny Goat Weed / Yin Yang Huo)
+
+Traditional Use: A cornerstone of Traditional Chinese Medicine (TCM), Epimedium has been used for centuries to "nourish the kidney and reinforce the Yang," a concept directly related to strengthening bones and treating menopausal symptoms.5 It is a key ingredient in major anti-osteoporosis formulas likeXian-Ling-Gu-Bao and Er-Xian Decoction.30
+Mechanism: Its primary bioactive compound, icariin, exerts a potent phytoestrogenic effect, mimicking estrogen to stimulate osteoblast (bone-forming) activity and inhibit osteoclast (bone-resorbing) activity.5
+Evidence: The human trial data is among the strongest in this category. A 2022 meta-analysis of multiple RCTs concluded that Epimedium significantly improved Bone Mineral Density (BMD), reduced pain, and increased the overall clinical effective rate.5 A landmark 2007 RCT found that anEpimedium-based formula successfully maintained BMD in postmenopausal women over two years.33
+Other Uses: It is widely known as an aphrodisiac and for its potential anti-aging, anti-inflammatory, and neuroprotective effects.5
+Safety: While used safely in studies for up to two years, high doses can cause dizziness and breathing problems.34 Due to its estrogen-like activity, it iscontraindicated in individuals with hormone-sensitive cancers (e.g., breast, uterine) and those with bleeding disorders.34 It has significant potential interactions withanticoagulants, antihypertensives, and estrogen therapy.34
+
+4.2 Resveratrol
+
+Traditional Use: A naturally occurring polyphenol found in foods like red grapes and berries, Resveratrol is known for its anti-aging and cardiovascular benefits.6
+Mechanism: It is a potent antioxidant and anti-inflammatory agent that also acts as a phytoestrogen.6 It enhances osteoblast function via the SIRT1 and AMPK pathways while inhibiting the RANKL pathway to reduce bone resorption.6
+Evidence: The human evidence is strong. The 24-month RESHAW trial, a large RCT, found that 75 mg of resveratrol twice daily significantly increased BMD in the lumbar spine and femoral neck of postmenopausal women and reduced a key marker of bone resorption.35
+Other Uses: It is researched for improving cardiovascular function, cognitive function, and metabolic health.6
+Safety: Resveratrol is considered very safe, even at high doses, though it may cause mild stomach upset.36 Caution is advised for those withbleeding disorders or hormone-sensitive conditions.36 Its main drug interaction concern is withanticoagulant/antiplatelet drugs.36
+
+4.3 Salvia miltiorrhiza (Danshen / Red Sage)
+
+Traditional Use: Famous in TCM for "invigorating blood," Danshen is traditionally used for cardiovascular and circulatory issues, which translates to improving nutrient delivery to bone.22
+Mechanism: Its bioactive compounds, tanshinones and salvianolic acids, provide a multi-pronged effect. Tanshinones potently inhibit osteoclast formation by interfering with the RANKL pathway and selectively blocking the collagen-degrading activity of the enzyme Cathepsin K.7 Salvianolic acids promote osteoblast activity via the Wnt/β-catenin pathway and provide powerful antioxidant effects.7
+Evidence: The human clinical data is extensive, though primarily from formula-based trials in China. A 2024 review of 38 such trials reported consistently high efficacy rates (77-97%).37 Animal studies are also strong, showing a 35% increase in BMD in mice.7
+Other Uses: It is used for angina, high cholesterol, and stroke recovery.22
+Safety: Significant caution is required due to its potent circulatory effects. It is contraindicated in people with bleeding disorders or low blood pressure and must be stopped two weeks before surgery.22 It has major interactions withanticoagulants (warfarin) and antihypertensive medications.22
+
+4.4 Curcuma longa (Turmeric)
+
+Traditional Use: A staple in both kitchens and Ayurvedic medicine, Turmeric (and its active compound, curcumin) is renowned for its powerful anti-inflammatory properties.17
+Mechanism: Curcumin directly targets the chronic inflammation and oxidative stress that drive osteoporosis. It inhibits pro-inflammatory factors like TNF-α and IL-6 and favorably regulates the OPG/RANKL axis to suppress bone resorption while promoting bone formation.17
+Evidence: While large-scale human trials for osteoporosis are still needed, a 2025 meta-analysis of animal studies found that curcumin significantly increased BMD and improved bone microarchitecture.17
+Other Uses: It is used for nearly any condition with an inflammatory component, from arthritis to metabolic syndrome.17
+Safety: Turmeric has an excellent safety profile and is very well-tolerated.46 Side effects are rare and mild. Its interaction profile is minimal, making it one of the safest options for a dietary approach to bone health.
+
+4.5 Rhizoma Drynariae (Gu Sui Bu)
+
+Traditional Use: The TCM name translates to "mender of shattered bones," reflecting its centuries-long use for healing fractures and treating osteoporosis.4
+Mechanism: Its active components, the Total Flavonoids from Rhizoma Drynariae (TFRD), have been developed into a licensed medicine in China.4 TFRD provides a dual action, simultaneously stimulating bone formation (via Wnt/β-catenin and BMP pathways) and inhibiting bone resorption (via the OPG/RANKL system).4
+Evidence: The human clinical data is impressive. A 2017 meta-analysis of six RCTs involving 846 patients found that TFRD, alone or with conventional treatments, was significantly better at improving BMD than conventional treatments alone.4
+Other Uses: It is also used for toothaches and tinnitus.47
+Safety: It is well-tolerated, with only mild gastrointestinal symptoms reported as the most common adverse effect in clinical trials.4 There are no well-documented drug interactions, giving it a favorable safety profile.47
+
+4.6 Zingiber officinale (Ginger)
+
+Traditional Use: A globally recognized spice, Ginger is used in traditional medicine for its pain-relieving and anti-inflammatory properties, including for joint pain.26
+Mechanism: Its active compounds, gingerols and shogaols, are potent antioxidants and anti-inflammatories that suppress the inflammatory factors driving bone loss.48
+Evidence: While large-scale human trials are still emerging, one recent RCT found benefit from ginger and curcumin co-supplementation in postmenopausal women with osteoporosis.48
+Other Uses: It is famously used for nausea, indigestion, and arthritis.26
+Safety: Ginger has an excellent safety profile. It is widely consumed as food and is very safe as a supplement, with only mild stomach discomfort at very high doses.
+
+4.7 Panax notoginseng (San Qi / Tianqi)
+
+Traditional Use: A valued TCM herb, San Qi is traditionally used to stop bleeding and "move blood," making it a primary remedy for traumatic injuries and fractures.11
+Mechanism: Its saponins, flavonoids, and polysaccharides improve bone quality through anti-inflammatory, antioxidant, and estrogenic effects. It also promotes angiogenesis (new blood vessel formation), which is critical for bone healing.11
+Evidence: A 2025 review identified eight clinical trials where San Qi was used (mostly in formulas) for osteoporotic fractures with good results.11 A recent RCT on a related ginseng extract showed an increase in the bone formation marker osteocalcin.50
+Other Uses: It is used for angina, stroke recovery, and high cholesterol.51
+Safety: It is generally well-tolerated for short-term use. However, long-term use has been associated with potential liver and kidney toxicity.11 It iscontraindicated in hormone-sensitive conditions.51 It has a major interaction with the blood thinnerwarfarin.51
+
+4.8 Boswellia serrata (Frankincense / Shallaki)
+
+Traditional Use: An Ayurvedic gum resin, Boswellia is a classic treatment for chronic inflammatory diseases, especially arthritis.15
+Mechanism: Its active constituents, boswellic acids (especially AKBA), are potent anti-inflammatories. They inhibit TNF-α, a key cytokine that promotes the RANKL signal for bone resorption.15
+Evidence: The human clinical data for osteoarthritis is very strong, with multiple RCTs demonstrating significant reductions in pain and improvements in mobility.53 While direct osteoporosis trials are needed, the anti-inflammatory mechanism is directly relevant.
+Other Uses: It is used for rheumatoid arthritis, asthma, and inflammatory bowel disease.56
+Safety: It is generally considered safe and well-tolerated.54 It may interact withimmunosuppressant medications and drugs metabolized by the liver.56
+
+4.9 Psoralea corylifolia (Bu Gu Zhi)
+
+Traditional Use: One of the most common and potent TCM herbs for osteoporosis, its name means "to mend bone." It is a key ingredient in the Xian-Ling-Gu-Bao formula.31
+Mechanism: It is a powerful regulator of the OPG/RANKL pathway, strongly inhibiting osteoclast activity.8 Its compound Corylin has been shown to inhibit osteoclast formation.60
+Evidence: Despite strong preclinical data, there is a lack of high-quality standalone human trials. Its efficacy is inferred from its use in clinically studied formulas.59
+Other Uses: It is used for skin conditions like vitiligo.20
+Safety: This herb carries a significant and well-documented risk of hepatotoxicity (liver damage).19 This risk is so pronounced that it is almost always used in complex formulas where other herbs are thought to mitigate its toxicity. Its use requires expert supervision.
+
+4.10 Ligustrum lucidum (Glossy Privet / Nu Zhen Zi)
+
+Traditional Use: A gentle, nourishing tonic in TCM used for over a millennium to "tonify Liver and Kidney Yin," addressing symptoms of aging like dizziness and back soreness.27
+Mechanism: It improves calcium balance by increasing intestinal absorption and reducing urinary excretion.61 It also helps regulate calciotropic hormones and inhibits osteoclast formation.61
+Evidence: Despite a strong preclinical rationale, there is a lack of high-quality human clinical trials for osteoporosis.63
+Other Uses: It is used to support the immune system and protect the liver.27
+Safety: The processed, dried fruit has a very high margin of safety and is well-tolerated.61 However, theraw, unprocessed berries and leaves are toxic if ingested.66
+
+4.11 Angelica sinensis (Dong Quai / Dang Gui)
+
+Traditional Use: Known as "female ginseng," Dong Quai is the quintessential TCM herb for "nourishing the blood" and is used for a vast range of gynecological and menopausal symptoms.68
+Mechanism: Recently discovered compounds (falcarinphthalides) have shown potent osteoclast inhibitory activity in cellular tests.69 It is also a key part of formulas that promote osteoblast differentiation.73
+Evidence: Direct human trials for osteoporosis are sparse. Its efficacy is primarily evaluated within formulas.
+Other Uses: It is used for nearly all female reproductive health concerns.71
+Safety: It can cause photosensitivity.71 It iscontraindicated during pregnancy and in those with bleeding disorders or hormone-sensitive cancers.71 It has a significant interaction withanticoagulants like warfarin.71
+
+4.12 Cissus quadrangularis (Hadjod / Veldt Grape)
+
+Traditional Use: An Ayurvedic herb whose name means "bone setter," it has been used for centuries to heal fractures and treat joint pain.74
+Mechanism: It contains anabolic steroidal substances and antioxidants that aid bone repair. It decreases osteoclast activity and modulates the immune system to favor bone health.74
+Evidence: Human clinical data is promising, particularly for fracture healing, where it has been shown to increase levels of healing proteins.75 In a study on postmenopausal women with osteopenia, itdelayed bone loss, though it did not significantly improve BMD.75
+Other Uses: It is used for weight loss and diabetes management.75
+Safety: It is generally considered safe, with only mild side effects reported. It has no well-documented major drug interactions, giving it a favorable safety profile.75
+
+4.13 Rehmannia glutinosa (Shu Di Huang / Chinese Foxglove)
+
+Traditional Use: A fundamental "kidney tonifying" herb in TCM, it is the lead herb in the famous Liuwei Dihuang Pill (LWDHP) used for many age-related conditions.18
+Mechanism: It promotes bone formation by enhancing osteoblast proliferation and differentiation, while inhibiting bone resorption by inhibiting RANKL-induced osteoclast formation.18
+Evidence: Human evidence is primarily derived from studies on the LWDHP formula, which has been shown to increase BMD in postmenopausal women.18
+Other Uses: The LWDHP formula is used for diabetes and cancer support.18
+Safety: It is considered possibly safe for short-term use. It may lower blood sugar and blood pressure, requiring caution with antidiabetes and antihypertensive medications.78
+
+4.14 Thymus vulgaris (Thyme)
+
+Traditional Use: A common culinary herb with known therapeutic properties.14
+Mechanism: Its benefits are linked to potent antioxidant and anti-inflammatory effects from compounds like thymol and carvacrol.14 Animal studies show it inhibits bone loss and improves BMD.14
+Evidence: Thyme has emerged with direct human clinical evidence. Trials in postmenopausal women found that thyme supplementation (500 mg twice daily) led to a significant increase in BMD and T-score, and showed a powerful synergistic effect when added to the conventional drug alendronate.81
+Other Uses: It is used for respiratory conditions like coughs.82
+Safety: It has an excellent safety profile. Caution is advised for those with hormone-sensitive conditions or on anticoagulant drugs.82
+
+4.15 Cornus officinalis (Shan Zhu Yu / Japanese Cornel)
+
+Traditional Use: A key "kidney-tonifying" herb in TCM, used in major formulas like LWDHP to treat age-related weakness and lower back pain.1
+Mechanism: It has multi-target effects, promoting osteoblast formation, inhibiting osteoclast activity, improving the bone's vascular system, and providing immunomodulatory benefits.1
+Evidence: Human evidence is inferred from its role in clinically studied formulas. Standalone trials are lacking.1
+Other Uses: It is used to support liver and reproductive health.28
+Safety: It is generally well-tolerated, but safety data is limited. Caution is advised with blood-thinning medications.28
+
+4.16 Rosmarinus officinalis (Rosemary)
+
+Traditional Use: A culinary herb known for supporting memory and cognition.79
+Mechanism: It is rich in bone-healthy minerals and powerful anti-inflammatory and antioxidant compounds like carnosic acid.79 Animal studies show it can significantly increase BMD.83
+Evidence: There are no direct human clinical trials for osteoporosis. Evidence is based on strong preclinical data.83
+Other Uses: It is used to improve memory, aid digestion, and topically for hair loss.79
+Safety: It is very safe in culinary amounts. Very large medicinal doses can cause side effects. It should be avoided in medicinal doses during pregnancy.84
+
+4.17 Eucommia ulmoides (Du Zhong / Hardy Rubber Tree)
+
+Traditional Use: A classic TCM herb used to "tonify the liver and kidney, and strengthen bones and muscles," particularly for lower back and knee pain.10
+Mechanism: Its total flavonoids (TFEL) regulate the OPG/RANKL pathway to prevent bone resorption and have been shown to beneficially regulate gut microbiota, which is linked to bone metabolism.10
+Evidence: Human clinical evidence is still emerging. A trial on its effects on osteoarthritis has been completed, but direct osteoporosis trials are needed.85
+Other Uses: It is used for general weakness and strengthening the lower back.49
+Safety: Animal studies suggest a good safety profile with no toxic side effects, but human safety data is not well-established.10
+
+4.18 Lepidium meyenii (Maca)
+
+Traditional Use: An Andean root vegetable used for over 2000 years to enhance energy, stamina, and fertility.86
+Mechanism: Preclinical studies show that red and black maca can protect bone architecture in animal models, importantly without showing estrogenic effects on the uterus.86
+Evidence: There is currently a lack of human clinical trial data for Maca in osteoporosis.13
+Other Uses: It is widely used to improve sexual function, energy, and mood.86
+Safety: It is generally safe as a food product but can cause side effects like moodiness and insomnia. It should be avoided by individuals with hormone-sensitive cancers.88
+
+4.19 Cuscuta chinensis (Tu Si Zi / Chinese Dodder Seed)
+
+Traditional Use: A widely used TCM herb to "tonify the kidney," improve sexual function, and treat osteoporosis.9
+Mechanism: In animal models of glucocorticoid-induced osteoporosis, its extract increased BMD by favorably regulating the RANKL/OPG and RunX2 pathways.9
+Evidence: There is a lack of direct human clinical trials for osteoporosis.
+Other Uses: It is used to improve sexual function and as a general anti-aging tonic.9
+Safety: It appears to have a good safety profile, with one human trial reporting only mild side effects and no significant impact on liver or renal function.90
+
+4.20 Shilajit
+
+Traditional Use: A mineral-rich resin from the Himalayas, used in Ayurvedic medicine as a rasayana (rejuvenating substance) to "destroy weakness" and improve bone density.21
+Mechanism: Its primary bioactive, fulvic acid, is a potent antioxidant. Its benefits are linked to reducing oxidative stress and its rich mineral content.21
+Evidence: Human evidence is limited but promising. A 2022 study in postmenopausal women with osteopenia found that Shilajit supplementation reduced bone loss, inflammation, and oxidative stress compared to placebo.93
+Other Uses: It is used to enhance energy, cognitive function, and fertility.92
+Safety: This is a critical issue. While purified Shilajit is relatively safe, raw, unprocessed products carry a high risk of contamination with toxic heavy metals like lead and arsenic.21 It may interact withblood thinners and diabetes medications.92 Use requires extreme caution and high-quality sourcing.
+
+4.21 Achyranthes bidentata (Niu Xi / Ox Knee)
+
+Traditional Use: A TCM herb with a strong reputation for treating bone and joint disorders, believed to strengthen the liver and kidney.3
+Mechanism: A 2024 meta-analysis of 11 animal studies concluded that its extract effectively promotes an increase in bone mineral density.3
+Evidence: Human data comes from RCTs on formulas containing Niu Xi, which have been shown to relieve bone pain and improve BMD.3 Standalone trials are needed.
+Other Uses: It is used for musculoskeletal and gastrointestinal problems.94
+Safety: It is generally considered safe, but high doses may cause GI upset. Comprehensive safety data is lacking.94
+
+4.22 Tinospora cordifolia (Guduchi / Amrita)
+
+Traditional Use: A highly revered Ayurvedic herb, its name "Amrita" means "nectar of the gods." It is a powerful immunomodulatory and rejuvenating herb.96
+Mechanism: Its potent anti-inflammatory and antioxidant properties can help create a more favorable environment for bone remodeling.97
+Evidence: There is a lack of clinical trials investigating its effects on osteoporosis in humans.99
+Other Uses: It is used for fevers, diabetes, and arthritis.96
+Safety: Its powerful immune-stimulating effects mean it should be avoided by individuals with autoimmune diseases (e.g., MS, lupus, RA).100 It may interact withantidiabetes medications and immunosuppressants.100
+
+4.23 Astragalus membranaceus (Huang Qi)
+
+Traditional Use: A fundamental "Qi tonic" in TCM, used to boost the immune system and strengthen the body.101
+Mechanism: Preclinical evidence shows it stimulates the proliferation of bone marrow stromal cells (osteoblast precursors) and is a key component of formulas shown to promote osteoblastic differentiation.102
+Evidence: There are no high-quality human studies demonstrating the effectiveness of standalone Astragalus for osteoporosis.25
+Other Uses: It is used for the common cold and to support patients undergoing chemotherapy.25
+Safety: It should be avoided by people with autoimmune diseases.25 It has an extensive drug interaction profile, including withimmunosuppressants, anticoagulants, and lithium.25
+
+4.24 Nigella sativa (Black Cumin Seed)
+
+Traditional Use: A traditional medicine staple in the Middle East, often said to "cure everything but death."104
+Mechanism: Its active compound, thymoquinone (TQ), is a powerful antioxidant and anti-inflammatory that can inhibit inflammatory cytokines and the NF-κB pathway.104
+Evidence: Human clinical evidence is emerging. One trial investigated its effects on bone density in postmenopausal women, and another showed benefit when combined with curcumin.48
+Other Uses: It is used for asthma, allergies, and diabetes.104
+Safety: It has a significant potential for drug interactions. It is contraindicated during pregnancy, before surgery, and for those on anticoagulant therapy.24 It interacts with medications fordiabetes and hypertension and inhibits key liver enzymes (CYP3A4, CYP2D6).24
+
+4.25 Cistanche deserticola (Rou Cong Rong / "Desert Ginseng")
+
+Traditional Use: A prized TCM tonic used to treat "kidney deficiency," impotence, and constipation.105
+Mechanism: Animal studies show it has significant anti-osteoporosis activity, improving BMD and bone structure.106 A recent study revealed its primary mechanism is the beneficialregulation of lipid metabolism, which is strongly correlated with bone turnover markers.106
+Evidence: There are no direct human clinical trials evaluating Cistanche for osteoporosis.107
+Other Uses: It is used for gynecological diseases and to improve sexual function.105
+Safety: There is very limited information on its safety and drug interaction profile, which is a major limitation.108
+
+4.26 Humulus lupulus (Hops)
+
+Traditional Use: Known for its use in brewing, Hops is also a medicinal plant used as a sedative.16
+Mechanism: It contains one of the most potent phytoestrogens discovered, 8-prenylnaringenin, which can mimic estrogen's bone-protective effects.109 Animal studies show it significantlyenhanced bone mineral density and improved bone microarchitecture.16
+Evidence: There are no human clinical trials for osteoporosis.16
+Other Uses: It is used for anxiety, restlessness, and insomnia.16
+Safety: It is generally safe. Due to its potent estrogenic activity, it should be used with caution or avoided by individuals with hormone-sensitive cancers.110
+
+4.27 Carthamus tinctorius (Hong Hua / Safflower)
+
+Traditional Use: Used in TCM to "invigorate the blood" and in folk medicine to enhance bone formation.2
+Mechanism: Preclinical studies show its seed extract promotes osteoblast proliferation, and a diet of its buds increased BMD in animal models.2
+Evidence: There is a lack of high-quality human clinical trials for osteoporosis.113
+Other Uses: It is used for menstrual pain and pain from injuries.116
+Safety: It is a uterine stimulant and is contraindicated during pregnancy.117 Allergic reactions are possible.117
+
+4.28 Withania somnifera (Ashwagandha)
+
+Traditional Use: A premier adaptogen in Ayurvedic medicine, used to help the body resist stress and for conditions of debility.119
+Mechanism: As an adaptogen, it can modulate the body's stress response and cortisol levels, which can indirectly benefit bone health. Animal studies show it has the potential to improve BMD.120
+Evidence: Human clinical trial data for osteoporosis is lacking.121 A pharmacokinetic study in older adults is underway to understand its metabolism in this population.122
+Other Uses: It is well-studied for reducing stress and anxiety, improving sleep, and boosting male fertility.121
+Safety: It is generally safe for short-term use but has been linked to rare cases of liver injury.121 It iscontraindicated in pregnancy, autoimmune diseases, thyroid disorders, and hormone-sensitive prostate cancer.121 It has a significant interaction profile with medications fordiabetes, hypertension, and immunosuppressants.121
+
+4.29 Morindae Officinalis Radix (Ba Ji Tian)
+
+Traditional Use: A "kidney Yang" tonic in TCM used to strengthen sinews and bones and treat lower back pain.123
+Mechanism: Preclinical studies show its extracts and polysaccharides can inhibit bone loss in animal models.124
+Evidence: There is a lack of human clinical trials for osteoporosis.124
+Other Uses: It is used to improve kidney function and treat erectile dysfunction.123
+Safety: Its safety profile is not well-documented. Caution is advised for those with diabetes.124
+
+4.30 Dioscorea opposita (Chinese Yam / Shan Yao)
+
+Traditional Use: A gentle Qi tonic in TCM used as both food and medicine to nourish the Spleen and Kidney.125 It is a key ingredient in the LWDHP formula.18
+Mechanism: It contains diosgenin, which has shown estrogenic effects in lab studies and may indirectly modulate hormones.13
+Evidence: Human clinical evidence for osteoporosis is lacking and its promotion as a "natural alternative" is not supported by sufficient evidence.13
+Other Uses: It is used for digestive issues and diabetes management.125
+Safety: It is very safe as a food. In large supplement doses, it can cause GI upset. It should be avoided by people with hormone-sensitive conditions.127
+
+4.31 Guggul (Commiphora wightii)
+
+Traditional Use: A cornerstone of Ayurvedic medicine, this gum resin is known for its "Kapha-reducing" properties, which translates to strengthening bones.44 It is a key ingredient in the Lakshadi Guggul formula for bone problems.129
+Mechanism: Its active compounds are guggulsterones. Its bone-health effects are thought to relate to its anti-inflammatory and tissue-strengthening properties.44
+Evidence: Human evidence is limited but indicative. A phase 2 clinical study was registered in India to evaluate formulas containing Guggul for osteopenia/osteoporosis.130 An outcomes study on osteoarthritis of the knee found it significantly improved pain and function.132
+Other Uses: It is used for high cholesterol, acne, and arthritis.128
+Safety: It can cause mild side effects like nausea and rash. There are rare but serious case reports of liver issues.128 It has a significant interaction withCYP3A4 substrate drugs, potentially making many common medications less effective.128
+
+4.32 Triphala
+
+Traditional Use: A cornerstone Ayurvedic formulation of three fruits (Amalaki, Bibhitaki, Haritaki), it is a rejuvenating tonic most famous as a gentle laxative.26
+Mechanism: Its powerful antioxidant and anti-inflammatory properties, from a rich content of tannins and vitamin C, can help combat the oxidative stress that contributes to bone loss.26
+Evidence: Human evidence is indirect and limited. There are no direct clinical trials for osteoporosis.135 Clinical studies in India have explored its use in a broader therapeutic context for post-menopausal osteoporosis.136
+Other Uses: It is widely used and clinically confirmed to improve gastrointestinal health, reducing constipation and abdominal pain.134
+Safety: Triphala has an excellent safety profile and is very well-tolerated. There are no major documented safety concerns or drug interactions, making it one of the safer traditional formulations.133
+
+4.33 Acanthopanax senticosus (Siberian Ginseng / Ci Wu Jia)
+
+Traditional Use: An adaptogenic herb used in TCM to boost energy and enhance physical performance.38
+Mechanism: Preclinical evidence suggests a direct effect on bone growth. Its active compound, Eleutheroside E, has anti-inflammatory and anti-osteoporotic actions, preventing bone loss and reducing inflammatory markers in animal models.102
+Evidence: There is a lack of human clinical trials evaluating Siberian Ginseng for osteoporosis.137
+Other Uses: It is used to increase energy and improve athletic performance.137
+Safety: This herb is a significant concern. It can cause side effects like nervousness, restlessness, and insomnia. It is not recommended for individuals with high blood pressure or certain heart conditions.137 It may decrease the effectiveness of the blood-thinnerwarfarin.140
+
+4.34 Salvia officinalis (Common Sage)
+
+Traditional Use: A culinary herb traditionally used to reduce menopausal symptoms like hot flashes, pointing to hormonal activity.12
+Mechanism: Its phytoestrogen content may offer a weak estrogenic effect, helping to slow bone loss. An animal study found a sage diet helped inhibit bone breakdown.12
+Evidence: There are no human clinical trials evaluating Common Sage for osteoporosis.141
+Other Uses: It is used for menopausal symptoms and to improve cognitive function.
+Safety: While safe in culinary amounts, large medicinal doses can be toxic due to the compound thujone, which is neurotoxic and can cause seizures.142
+
+4.35 Prunus persica (Peach Kernel / Tao Ren)
+
+Traditional Use: A powerful TCM herb used to "invigorate blood circulation," making it theoretically useful for fracture healing.116
+Mechanism: Scientific evidence for its effect on osteoporosis is very limited. Its potential is inferred from its traditional circulatory and healing functions.116
+Evidence: There are no human clinical trials evaluating Tao Ren for osteoporosis.143
+Other Uses: It is used for menstrual irregularities and constipation.116
+Safety: It is contraindicated during pregnancy and menstruation due to its strong blood-moving effects.145 It should be used with caution in those onblood-thinning medications.116
+
+5. Analysis of Key Herbal Formulas
+
+
+5.1 Formula Focus #1: Er-Xian Decoction
+
+Er-Xian Decoction (EXD) is a classic TCM formula developed to treat menopausal syndromes, including osteoporosis. It is composed of six herbs: Epimedium, Curculigo orchioides, Morinda officinalis, Angelica sinensis, Phellodendron chinense, and Anemarrhena asphodeloides.30 It is designed to balance Yin and Yang through a sophisticated combination of warming and cooling herbs. Pharmacological studies show it attenuates bone loss in animal models by reducing inflammatory cytokines and preventing osteoblast apoptosis.30 While large-scale RCTs are needed, its components are well-studied, and its widespread clinical use provides a strong basis for its consideration.146
+
+5.2 Formula Focus #2: Xian-Ling-Gu-Bao (XLGB) Capsules
+
+Xian-Ling-Gu-Bao (XLGB) is a modern Chinese patent medicine specifically approved for the treatment of osteoporosis.59 It contains six potent anti-osteoporotic herbs:
+Epimedium, Dipsacus asper, Salvia miltiorrhiza, Psoralea corylifolia, Rehmannia glutinosa, and Anemarrhena asphodeloides.31 The clinical evidence for XLGB is strong. A systematic review found it had a beneficial effect on quality of life and pain relief and increased BMD to a similar degree as conventional treatments.59 Its safety profile appears good in clinical trials, with no significant increase in adverse events when added to conventional medications.59 This is notable given its inclusion of the potentially hepatotoxic
+Psoralea corylifolia, suggesting a mitigating effect from the other herbs in the formula.
+
+6. Synthesis and Comparative Analysis
+
+
+6.1 Overarching Mechanistic Themes
+
+A review of these herbs reveals several powerful, recurring themes. The most prominent is the convergence of many herbs on the OPG/RANKL signaling pathway. Potent herbs from both TCM (Salvia miltiorrhiza, Psoralea corylifolia) and Ayurveda (Boswellia) primarily work by inhibiting the RANKL signal that drives bone resorption. This aligns traditional use for "strengthening bone" with a specific molecular target.
+A second major theme is the role of inflammation and oxidative stress. Common culinary spices like Turmeric, Ginger, Rosemary, and Thyme are potent anti-inflammatories. Their ability to reduce inflammatory cytokines directly impacts the OPG/RANKL axis, providing a strong scientific rationale for an anti-inflammatory diet as a foundational strategy for managing osteoporosis.
+The third theme is phytoestrogenic activity. For postmenopausal women, herbs like Epimedium, Resveratrol, and Hops offer a weak estrogenic effect that can help counteract bone loss. However, this mechanism also carries a critical warning: a potential contraindication for women with a history of hormone-sensitive cancers.
+
+6.2 The Power of Formulation: Synergy and Toxicity Mitigation
+
+Traditional medicine emphasizes the power of the formula over the single herb, a concept often overlooked in the Western supplement model. A formula like Er-Xian Decoction or Xian-Ling-Gu-Bao can provide multi-target therapy, simultaneously inhibiting bone resorption, stimulating bone formation, reducing inflammation, and improving circulation.30
+Furthermore, formulation is key to mitigating toxicity. The known liver toxicity risk of Psoralea corylifolia is a prime example. In the Xian-Ling-Gu-Bao formula, it is combined with herbs like Salvia miltiorrhiza and Rehmannia, which have liver-protective properties. This demonstrates a sophisticated understanding of pharmacodynamics, where "minister" herbs buffer the potentially harsh effects of the "emperor" herb.
+
+7. Conclusion and Recommendations
+
+
+7.1 Summary of Evidence Strength
+
+While the preclinical data for many of these herbs is vast and compelling, the human clinical data remains a bottleneck.
+Strongest Human Evidence: Epimedium, Resveratrol, and Rhizoma Drynariae (TFRD) have the most robust human evidence for directly improving bone mineral density or fracture-related outcomes.
+Promising Human Data: Thyme, Cissus quadrangularis, and Guggul have encouraging human data for either osteoporosis or closely related conditions like osteoarthritis and fracture healing.
+Formula-Based Evidence: Many other herbs, such as Salvia miltiorrhiza and Panax notoginseng, derive their human evidence primarily from formula-based trials in Asia, which are encouraging but require further validation.
+
+7.2 Practical Recommendations for Adjunctive Use
+
+The safest and most accessible takeaway is the value of incorporating anti-inflammatory culinary herbs like Turmeric, Ginger, Rosemary, and Thyme into the daily diet. Their excellent safety profiles and proven mechanisms make them a low-risk, high-reward component of a holistic lifestyle approach. For more potent medicinal herbs, the use of high-quality, standardized products from reputable sources is critical to avoid the dangers of contamination.
+
+7.3 The Imperative of a Holistic and Supervised Approach
+
+Ultimately, these herbal interventions should be viewed as adjuncts, not cures or replacements for conventional care. The foundation of osteoporosis management remains a plan developed with a healthcare provider, which may include pharmacotherapy and must include adequate intake of calcium and Vitamin D, along with regular weight-bearing and muscle-strengthening exercise. Herbal supplements can be a powerful addition to this plan, but only when integrated thoughtfully and safely, in close consultation with a knowledgeable physician or qualified healthcare practitioner.
+
+8. Appendix
+
+
+Table 1: Comprehensive Summary of Herbal Interventions for Osteoporosis
+
+Herb (Scientific, Common & TCM Name)
+Key Bioactive Compound(s)
+Primary Mechanism(s) of Action
+Strength of Human Evidence
+Summary of Key Clinical Findings
+Key Safety Concerns & Contraindications
+Major Drug Interactions
+Epimedium spp. (Horny Goat Weed, Yin Yang Huo)
+Icariin, Flavonoids
+Phytoestrogenic, ↑Osteoblast activity, ↓Osteoclast activity
+Strong
+Meta-analysis of RCTs shows ↑BMD, ↑effective rate, ↓pain.5
+Hormone-sensitive cancers, bleeding disorders, pregnancy. High doses can cause respiratory issues.34
+Anticoagulants, Antihypertensives, CYP450 substrates, Estrogens.34
+Resveratrol (from Vitis vinifera, etc.)
+Resveratrol
+Phytoestrogenic, Antioxidant, Anti-inflammatory, ↑SIRT1, ↑Osteoblast activity, ↓Osteoclast activity
+Strong
+RCT (RESHAW trial) shows ↑BMD in lumbar spine & femoral neck, ↓fracture risk in postmenopausal women.35
+Bleeding disorders, hormone-sensitive conditions. Generally very safe.36
+Anticoagulants/Antiplatelets, CYP450 substrates.36
+Salvia miltiorrhiza (Danshen, Red Sage)
+Tanshinones, Salvianolic acids
+↓RANKL, Inhibits Cathepsin K, ↑Wnt/β-catenin, Improves microcirculation, Antioxidant
+Moderate
+38 TCM clinical trials (in formulas) show high efficacy (77-97%).37 No standalone RCTs.
+Bleeding disorders, low blood pressure. Stop 2 weeks before surgery.22
+Anticoagulants (Warfarin), Antihypertensives (Calcium channel blockers, ACE inhibitors).22
+Curcuma longa (Turmeric, Haridra)
+Curcumin
+Anti-inflammatory (↓TNF-α, ↓IL-6), Antioxidant, ↑OPG/↓RANKL, ↑Wnt/β-catenin
+Limited (for OP)
+Preclinical meta-analysis shows significant ↑BMD and improved microarchitecture.17 Human trials for related conditions (OA) are positive.53
+Extremely safe. Mild GI upset at very high doses. Caution with anticoagulants.46
+Minimal. Potential interaction with anticoagulants at high doses.
+Rhizoma Drynariae (Gu Sui Bu)
+Total Flavonoids (TFRD) e.g., Naringin
+↑OPG/↓RANKL, ↑Wnt/β-catenin, ↑BMP, ↑Osteoblast activity, ↓Osteoclast activity
+Strong
+Meta-analysis of 6 RCTs (846 patients) shows significant ↑BMD and therapeutic effect vs. conventional treatment.4
+Generally well-tolerated. Mild GI symptoms are the most common adverse effect.4 Contraindicated in "yin deficiency" in TCM.47
+No known drug interactions.47
+Zingiber officinale (Ginger)
+Gingerols, Shogaols
+Anti-inflammatory, Antioxidant
+Limited (for OP)
+Human trial shows benefit when co-supplemented with curcumin in postmenopausal women with OP.48 Strong preclinical data.
+Excellent safety profile. Mild GI upset at very high doses. Caution with anticoagulants.26
+Minimal. Potential interaction with anticoagulants at high doses.
+Panax notoginseng (San Qi, Tianqi)
+Saponins (Ginsenosides)
+Anti-inflammatory, Angiogenesis, Estrogenic effects, ↑Wnt/β-catenin
+Moderate
+8 clinical trials (in formulas) show good effects for osteoporotic fractures.11 RCT on related ginseng shows ↑osteocalcin.50
+Potential liver/kidney toxicity with long-term use. Hormone-sensitive conditions, pregnancy.11
+Warfarin, Aspirin, CYP1A2 substrates.51
+Boswellia serrata (Frankincense, Shallaki)
+Boswellic acids (AKBA)
+Anti-inflammatory (↓TNF-α), ↓RANKL, ↓Osteoclast activity
+Moderate (for OA)
+Multiple strong RCTs show significant pain reduction and improved function in osteoarthritis.54 No direct OP trials.
+Generally very safe. Mild GI upset. Avoid in pregnancy.56
+Immunosuppressants, drugs metabolized by liver enzymes.56
+Psoralea corylifolia (Bu Gu Zhi)
+Corylin, Psoralen
+↑OPG/↓RANKL, ↓NFATc1, ↓c-fos
+Limited (in formulas)
+Strong preclinical data shows ↑BMD.8 Human evidence is from its use in formulas like XLGB.59
+Significant risk of hepatotoxicity (liver damage).19
+Unknown, but liver toxicity risk is the primary concern.
+Ligustrum lucidum (Nu Zhen Zi, Glossy Privet)
+Oleanolic acid, Salidroside
+↑Ca absorption, ↑PTH/Vit D, ↓Osteoclast activity, Phytoestrogenic
+None (for OP)
+Strong preclinical data.61 No human OP trials. Raw berries/leaves are toxic.66
+Excellent safety profile for processed fruit. Mild, transient GI upset. Raw plant is toxic.61
+Very limited data available.
+Angelica sinensis (Dong Quai, Dang Gui)
+Ferulic acid, Falcarinphthalides
+Phytoestrogenic, ↓Osteoclast activity, ↑Wnt/β-catenin (in formula)
+Limited (in formulas)
+Evidence from formulas like DBT.73 New compounds show potent anti-osteoclast activity in vitro.72
+Photosensitivity, pregnancy, bleeding disorders, hormone-sensitive cancers.71
+Anticoagulants (Warfarin), Lisinopril.71
+Cissus quadrangularis (Hadjod, Veldt Grape)
+Anabolic steroids, Antioxidants
+↓Osteoclast activity, ↑Fracture healing markers (osteopontin)
+Moderate
+Human trial shows it delays bone loss in osteopenia.75 Other trials show faster fracture healing.75
+Generally safe. Mild side effects (headache, gas). Avoid in pregnancy.75
+No known major interactions.
+Rehmannia glutinosa (Shu Di Huang)
+Catalpol, Iridoids
+↑Osteoblast activity, ↓Osteoclast activity, ↑OPG
+Limited (in formulas)
+Evidence from formulas like LWDHP shows ↑BMD in postmenopausal women.18
+Possibly safe short-term. Caution with diabetes, hypotension. Stop 2 weeks before surgery.78
+Antidiabetes drugs, Antihypertensives.78
+Thymus vulgaris (Thyme)
+Thymol, Carvacrol
+Anti-inflammatory, Antioxidant, Phytoestrogenic
+Moderate
+Human trials show ↑BMD vs. baseline and standard care, and synergy with alendronate.81
+Generally very safe. Caution with hormone-sensitive conditions. Stop 2 weeks before surgery.82
+Anticoagulants, Anticholinergic drugs, Estrogens.82
+Cornus officinalis (Shan Zhu Yu)
+Morroniside, Loganin
+↑Osteoblast activity, ↓Osteoclast activity, Immunomodulatory
+Limited (in formulas)
+Evidence from formulas like LWDHP.1 No standalone human OP trials.
+Generally well-tolerated. Limited safety data. Caution with blood thinners.28
+Anticoagulants (theoretical), drugs metabolized by the liver.28
+Rosmarinus officinalis (Rosemary)
+Carnosic acid
+Anti-inflammatory, Antioxidant, Rich in bone minerals
+None (for OP)
+Strong preclinical data shows ↑BMD.83 No human OP trials.
+Safe in food amounts. High doses can cause GI/kidney issues. Avoid medicinal doses in pregnancy.84
+No known major interactions.
+Eucommia ulmoides (Du Zhong)
+Flavonoids, Lignans
+↑OPG/↓RANKL, Regulates gut microbiota
+Limited
+Human trial on OA completed, results pending.85 Strong preclinical data shows ↑BMD and improved microstructure.10
+Appears safe in animal studies with no toxic side effects.10 Limited human data.
+Limited data available.
+Lepidium meyenii (Maca)
+Macamides, Sterols
+Hormonal modulation, Protects bone architecture (preclinical)
+None (for OP)
+No human OP trials.13 Animal data shows bone protection without uterine estrogenic effects.86
+Generally safe. Can cause moodiness, insomnia, GI upset. Avoid with hormone-sensitive conditions.88
+No known major interactions, but caution with hormone therapies.
+Cuscuta chinensis (Tu Si Zi)
+Quercetin, Hyperin
+↑OPG/↓RANKL, ↑RunX2
+None (for OP)
+Strong preclinical data in glucocorticoid-induced OP.9 No human OP trials.
+Good safety profile. Mild side effects (gas, headache). No significant liver/kidney issues in one human trial.90
+Limited data available.
+Shilajit
+Fulvic acid, Minerals
+Antioxidant, Anti-inflammatory
+Limited
+One human trial in postmenopausal women with osteopenia showed ↓bone loss and inflammation.93
+High risk of heavy metal contamination in raw products. Purified form is relatively safe.21
+Blood thinners, Diabetes medications.92
+Achyranthes bidentata (Niu Xi)
+Triterpenoids, Steroids
+↑BMD (animal meta-analysis), ↑Bone formation, ↓Bone resorption
+Limited (in formulas)
+Animal meta-analysis shows effective ↑BMD.3 Human evidence is from formulas.3
+Generally safe. High doses may cause GI upset. Limited safety data.94
+Limited data available.
+Tinospora cordifolia (Guduchi, Amrita)
+Alkaloids, Diterpenoids
+Immunomodulatory, Anti-inflammatory, Antioxidant
+None (for OP)
+No human OP trials.99
+Contraindicated in autoimmune diseases (MS, Lupus, RA).100
+Antidiabetes drugs, Immunosuppressants, CYP450 substrates.100
+Astragalus membranaceus (Huang Qi)
+Polysaccharides, Flavonoids
+Immunomodulatory, ↑Osteoblast proliferation
+None (for OP)
+No high-quality human OP trials.25 Evidence from formulas.73
+Contraindicated in autoimmune diseases.25
+Immunosuppressants, Anticoagulants, Lithium, Estrogen-blockers.25
+Nigella sativa (Black Cumin Seed)
+Thymoquinone (TQ)
+Antioxidant, Anti-inflammatory (↓NF-κB)
+Limited
+Emerging human data.48
+Contraindicated in pregnancy, before surgery, with anticoagulant therapy.24
+Antidiabetes drugs, Antihypertensives, Anticoagulants, CYP3A4/2D6 substrates.24
+Cistanche deserticola (Rou Cong Rong)
+Phenylethanoid glycosides
+Regulates lipid metabolism, ↑Osteoblast activity
+None (for OP)
+No human OP trials.107
+Very limited safety and interaction data available.
+Very limited data available.108
+Humulus lupulus (Hops)
+8-prenylnaringenin
+Potent Phytoestrogenic, Antioxidant
+None (for OP)
+No human OP trials.16
+Caution/avoid in hormone-sensitive cancers. Can cause drowsiness.110
+Potential interaction with other sedatives.
+Carthamus tinctorius (Hong Hua, Safflower)
+Polysaccharides
+↑Osteoblast proliferation, ↓Bone turnover
+None (for OP)
+No human OP trials.113
+Contraindicated in pregnancy (uterine stimulant).117
+Limited data available.
+Withania somnifera (Ashwagandha)
+Withanolides
+Adaptogenic (stress reduction), Anti-inflammatory
+None (for OP)
+No human OP trials.121
+Rare risk of liver injury. Contraindicated in pregnancy, autoimmune/thyroid disorders, hormone-sensitive prostate cancer.121
+Diabetes/hypertension meds, Immunosuppressants, Sedatives, Thyroid meds.121
+Morindae Officinalis Radix (Ba Ji Tian)
+Anthraquinones, Polysaccharides
+↑Bone formation, ↓Bone resorption
+None (for OP)
+No human OP trials.124
+Limited safety data. Caution with diabetes.124
+Diabetes medications (theoretical).124
+Dioscorea opposita (Shan Yao, Chinese Yam)
+Diosgenin
+Hormonal modulation (indirect)
+None (for OP)
+No human OP trials.13
+Avoid with hormone-sensitive conditions. Can cause GI upset in large doses.127
+Estradiol.127
+Guggul (Commiphora wightii)
+Guggulsterones
+Anti-inflammatory, Tissue-strengthening
+Limited (for OA)
+Human trial for OA shows improved pain/function.132
+Rare risk of liver issues. Hypersensitivity rash.128
+CYP3A4 substrate drugs (major interaction).128
+Triphala
+Tannins, Flavonoids, Vit C
+Antioxidant, Anti-inflammatory, Gentle laxative
+None (for OP)
+No human OP trials.135
+Excellent safety profile. Mild laxative effect.133
+No major documented interactions.
+Acanthopanax senticosus (Siberian Ginseng)
+Eleutheroside E
+Adaptogenic, Anti-inflammatory, ↑Bone growth (preclinical)
+None (for OP)
+No human OP trials.137
+Not for high blood pressure/heart conditions. Can cause nervousness, insomnia.137
+Warfarin, Caffeine/stimulants.140
+Salvia officinalis (Common Sage)
+Flavonoids, Thujone
+Phytoestrogenic
+None (for OP)
+No human OP trials.141
+Thujone can be neurotoxic in high doses.142
+Limited data available.
+Prunus persica (Tao Ren, Peach Kernel)
+Amygdalin
+Invigorates blood circulation
+None (for OP)
+No human OP trials.143
+Contraindicated in pregnancy and menstruation.145
+Anticoagulants (theoretical).116
+Er-Xian Decoction (Formula)
+Icariin, Berberine, etc.
+Multi-target: Phytoestrogenic, Anti-inflammatory, Balances Yin/Yang
+Limited (formula)
+Animal studies show it attenuates bone loss.30
+Complex safety profile based on components. Requires expert prescription.
+Complex interactions based on components.
+Xian-Ling-Gu-Bao (Formula)
+Icariin, Danshensu, etc.
+Multi-target: Phytoestrogenic, ↑Blood circulation, ↑Bone formation
+Moderate
+Systematic review shows ↑BMD similar to conventional meds, improves QoL and pain.59
+Good safety in trials, but contains Psoralea (hepatotoxic risk) and herbs with hormonal/blood-thinning effects.59
+Complex interactions based on components.
+Works cited
+Cornus officinalis: a potential herb for treatment of osteoporosis - PMC - PubMed Central, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC10725965/
+(PDF) Integration of network pharmacology and bone marrow mesenchymal stem cells experimental research to reveal the molecular mechanisms for Hai Honghua medicinal liquor against osteoporosis - ResearchGate, accessed June 28, 2025, https://www.researchgate.net/publication/377743075_Integration_of_network_pharmacology_and_bone_marrow_mesenchymal_stem_cells_experimental_research_to_reveal_the_molecular_mechanisms_for_Hai_Honghua_medicinal_liquor_against_osteoporosis
+Osteoprotective effect of Achyranthes bidentata root extract on osteoporotic rats: a systematic review and meta-analysis, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11457373/
+Total flavonoids from Rhizoma Drynariae (Gusuibu) for treating osteoporotic fractures: implication in clinical practice - PMC, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC5491704/
+Epimedium for Osteoporosis Based on Western and Eastern Medicine: An Updated Systematic Review and Meta-Analysis, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC9008843/
+A Systematic Review on the Molecular Mechanisms of Resveratrol in Protecting Against Osteoporosis - PMC, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11988631/
+Anti-Osteoporotic Activity of a Chinese Herb Salvia miltiorrhiza (Red ..., accessed June 28, 2025, https://www.ijisrt.com/assets/upload/files/IJISRT25MAR132.pdf
+Effects of psoralen corylifolia extract on bone mineral density and ..., accessed June 28, 2025, https://pesquisa.bvsalud.org/gim/resource/pt/wpr-848078
+Beneficial effects of Cuscuta chinensis extract on glucocorticoid-induced osteoporosis through modulation of RANKL/OPG signals - PubMed, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/31826180/
+Total flavonoids isolated from Eucommia ulmoides can alleviate bone loss and regulate intestinal microbiota in ovariectomized rats - Frontiers, accessed June 28, 2025, https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1513863/full
+The potential therapeutic effects of Panax notoginseng in ... - PubMed, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/40354676/
+www.researchgate.net, accessed June 28, 2025, https://www.researchgate.net/publication/299412830_Effect_of_Salvia_Officinalis_L_Sage_Herbs_on_Osteoporotic_Changes_in_Aged_Non-Cycling_Female_Rats#:~:text=The%20most%20common%20type%20of,beverages%20may%20benefit%20bone%20health.
+Yam: Benefits, Dosage, Contraindications - Darwin Nutrition, accessed June 28, 2025, https://www.darwin-nutrition.fr/en/active/yam/
+The Impact of Thyme and Rosemary on Prevention of Osteoporosis in Rats - PMC, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC6462344/
+www.researchgate.net, accessed June 28, 2025, https://www.researchgate.net/publication/381087765_Anti-osteoporotic_effects_of_Boswellia_serrata_gum_resin_extract_in_vitro_and_in_vivo#:~:text=Acetyl%2D11%2Dketo%2D%CE%B2,a%20reduction%20in%20osteoclast%20activity.
+Humulus lupulus L. Extract Protects against Senior Osteoporosis through Inhibiting Amyloid β Deposition and Oxidative Stress in APP/PS1 Mutated Transgenic Mice and Osteoblasts - PubMed, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/36677642/
+Comprehensive systematic review and meta-analysis on the therapeutic efficacy of curcumin in osteoporosis: unveiling mechanisms - Frontiers, accessed June 28, 2025, https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1590256/pdf
+Advancement in treating osteoporosis with traditional Chinese medicine Liuwei Dihuang pill - Frontiers, accessed June 28, 2025, https://www.frontiersin.org/journals/musculoskeletal-disorders/articles/10.3389/fmscd.2025.1575864/epub
+Evaluation of the hepatotoxicity of Psoralea corylifolia L. based on a zebrafish model, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/38449808/
+A review of Psoralea corylifolia L.: a valuable plant with profound biological significance, accessed June 28, 2025, https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1521040/full
+Shilajit Benefits, Side Effects and Uses - Cleveland Clinic Health Essentials, accessed June 28, 2025, https://health.clevelandclinic.org/shilajit-benefits
+Danshen: Health Benefits, Side Effects, Uses, Dose & Precautions - RxList, accessed June 28, 2025, https://www.rxlist.com/supplements/danshen.htm
+Panax Ginseng Oral: Uses, Side Effects, Interactions, Pictures, Warnings & Dosing - WebMD, accessed June 28, 2025, https://www.webmd.com/drugs/2/drug-64134/panax-ginseng-oral/details
+What are the side effects of black seed oil? - SingleCare, accessed June 28, 2025, https://www.singlecare.com/blog/black-seed-oil-side-effects/
+Astragalus - Special Subjects - Merck Manual Consumer Version, accessed June 28, 2025, https://www.merckmanuals.com/home/special-subjects/dietary-supplements-and-vitamins/astragalus
+World Osteoporosis Day 2023: These Ayurvedic Herbs Can Provide Relief From Joint Pain, Here's How - NDTV, accessed June 28, 2025, https://www.ndtv.com/health/world-osteoporosis-day-2023-these-ayurvedic-herbs-can-provide-relief-from-joint-pain-heres-how-4495299
+NU ZHEN ZI – Chinese Herbal Medicine, accessed June 28, 2025, https://ccmlondon.com/app_herbs/nu-zhen-zi/
+SHAN ZHU YU – Chinese Herbal Medicine, accessed June 28, 2025, https://ccmlondon.com/app_herbs/shan-zhu-yu/
+Ba Ji Tian (Morinda) (巴戟天) - Plum Dragon Herbs, accessed June 28, 2025, https://plumdragonherbs.com/products/ba-ji-tian
+Erxian Decoction Attenuates TNF-α Induced Osteoblast ... - Frontiers, accessed June 28, 2025, https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2019.00988/full
+Definition of xianling gubao - NCI Drug Dictionary, accessed June 28, 2025, https://www.cancer.gov/publications/dictionaries/cancer-drug/def/xianling-gubao
+Xianling Gubao capsules improve oral health, alveolar bone defects, and bone density in patients with periodontitis - e-Century Publishing Corporation, accessed June 28, 2025, https://e-century.us/files/ajtr/17/2/ajtr0161568.pdf
+Relationship: Osteoporosis and Epimedium - Caring Sunshine, accessed June 28, 2025, https://caringsunshine.com/relationships/relationship-osteoporosis-and-epimedium/
+Horny Goat Weed: MedlinePlus Supplements, accessed June 28, 2025, https://medlineplus.gov/druginfo/natural/699.html
+Regular Supplementation With Resveratrol Improves Bone Mineral Density in Postmenopausal Women: A Randomized, Placebo‐Controlled Trial - PubMed Central, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC7689937/
+RESVERATROL: Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews - WebMD, accessed June 28, 2025, https://www.webmd.com/vitamins/ai/ingredientmono-307/resveratrol
+Salvia miltiorrhiza in osteoporosis: a review of its phytochemistry, traditional clinical uses and preclinical studies (2014–2024) - PMC, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11484006/
+Acupuncture for Osteoporosis - Dr. Jenny Zhao Cheltenham Acupuncture, accessed June 28, 2025, https://cheltenham-acupuncture.com/osteoporasis
+Red sage: could this ancient Chinese herb prevent bone loss? - Pharmaceutical Technology, accessed June 28, 2025, https://www.pharmaceutical-technology.com/features/red-sage-ancient-chinese-herb-prevent-bone-loss/
+Salvia miltiorrhiza in osteoporosis: a review of its phytochemistry, traditional clinical uses and preclinical studies (2014-2024) - PubMed, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/39421672/
+Salvia miltiorrhiza in osteoporosis: a review of its phytochemistry, traditional clinical uses and preclinical studies (2014–2024) - ResearchGate, accessed June 28, 2025, https://www.researchgate.net/publication/384601207_Salvia_miltiorrhiza_in_osteoporosis_a_review_of_its_phytochemistry_traditional_clinical_uses_and_preclinical_studies_2014-2024
+go.drugbank.com, accessed June 28, 2025, https://go.drugbank.com/drugs/DB14337#:~:text=Salvia%20miltiorrhiza%20root%20may%20increase%20the%20hypotensive%20activities%20of%20Felodipine.&text=Salvia%20miltiorrhiza%20root%20may%20increase%20the%20hypotensive%20activities%20of%20Fenoldopam.&text=Salvia%20miltiorrhiza%20root%20may%20increase%20the%20hypotensive%20activities%20of%20Fosinopril.&text=Salvia%20miltiorrhiza%20root%20may%20increase%20the%20hypotensive%20activities%20of%20Furosemide.
+Salvia miltiorrhiza root: Uses, Interactions, Mechanism of Action, accessed June 28, 2025, https://go.drugbank.com/drugs/DB14337
+Understanding Osteoporosis: An Ayurvedic Perspective - Sandhya Medicity, accessed June 28, 2025, https://sandhyamedicityindia.com/osteoporosis/
+The beneficial effects of curcumin on aging and age-related diseases: from oxidative stress to antioxidant mechanisms, brain hea - Frontiers, accessed June 28, 2025, https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2025.1533963/pdf
+www.healthline.com, accessed June 28, 2025, https://www.healthline.com/nutrition/turmeric-side-effects#:~:text=better%2Dquality%20sleep.-,The%20bottom%20line,or%20diarrhea%2C%20at%20high%20doses.
+Drynaria (Gu Sui Bu) - Herbs & Botanicals | Acupuncture Today, accessed June 28, 2025, https://acupuncturetoday.com/herbs-and-botanicals/drynaria-gu-sui-bu
+Review of the Potential Mechanism of Ginger in Alleviating Osteoporosis | Scilit, accessed June 28, 2025, https://www.scilit.com/publications/03e38868f9deb460195b71ef38b41262
+Du Zhong, Tian qi & Oxtail Stew - Mayway Herbs, accessed June 28, 2025, https://www.mayway.com/blogs/articles/osteoporosis-oxtail-stew
+Effect of Ginseng Extracts on the Improvement of Osteopathic and Arthritis Symptoms in Women with Osteopenia: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial - MDPI, accessed June 28, 2025, https://www.mdpi.com/2072-6643/13/10/3352
+PANAX NOTOGINSENG: Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews - WebMD, accessed June 28, 2025, https://www.webmd.com/vitamins/ai/ingredientmono-906/panax-notoginseng
+Anti-osteoporotic effects of Boswellia serrata gum resin extract in ..., accessed June 28, 2025, https://www.researchgate.net/publication/381087765_Anti-osteoporotic_effects_of_Boswellia_serrata_gum_resin_extract_in_vitro_and_in_vivo
+5 Benefits and Uses of Frankincense — and 6 Myths - Healthline, accessed June 28, 2025, https://www.healthline.com/nutrition/frankincense
+Osteo Bi-Flex Highlights Clinical Findings on Boswellia Serrata for Joint Health, accessed June 28, 2025, https://www.nutritionaloutlook.com/view/osteo-bi-flex-highlights-clinical-findings-on-boswellia-serrata-for-joint-health
+A standardized Boswellia serrata extract shows improvements in knee osteoarthritis within five days-a double-blind, randomized, three-arm, parallel-group, multi-center, placebo-controlled trial - Frontiers, accessed June 28, 2025, https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1428440/full
+Boswellia: Osteoarthritis Treatment Uses, Warnings, Side Effects, Dosage - MedicineNet, accessed June 28, 2025, https://www.medicinenet.com/boswellia/article.htm
+Boswellia Serrata – Uses, Side Effects, and More - WebMD, accessed June 28, 2025, https://www.webmd.com/vitamins/ai/ingredientmono-63/boswellia-serrata
+Integrative Review on the Chemical Components, Pharmacology and Toxicology of Psoralea Corylifolia L. (Bu Gu Zhi), accessed June 28, 2025, https://www.xiahepublishing.com/2835-6357/FIM-2022-00051
+Chinese Proprietary Medicine Xianling Gubao Capsule for Osteoporosis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials - Frontiers, accessed June 28, 2025, https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.870277/full
+Attenuating bone loss in osteoporosis: the potential of corylin (CL) as a therapeutic agent, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/38862240/
+Fructus Ligustri Lucidi in Osteoporosis: A Review of its Pharmacology, Phytochemistry, Pharmacokinetics and Safety - PubMed Central, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC6151717/
+Fructus ligustri lucidi ethanol extract improves bone mineral density and properties through modulating calcium absorption-related gene expression in kidney and duodenum of growing rats - PubMed, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/24343527/
+Ligustrum's therapeutic uses | EBSCO Research Starters, accessed June 28, 2025, https://www.ebsco.com/research-starters/health-and-medicine/ligustrums-therapeutic-uses
+Ligustrum lucidum - Memorial Sloan Kettering Cancer Center, accessed June 28, 2025, https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ligustrum-lucidum
+Relationship: Osteoporosis and Chinese Ligustrum berry - Caring, accessed June 28, 2025, https://caringsunshine.com/relationships/relationship-osteoporosis-and-chinese-ligustrum-berry/
+Glossy privet - Ligustrum lucidum (Care, Characteristics, Flower, Images, Toxic) - PictureThis, accessed June 28, 2025, https://www.picturethisai.com/wiki/Ligustrum_lucidum.html
+Is Ligustrum Lucidum Poisonous? Uncover the Truth - Plant In - Alibaba.com, accessed June 28, 2025, https://plantin.alibaba.com/plant-care/ligustrum-lucidum
+pubs.acs.org, accessed June 28, 2025, https://pubs.acs.org/doi/10.1021/acscentsci.3c01414#:~:text=Angelica%20sinensis%2C%20commonly%20known%20as,prevention%20and%20treatment%20of%20osteoporosis.
+Compounds in female ginseng could lead to new osteoporosis treatments - ScienceDaily, accessed June 28, 2025, https://www.sciencedaily.com/releases/2024/02/240221160418.htm
+Dang Gui Yin Zi - 当归饮子 - Dang Gui Decoction (Granules) - Treasure of the East, accessed June 28, 2025, https://treasureoftheeast.com/products/dang-gui-yin-zi
+Dong Quai - Memorial Sloan Kettering Cancer Center, accessed June 28, 2025, https://www.mskcc.org/cancer-care/integrative-medicine/herbs/dong-quai
+Compounds in female ginseng could lead to new osteoporosis treatments, accessed June 28, 2025, https://www.acs.org/pressroom/presspacs/2024/february/compounds-in-female-ginseng-could-lead-to-new-osteoporosis-treatments.html
+Calycosin Orchestrates Osteogenesis of Danggui Buxue Tang in Cultured Osteoblasts: Evaluating the Mechanism of Action by Omics and Chemical Knock-out Methodologies - Frontiers, accessed June 28, 2025, https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2018.00036/full
+Cissus quadrangularis (Hadjod) Inhibits RANKL-Induced Osteoclastogenesis and Augments Bone Health in an Estrogen-Deficient Preclinical Model of Osteoporosis Via Modulating the Host Osteoimmune System, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC9857034/
+What Does the Science Say About Cissus quadrangularis? - Verywell Health, accessed June 28, 2025, https://www.verywellhealth.com/cissus-quadrangularis-everything-you-need-to-know-8348941
+Definition of Shu Di Huang - NCI Drug Dictionary, accessed June 28, 2025, https://www.cancer.gov/publications/dictionaries/cancer-drug/def/shu-di-huang
+Advancement in treating osteoporosis with traditional Chinese medicine Liuwei Dihuang pill, accessed June 28, 2025, https://www.frontiersin.org/journals/musculoskeletal-disorders/articles/10.3389/fmscd.2025.1575864/full
+Rehmannia | vital.ly, accessed June 28, 2025, https://www.vital.ly/trc/Rehmannia/monograph=1117/
+Strong herbs for strong bones | Cape Gazette, accessed June 28, 2025, https://www.capegazette.com/article/strong-herbs-strong-bones/16010
+The Impact of Thyme and Rosemary on Prevention of Osteoporosis ..., accessed June 28, 2025, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6462344/
+Does thyme supplementation prevent osteoporosis by improving bone mineral density?, accessed June 28, 2025, https://consensus.app/search/does-thyme-supplementation-prevent-osteoporosis-by/A_y3Mdg3QKqHCj8zwyz0qw/
+THYME: Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews, accessed June 28, 2025, https://www.webmd.com/vitamins/ai/ingredientmono-823/thyme
+EFFECT OF ROSEMARY ON GLUCOCORTICOID INDUCED OSTEOPOROSIS IN RATS - Index Copernicus, accessed June 28, 2025, https://journals.indexcopernicus.com/api/file/viewByFileId/817993
+Rosemary: Side Effects, Uses, Dosage, Interactions, Warnings - RxList, accessed June 28, 2025, https://www.rxlist.com/rosemary/generic-drug.htm
+Study Details | Efficacy and Safety of Cortex Eucommiae (CE: Eucommia Ulmoides Oliver Extract) in Subjects With Mild Osteoarthritis | ClinicalTrials.gov, accessed June 28, 2025, https://www.clinicaltrials.gov/study/NCT03744611
+Ethnobiology and Ethnopharmacology of Lepidium meyenii (Maca ..., accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC3184420/
+www.pharmacist.com, accessed June 28, 2025, http://www.pharmacist.com/Blogs/CEO-Blog/macas-therapeutic-effects#:~:text=The%20authors%20found%20that%20though,the%20treatment%20of%20some%20tumors.
+Maca: Health Benefits, Safety Information, Dosage, and More, accessed June 28, 2025, https://www.webmd.com/diet/health-benefits-maca
+Beneficial effects of Cuscuta chinensis extract on glucocorticoid-induced osteoporosis through modulation of RANKL/OPG signals, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC6903142/
+The Effect of Cuscuta chinensis on Mild to Moderate Depression: a Double-Blind Randomized Clinical Trial - Research Journal of Pharmacognosy, accessed June 28, 2025, https://www.rjpharmacognosy.ir/article_215604.html
+The Effect of Cuscuta chinensis on Mild to Moderate Depression: a Double- Blind Randomized Clinical Trial - Research Journal of Pharmacognosy, accessed June 28, 2025, https://www.rjpharmacognosy.ir/article_215604_756589b3a83cfa9ea1a477923e71187a.pdf
+Is Shilajit Safe? Understanding the Benefits and Side Effects, accessed June 28, 2025, https://www.afdil.com/blog/is-shilajit-safe-understanding-the-benefits-and-side-effects/
+Shilajit: 9 Benefits, Side Effects, and Uses - Verywell Health, accessed June 28, 2025, https://www.verywellhealth.com/the-benefits-of-shilajit-89514
+Achyranthes bidentata Extract Benefits - Ontosight | AI, accessed June 28, 2025, https://ontosight.ai/glossary/term/achyranthes-bidentata-extract-benefits--67a24fd5c445bf945aeed8ec
+Unraveling the potential mechanisms of the anti-osteoporotic effects of the Achyranthes bidentata–Dipsacus asper herb pair: a network pharmacology and experimental study - Frontiers, accessed June 28, 2025, https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1242194/full
+Guduchi | Herbs - Herbal Reality, accessed June 28, 2025, https://www.herbalreality.com/herb/guduchi/
+Tinospora cordifolia (Willd.) Hook. f. and Thoms. (Guduchi) – validation of the Ayurvedic pharmacology through experimental and clinical studies - PubMed Central, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC2924974/
+Tinospora Uses, Benefits & Dosage - Drugs.com, accessed June 28, 2025, https://www.drugs.com/npp/tinospora.html
+www.ncbi.nlm.nih.gov, accessed June 28, 2025, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5689116/
+TINOSPORA CORDIFOLIA: Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews - WebMD, accessed June 28, 2025, https://www.webmd.com/vitamins/ai/ingredientmono-1157/tinospora-cordifolia
+Astragalus Membranaceus—Can It Delay Cellular Aging? - PMC - PubMed Central, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC12029721/
+A Study on the Longitudinal Bone Growth of Growth-stimulating Material with Eleutherococcus senticosus - ResearchGate, accessed June 28, 2025, https://www.researchgate.net/publication/263646296_A_Study_on_the_Longitudinal_Bone_Growth_of_Growth-stimulating_Material_with_Eleutherococcus_senticosus
+The Standardized BHH10 Extract, a Combination of Astragalus membranaceus , Cinnamomum cassia , and Phellodendron amurense , Reverses Bone Mass and Metabolism in a Rat Model of Postmenopausal Osteoporosis - ResearchGate, accessed June 28, 2025, https://www.researchgate.net/publication/265734658_The_Standardized_BHH10_Extract_a_Combination_of_Astragalus_membranaceus_Cinnamomum_cassia_and_Phellodendron_amurense_Reverses_Bone_Mass_and_Metabolism_in_a_Rat_Model_of_Postmenopausal_Osteoporosis
+Nigella sativa: A Potential Antiosteoporotic Agent - PMC, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC3438907/
+Cistanche deserticola extract increases bone formation in osteoblasts - ResearchGate, accessed June 28, 2025, https://www.researchgate.net/publication/224931318_Cistanche_deserticola_extract_increases_bone_formation_in_osteoblasts
+Cistanche deserticola improves ovariectomized-induced osteoporosis mainly by regulating lipid metabolism: Insights from serum metabolomics using UPLC/Q-TOF-MS - PubMed, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/38110131/
+Study Details | Senolytics to Improve Osteoporosis Therapy | ClinicalTrials.gov, accessed June 28, 2025, https://clinicaltrials.gov/study/NCT06018467?term=elysium&viewType=Table&rank=10
+Cisatracurium Interactions Checker - Drugs.com, accessed June 28, 2025, https://www.drugs.com/drug-interactions/cisatracurium.html
+Humulus lupulus Promoting Osteoblast Activity and Bone Integrity: Effects and Mechanisms, accessed June 28, 2025, https://www.mdpi.com/2079-7737/14/5/582
+www.webmd.com, accessed June 28, 2025, https://www.webmd.com/vitamins/ai/ingredientmono-856/hops#:~:text=to%203%20months.-,Hops%20bitter%20acids%20have%20been%20used%20safely%20in%20doses%20of,safe%20side%20and%20avoid%20use.
+Determination of Mineral Content in Methanolic Safflower (Carthamus tinctorius L.) Seed Extract and Its Effect on Osteoblast Markers, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC2662456/
+Effects of Dietary from Safflower Bud on the Osteoporosis in ..., accessed June 28, 2025, https://www.koreascience.kr/article/JAKO201404164659662.page
+Medical uses of Carthamus tinctorius L. (Safflower): a comprehensive review from Traditional Medicine to Modern Medicine - PubMed Central, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC5984022/
+Lessons learned from an osteoporosis clinical trial in frail long-term care residents - PubMed, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/22157987/
+Effects of 18-month low-magnitude high-frequency vibration on fall rate and fracture risks in 710 community elderly--a cluster-randomized controlled trial - PubMed, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/24676848/
+TAO REN – Chinese Herbal Medicine, accessed June 28, 2025, https://ccmlondon.com/app_herbs/tao-ren/
+Safflower Uses, Benefits & Side Effects - Drugs.com, accessed June 28, 2025, https://www.drugs.com/npc/safflower.html
+Understanding Safflower Oil Allergy: Symptoms, Diagnosis, and Treatment - Wyndly, accessed June 28, 2025, https://www.wyndly.com/blogs/learn/safflower-oil-allergy
+Study Details | Safety of Ashwagandha (Withania Somnifera) Root Extract | ClinicalTrials.gov, accessed June 28, 2025, https://www.clinicaltrials.gov/study/NCT06261476?term=AREA%5BBasicSearch%5D(withania)&rank=2
+www.researchgate.net, accessed June 28, 2025, https://www.researchgate.net/publication/375905641_EFFECT_OF_ASHWAGANDHA_ON_BONE_MINERAL_DENSITY_IN_ANIMAL_MODELS_A_NARRATIVE_REVIEW#:~:text=Current%20treatments%20for%20osteoporosis%20have,its%20effects%20on%20bone%20health.
+Ashwagandha: Usefulness and Safety | NCCIH, accessed June 28, 2025, https://www.nccih.nih.gov/health/ashwagandha
+Ashwagandha Pharmacokinetics Study in Older Adults - ClinicalTrials.gov, accessed June 28, 2025, https://clinicaltrials.gov/study/NCT06171724?term=withania&viewType=Table&rank=6
+Ba Ji Tian (Morinda Root, Radix Morindae Officinalis, 巴戟天) bulk Chinese herb, accessed June 28, 2025, https://www.activeherb.com/chineseherbs/bajitian
+Ba Ji Tian: Health Benefits, Side Effects, Uses, Dose & Precautions - RxList, accessed June 28, 2025, https://www.rxlist.com/supplements/ba_ji_tian.htm
+Shan Yao (Dioscorea Rhizome) - A Delicious and Healthy Root - YINA, accessed June 28, 2025, https://yina.co/blogs/wellness-guide/shan-yao-a-versatile-root-for-health
+Wild Yam: Health Benefits, Side Effects, Uses, Dose & Precautions - RxList, accessed June 28, 2025, https://www.rxlist.com/supplements/wild_yam.htm
+Wild yam: Benefits, evidence, safety, and side effects - MedicalNewsToday, accessed June 28, 2025, https://www.medicalnewstoday.com/articles/322423
+Guggul - Memorial Sloan Kettering Cancer Center, accessed June 28, 2025, https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul
+Lakshadi Guggul : Benefits, Precautions and Dosage | 1mg, accessed June 28, 2025, https://www.1mg.com/ayurveda/lakshadi-guggul-268
+A clinical study to see the effect of some Ayurvedic formulations in the patients of Bone loss., accessed June 28, 2025, https://trial.medpath.com/clinical-trial/3cf1ba926cdfe88d
+A clinical study to see the effect of some Ayurvedic formulations in the patients of Bone loss., accessed June 28, 2025, https://trial.medpath.com/clinical-trial/3cf1ba926cdfe88d/laksha-guggulu-mukta-shukti-pishti-osteopenia-osteoporosis
+The effectiveness of Commiphora mukul for Osteoarthritis of the knee: An outcomes study, accessed June 28, 2025, https://www.researchgate.net/publication/10735363_The_effectiveness_of_Commiphora_mukul_for_Osteoarthritis_of_the_knee_An_outcomes_study
+Use of the Ayurvedic Drug Triphala in Medical Conditions Afflicting Older Adults | CoLab, accessed June 28, 2025, https://colab.ws/articles/10.1016%2FB978-0-12-418680-4.00014-2
+Therapeutic Uses of Triphala in Ayurvedic Medicine - PMC, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC5567597/
+accessed December 31, 1969, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9492237/
+A comparative clinical study to access the role of Basti and Virechana Karma followed by Rasayana in post menopausal Asthikshaya (Osteoporosis) - ResearchGate, accessed June 28, 2025, https://www.researchgate.net/publication/354558302_A_comparative_clinical_study_to_access_the_role_of_Basti_and_Virechana_Karma_followed_by_Rasayana_in_post_menopausal_Asthikshaya_Osteoporosis
+ELEUTHERO: Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews, accessed June 28, 2025, https://www.webmd.com/vitamins/ai/ingredientmono-985/eleuthero
+www.frontiersin.org, accessed June 28, 2025, https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2023.1257298/text
+Siberian Ginseng Uses, Benefits & Dosage - Drugs.com, accessed June 28, 2025, https://www.drugs.com/npp/eleutherococcus.html
+Ginseng Side Effects, Interactions and Warnings, accessed June 28, 2025, https://archive.legmt.gov/bills/2009/Minutes/House/Exhibits/buh52a03.pdf
+Search for: Salvia officinalis | Card Results | ClinicalTrials.gov, accessed June 28, 2025, https://clinicaltrials.gov/search?cond=Salvia%20officinalis&viewType=Table&rank=2
+pmc.ncbi.nlm.nih.gov, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC10832869/#:~:text=Its%20large%20intake%20is%20usually,cholinergic%20effects%20of%20various%20constituents.
+Tao Ren | Semen Persicae | Peach Kernel | Chinese Herbs - Phoenix Medical, accessed June 28, 2025, https://www.phoenixmedical.com/tao-ren
+Insight of Chinese Herbal Medicine in Treating Osteoporosis: Achievements from 2013 to 2023 - PubMed, accessed June 28, 2025, https://pubmed.ncbi.nlm.nih.gov/39192680
+Plum Flower, Peach Kernel Formula, Tao Ren Wan, 200 ct - Chinese Herbs Direct, accessed June 28, 2025, https://www.chineseherbsdirect.com/products/peach-kernel-formula-tao-ren-wan-200-ct-plum-flower
+Therapeutic potential of Erxian decoction and its special chemical markers in depression: a review of clinical and preclinical studies - PubMed Central, accessed June 28, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11194323/
