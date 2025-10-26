@@ -1,0 +1,112 @@
+Here is a list of combinations of herbs found in the provided sources, presented for a printed work:
+1. Pentaherb formula (Composition not fully specified, but Moutan cortex (Danpi) and gallic acid are mentioned as components)
+    ◦ Demonstrated anti-inflammatory and anti-allergic activities.
+    ◦ Liu, K., Hu, S., Chan, B., Wat, E., Lau, C., Hon, K., Fung, K., Leung, P., Hui, P., Lam, C., & Wong, C. (2013). Molecules (Basel, Switzerland), 18(3), 2483–2500. DOI:10.3390/molecules18032483.
+2. Thyme and Cinnamon extracts
+    ◦ Showed influence on broiler performance.
+    ◦ Al- Kassie, G. A. (2009). “Influence of Two Plant Extracts Derived From Thyme and Cinnamon on Broiler Performance.” Pakistan Veterinary Journal 29, no. 4: 169–173..
+3. Thyme Herb and Ivy Leaves fluid extract combination
+    ◦ Efficacy and tolerability evaluated in adults with acute bronchitis and productive cough.
+    ◦ Kemmerich, B., Eberhardt, R., & Stammer, H. (2006). “Efficacy and Tolerability of a Fluid Extract Combination of Thyme Herb and Ivy Leaves and Matched Placebo in Adults Suffering From Acute Bronchitis With Productive Cough.” Arzneimittel- Forschung 56, no. 9: 652–660..
+4. Thymus vulgaris extract with Atorvastatin
+    ◦ Effects on liver, kidney, heart, and brain histopathological features in diabetic and hyperlipidemic male rats were studied.
+    ◦ KoohiHosseinabadi, O., Moini, M., Safarpoor, A., Derakhshanfar, A., & Sepehrimanesh, M. (2015). “Effects of Dietary Thymus vulgaris Extract Alone or With Atorvastatin on the Liver, Kidney, Heart, and Brain Histopathological Features in Diabetic and Hyperlipidemic Male Rats.” Comparative Clinical Pathology 24: 1311–1315..
+5. Thyme and Primula extracts (fixed combination)
+    ◦ Investigated for anti-inflammatory and mucus-regulatory activities in vivo and in vitro.
+    ◦ Seibel, J., Kryshen, J., Pongrácz, J. E., & Lehner, M. D. (2018). “In Vivo and In Vitro Investigation of Antiinflammatory and Mucusregulatory Activities of a Fixed Combination of Thyme and Primula Extracts.” Pulmonary Pharmacology & Therapeutics 51: 10–17..
+6. Silybum marianum (Milk Thistle), Boswellia serrata, and Urtica dioica (Nettle) extracts (polyherbal treatment)
+    ◦ A mixed herbal formulation showed potential anti-hyperglycemic and triglyceride-lowering effects in a clinical trial for type II diabetes, alongside previous hypoglycemic treatment.
+    ◦ Khalili, N., et al. (2017). “Silymarin, olibanum, and nettle, a mixed herbal formulation in the treatment of type II diabetes: a randomized, double-blind, placebo-controlled, clinical trial,” J. Evidence-Based Complement. Alternat. Med. 22(4): 603e608. DOI:10.1177/2156587217696929.
+7. Commiphora mukul, Allium Sativum, and Curcuma longa (herbal composition)
+    ◦ Utilized to treat and/or prevent hyperlipidaemia, hypertension, atherosclerosis, and hypercholesterolaemia in animals.
+    ◦ WO/2004/069262 Herbal composition comprising commiphora mukul, Allium Sativum, and curcuma longa.
+8. Thymus vulgaris and Peganum harmala
+    ◦ Most often utilized Iranian plants for anti-leishmanial activities.
+    ◦ Saqlain, M., Wasif, Z., Ali, Q., Hayat, S. (2024). “Anti-parasitic activities of medicinal plants.” J. Life Soc. Sci, 2024: 21..
+9. Ginger (Zingiber officinale) and Clove (Syzygium aromaticum L.)
+    ◦ Mentioned in a comparative study of root extracts for chemical composition, antioxidant potential, and cell.
+    ◦ Abdel-Hady, H., Hamed, M. M., Nasr, S. M., El-Wakil, E. A. & Morsi, E. A. (2020). “Comparative Study of Alpinia officinarum and Zingiber officinale Root Extracts for Chemical Composition, Antioxidant Potential and Cell.” Biomolecules 10, DOI:10.3390/biom10020202..
+10. Berberis aristata and Silybum marianum extracts (fixed combination)
+    ◦ Demonstrated a clinical role in diabetic and hypercholesterolemic patients intolerant to statins.
+    ◦ Di Pierro, F., Bellone, I., Rapacioli, G., & Putignano, P. (2015). “Clinical Role of a Fixed Combination of Standardized Berberis Aristata and Silybum Marianum Extracts in Diabetic and Hypercholesterolemic Patients Intolerant to Statins.” Diabetes Metab. Syndr. Obes. 8: 89–96. DOI:10.2147/DMSO.S78877.
+11. Roselle (Hibiscus sabdariffa L.) and Red Ginger (Zingiber officinale var. rubrum)
+    ◦ Potential combination for antihypertensive treatment, with complementary mechanisms including ACE inhibition, antioxidant activity, and modulation of vascular tone. Further research is needed to validate combined effects and optimal dosage.
+    ◦ Yunas, F., et al. (2024). “Roselle and Red Ginger: A Potential Combination of Medicinal Plant.” Pharm Sci Res, Vol 11 No 3. E-ISSN 2477-0612.
+12. Danshen-Shanzha Formula (Radix Salvia Miltiorrhiza and Fructus Crataegi)
+    ◦ Well-known herbal combination documented for promoting blood circulation and removing blood stasis, extensively used in atherosclerotic cardiac and cerebral vascular diseases.
+    ◦ Contains shared components like protocatechuic acid, chlorogenic acid, caffeic acid, ferulic acid, maslinic acid, ursolic acid, and oleanolic acid.
+    ◦ Proanthocyanidin B2, salvianolic acid B, and tanshinone IIA are active ingredients responsible for its anti-atherosclerotic effect.
+    ◦ Chen, Y., Lai, F., Xu, H., & He, Y. (2025). “Chinese herb pairs for cardiovascular and cerebrovascular diseases: compatibility effects, pharmacological potential, clinical efficacy, and molecular mechanisms.” J. Ethnopharmacol. 347, 119516. DOI:10.1016/j.jep.2025.119516.
+13. Renshen-Fuzi herbal pair
+    ◦ Discovery of effective combination against heart failure by spectrum-effect relationship analysis and zebrafish models.
+    ◦ Li, C., Zhai, R., Zhu, X., et al. (2023). “Discovery of effective combination from renshen-fuzi herbal pair against heart failure by spectrum-effect relationship analysis and zebrafish models.” J Ethnopharmacol. 317:116832. DOI:10.1016/j.jep.2023.116832.
+14. Danshen-Honghua herbal pair
+    ◦ Discovery of a multi-component combination against vascular dementia by spectrum-effect relationship analysis.
+    ◦ Zhang, P., He, S., Wu, S., et al. (2022). “Discovering a multi-component combination against vascular dementia from danshen-honghua herbal pair by spectrum-effect relationship analysis.” Pharmaceuticals (Basel). 15(9):1073. DOI:10.3390/ph15091073.
+15. Curcuma longa and Allium hookeri extracts
+    ◦ A ratio of 3:7 showed optimal anti-inflammatory properties, indicating a synergistic plant-plant combination effect.
+    ◦ Lee, S. S., et al. (2020). “Optimization of anti-inflammatory properties of Curcuma longa and Allium hookeri extracts by combination ratio.” Food Sci. Biotechnol. 29(12): 1775-1784..
+16. Coriandrum sativum (Coriander) with Coscinium fenestratum
+    ◦ Showed potent in vivo anti-inflammatory activity.
+    ◦ Kothalawala, P. S., et al. (2020). “Potent anti-inflammatory activity of a concoction of Coriandrum sativum and Coscinium fenestratum.” Journal of Ethnopharmacology. 250: 112465..
+17. Cinnamaldehyde-curcumin-BBR (Berberine) formulations
+    ◦ Illustrates synergistic phytochemical combinations for improving Berberine's bioavailability and efficacy.
+    ◦ Kong, L., et al. (2025). “Strategies of enhancing Berberine’s bioavailability and efficacy.” European Journal of Medical Research 30:477..
+18. Berberine and Gymnema Sylvestre extracts (Pharmaceutical Composition)
+    ◦ A patent application for managing diabetes.
+    ◦ Chennupati et al. (2023). “Pharmaceutical Composition for Managing Diabetes with Berberine and Gymnema Sylvestre Extracts.” WO/2024/141073.
+19. Herbal formulation with Allium sativum, Eugenia jambolana, Momordica charantia, Ocimum sanctum, and Psidium guajava
+    ◦ Exhibited increased hepatic and intestinal phase II enzyme levels.
+    ◦ Goswami, S. (2024). “Gastroprotective potential of Indian medicinal plants: a comprehensive review.”.
+20. Modified Ojayeonjonghwan (Wuzi Yanzong wan)
+    ◦ A combination of herbal extracts with effects on partial urethral obstruction-induced detrusor overactivity in rats, impacting nitric oxide pathway and oxidative stress.
+    ◦ Bae, S., et al. (2019). “Effects of a combination of herbal extracts (modified Ojayeonjonghwan (Wuzi Yanzong wan)) on partial urethral obstruction-induced detrusor overactivity in rats: impact on the nitric oxide pathway and oxidative stress.” BMC Complement Altern Med. 19:64..
+21. Coptidis rhizoma (CR) and Glycyrrhizae radix et rhizoma (GRR)
+    ◦ High frequency of use (2159 times) in traditional and clinical uses for clearing heat and drying dampness, purging fire, detoxification, and diabetes.
+    ◦ Glycyrrhizin from GRR reacts to form berberine glycyrrhizate salt, which moderates the bitter taste of berberine and prolongs efficacy.
+    ◦ Co-administration of glycyrrhizin and berberine showed more efficiency than individual herbs, attenuating ischemia-reperfusion injury.
+    ◦ In a 3:2 ratio, it has an anti-diarrheal effect.
+    ◦ Li S-Y, Xu D-Q, Chen Y-Y, Fu R-J and Tang Y-P (2024), “Several major herb pairs containing Coptidis rhizoma: a review of key traditional uses, constituents and compatibility effects.” Front. Pharmacol. 15:1399460. DOI:10.3389/fphar.2024.1399460.
+22. Coptidis rhizoma (CR) and Scutellariae radix (SR)
+    ◦ High frequency of use (2071 times) for clearing heat, drying dampness, purging fire, and diabetes.
+    ◦ Compatibility efficacy related to changes in essential substances, with increased content of berberine and baicalin in the aqueous extract compared to single herbs, confirming synergistic effect. Optimal ratio for baicalin content is 2:1 (CR:SR).
+    ◦ Often used in a 1:1 ratio to treat diabetes mellitus.
+    ◦ Li S-Y, Xu D-Q, Chen Y-Y, Fu R-J and Tang Y-P (2024), “Several major herb pairs containing Coptidis rhizoma: a review of key traditional uses, constituents and compatibility effects.” Front. Pharmacol. 15:1399460. DOI:10.3389/fphar.2024.1399460.
+23. Coptidis rhizoma (CR) and Euodiae fructus (EF)
+    ◦ One of the major herb pairs, showed variations in bioactive components upon co-decoction, with a new substance potentially formed. Content of alkaloids in CR decreased with increasing proportion of EF.
+    ◦ Li S-Y, Xu D-Q, Chen Y-Y, Fu R-J and Tang Y-P (2024), “Several major herb pairs containing Coptidis rhizoma: a review of key traditional uses, constituents and compatibility effects.” Front. Pharmacol. 15:1399460. DOI:10.3389/fphar.2024.1399460.
+24. Coptidis rhizoma (CR) and Magnoliae Officinalis cortex (MOC)
+    ◦ Combined in Huanglian Houpo Decoction (HHD) in a 1:1 ratio to treat ulcers, colds, diarrhea, and influenza.
+    ◦ Honokiol promotes the absorption of berberine, leading to significantly higher berberine concentration in rat plasma when combined.
+    ◦ A 3:2 ratio (CR:MOC) can prevent intestinal barrier damage in ulcerative colitis, with more significant outcome than single herbs. Enhances CR’s antidiarrheal effect and alleviates its bitter and cold nature.
+    ◦ Li S-Y, Xu D-Q, Chen Y-Y, Fu R-J and Tang Y-P (2024), “Several major herb pairs containing Coptidis rhizoma: a review of key traditional uses, constituents and compatibility effects.” Front. Pharmacol. 15:1399460. DOI:10.3389/fphar.2024.1399460.
+25. Coptidis rhizoma (CR) and Ginseng radix et rhizoma (GRER)
+    ◦ A 1:1 ratio had a therapeutic effect on T2DM.
+    ◦ Li S-Y, Xu D-Q, Chen Y-Y, Fu R-J and Tang Y-P (2024), “Several major herb pairs containing Coptidis rhizoma: a review of key traditional uses, constituents and compatibility effects.” Front. Pharmacol. 15:1399460. DOI:10.3389/fphar.2024.1399460.
+26. Berberine and Ginseng (or Ginkgo Biloba)
+    ◦ Berberine enhances AMP-activated protein kinase (AMPK) activation for mitochondrial function and nerve damage reduction.
+    ◦ Ginseng and Ginkgo Biloba exhibit anti-inflammatory, anti-apoptotic, and neurotrophic properties for nerve protection, with combinations being explored to maximize benefits.
+    ◦ Almulla, K.S., Alharbi, A.H., Alqurashi, N.M. et al. (2025). “Therapeutic potential of herbal extracts and traditional medicine in diabetic neuropathy: a comprehensive review.” Naunyn-Schmiedeberg's Arch Pharmacol. DOI:10.1007/s00210-025-01790-2.
+27. Mulberry (Morus alba L.), Sea-buckthorn (Elaeagnus rhamnoides), Garlic (Allium sativum L.), Lily of the valley (Convallaria majalis L.), Motherwort (Leonurus cardiaca L.), and Hawthorn (Crataegus spp.)
+    ◦ These six herbs are suggested as an interesting and potential therapeutic option in the management of cardiovascular disorders, including hypertension, atherosclerosis, and ischemic heart disease.
+    ◦ Witkowska, A., et al. (2024). “Cardiovascular diseases are a broadly understood concept focusing on vascular and heart dysfunction.” Preprints.org. DOI:10.20944/preprints202403.1104.v1.
+28. Ruta graveolens and Angelica sinensis (herbal mixture)
+    ◦ Methanol extracts promoted liver health and possessed robust hepatoprotective properties.
+    ◦ Patel, M. V., et al. (2025). “Advanced Strategies in Enhancing the Hepatoprotective Efficacy of Natural Products: Integrating Genomic, Mechanistic, and Nanotechnology Approaches.”.
+29. Lonicera japonica Thunb. (LJT), Atractylodes macrocephala Koidz. (AMK), and Alisma canaliculatum A. Braun & C.D.Bouche (AC) (key herbal components of BGT - Bojungikgi-tang)
+    ◦ A modified Bojungikgi-tang (mBGT) with a 3:1:1 ratio of LJT, AMK, and Alisma orientalis Juz. (a species similar to AC) was more effective in preventing colon shortening and improving histological changes than the original BGT.
+    ◦ Studies on BGT and its components are limited, highlighting the need for further research to elucidate their mechanisms of action and efficacy, especially in human clinical trials.
+    ◦ Yadav, A., et al. (2024). “Safety and efficacy of Bojungikgi-tang (BGT) and its key herbal components on gastrointestinal function: A systematic review of preclinical studies.” Front. Pharmacol. 2:1543194. DOI:10.3389/fphar.2024.1543194.
+30. Andrographis paniculata, Cinnamomum burmani barks, and Curcuma xanthoriza rhizomes with Syzygium polyanthum leaves
+    ◦ An herbal-based medicine formulation combining these ingredients, evaluated in a clinical study involving 242 volunteers for its efficacy in diabetes treatment.
+    ◦ Ramadaini, R., et al. (2024). “The Anti-Diabetic Effects of Medicinal Plants Belonging to the Liliaceae Family: Potential Alpha Glucosidase Inhibitors.” Drug Design, Development and Therapy 18:3606..
+31. Herbs to reduce lipid accumulation in high-fat diet rats:
+    ◦ Alisma plantago-aquatica subsp. orientale, Antidesma bunius, Aralia elata, Cassia obtusifolia, Citrus aurantium, Crocus sativus L. (Saffron), Cyclosorus terminans, Morus latifolia, Panax notoginseng, Pluchea indica, Rubus idaeus, Curcuma longa, Hibiscus sabdariffa, Rosmarinus officinalis, Moringa oleifera, Phyllanthus emblica, Picrorhiza kurroa, Pimpinella anisum, and Trigonella foenum-graecum.
+    ◦ All these herbs exhibited no signs of toxicity in the studies and demonstrated a positive effect against NAFLD, dyslipidemia, diabetes, or hypertension.
+    ◦ Al-Ezzy, A., et al. (2024). “Herbs Used in the Treatment of Non-Alcoholic Fatty Liver Disease (NAFLD): A Systematic Review.” WASJ 6(4): 245–262..
+32. Medicago sativa (Alfalfa) and Panax ginseng (Ginseng)
+    ◦ Individually, both herbs have similar clinical significances like immunomodulating, anti-inflammatory, antioxidant properties, and improved cognitive function. In combination, they may show synergistic effects such as improved energy, endurance, immune boosting, and cognitive functions.
+    ◦ Kumar, S., et al. (2023). “A Comprehensive Review on Possible Synergistic Therapeutic Effects and Comparison Between Phytochemical and Nutritional Profile of Medicago sativa and Panax ginseng.” J. Drug Delivery Ther. 13(10): 215-220..
+33. Hypericum perforatum L. (St. John’s wort) and Cannabis flos/herba/resina
+    ◦ Included in a review of commonly used herbal medicines that affect the central nervous system, for their potential drug interactions with conventional drugs.
+    ◦ Czigle, S., et al. (2025). “Pharmacokinetic and pharmacodynamic herb-drug interactions—part I. Herbal medicines of the central nervous system.”.
