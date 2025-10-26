@@ -1,0 +1,225 @@
+
+An Expert Report on Bempedoic Acid and Tendon Health: A Comprehensive Review of the Scientific Evidence
+
+
+Introduction
+
+
+Purpose and Scope
+
+This report provides a definitive, evidence-based analysis of the association between bempedoic acid (marketed as NEXLETOL® and NEXLIZET® in the US, and NILEMDO® and NUSTENDI® in the EU) and tendon-related adverse events, specifically tendinopathy and tendon rupture. The purpose of this document is to synthesize and critically appraise the available scientific data from pivotal clinical trials, regulatory documents from agencies such as the U.S. Food and Drug Administration (FDA) and the European Medicines Agency (EMA), emerging real-world evidence studies, and the underlying pharmacological science. By examining the incidence rates, identifying predisposing risk factors, providing a comparative risk context, and exploring potential biological mechanisms, this report aims to deliver a comprehensive understanding of the issue.
+
+Bempedoic Acid Overview
+
+Bempedoic acid is a first-in-class oral therapeutic agent developed for the management of hypercholesterolemia, a primary driver of atherosclerotic cardiovascular disease (ASCVD).1 Its mechanism of action is distinct from that of statins, the cornerstone of lipid-lowering therapy. Bempedoic acid functions by inhibiting adenosine triphosphate-citrate lyase (ACLY), an enzyme in the cholesterol biosynthesis pathway that acts upstream of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme targeted by statins.2 This inhibition of ACLY in the liver leads to decreased cholesterol synthesis, which in turn causes an upregulation of low-density lipoprotein (LDL) receptors on the surface of liver cells, enhancing the clearance of LDL cholesterol (LDL-C) from the bloodstream.1
+The drug is primarily indicated for adults with established ASCVD or heterozygous familial hypercholesterolemia (HeFH) who require additional lowering of LDL-C.1 A key clinical niche for bempedoic acid is its use in patients who are "statin-intolerant," meaning they cannot tolerate recommended doses of statins due to unacceptable adverse effects, most commonly muscle-related symptoms.6 Following the landmark CLEAR Outcomes trial, its indication was expanded in both the US and EU to include the reduction of cardiovascular risk.7
+
+Addressing the Patient's Concern
+
+A known concern associated with bempedoic acid is a warning regarding the risk of tendon injury, including tendon rupture. For any individual, and particularly for someone with a pre-existing condition such as tendonitis, understanding the true nature and magnitude of this risk is paramount for making informed healthcare decisions. This report directly addresses this concern by dissecting the scientific evidence to provide the necessary clarity, depth, and context for a productive and data-driven discussion with a healthcare provider regarding the suitability and safety of bempedoic acid therapy.
+
+Section 1: The Clinical Trial Evidence: Quantifying the Risk of Tendon Injury
+
+The foundation of our understanding of bempedoic acid's safety profile is built upon a series of rigorous, large-scale randomized controlled trials (RCTs). This section meticulously examines the data from these trials to quantify the risk of tendon-related adverse events.
+
+1.1 The Initial Signal: Early Phase III Trials and the Foundation of the Regulatory Warning
+
+The initial safety signal that led to the inclusion of a warning for tendon rupture in the drug's official prescribing information emerged from early Phase III clinical development. The pooled data from two pivotal 52-week, placebo-controlled trials, which included a total of 3,621 patients, formed the basis for this regulatory caution.10
+In this pooled dataset, tendon rupture was observed in 0.5% of patients receiving the standard 180 mg daily dose of bempedoic acid. In stark contrast, zero tendon ruptures (0.0%) were reported in the placebo-treated group.6 These events were not trivial; they involved clinically significant injuries to the rotator cuff of the shoulder, the biceps tendon, or the Achilles tendon. The onset of these ruptures varied, occurring within weeks to months after the initiation of bempedoic acid therapy.6
+From a clinical and regulatory perspective, this imbalance, though based on a small number of absolute events, was highly significant. The concept of relative risk is central to drug safety evaluation. When a control group experiences zero events for a serious adverse reaction, the relative risk of that event in the treatment group becomes mathematically infinite. Even with a low absolute risk (in this case, 1 in 200 patients over one year), the complete absence of events in the placebo arm creates a statistical signal that is difficult to dismiss as random chance. Regulatory bodies like the FDA operate on a precautionary principle, prioritizing patient safety. Faced with a clear, albeit small, numerical excess of a serious event like tendon rupture in the treatment group compared to a zero-event rate in the control group, the inclusion of a "Warnings and Precautions" section in the drug's label was a necessary and standard regulatory action.11 This explains the prominence of the warning, which was established based on the compelling relative difference observed in these initial, smaller-scale trials.
+
+1.2 The Landmark CLEAR Outcomes Trial: A Definitive, Large-Scale Assessment
+
+While the early trials raised the initial flag, the most robust and definitive data on the long-term safety of bempedoic acid comes from the landmark Cholesterol Lowering via Bempedoic acid, an ACL-Inhibiting Regimen (CLEAR) Outcomes trial.5 This was a massive, event-driven study designed specifically to evaluate the effect of bempedoic acid on cardiovascular events. It enrolled nearly 14,000 patients (specifically, 13,970) who were documented as being statin-intolerant and followed them for a median duration of 3.4 years.10 The scale and duration of this trial provide the highest level of evidence currently available.
+The findings from CLEAR Outcomes provided crucial context to the initial safety signal:
+Adjudicated Tendon Rupture: The trial included a pre-specified process for expert verification (adjudication) of suspected tendon ruptures. The results showed that adjudicated tendon rupture occurred in 1.2% of patients randomized to the bempedoic acid group, compared to 0.9% of patients in the placebo group.10 This confirms a persistent, small numerical excess of ruptures with bempedoic acid. The absolute risk increase is 0.3%, which translates to approximately three additional ruptures for every 1,000 patients treated with bempedoic acid over a period of about 3.4 years. This updated data has been incorporated into the prescribing information for the medication.10
+Broader Tendon-Related Events: The trial also assessed a broader composite endpoint of Tendon Rupture and Tendinopathies (TRT), which would include less severe events like tendonitis. In this analysis, the incidence of TRT was found to be identical in both groups, occurring in 2.0% of patients treated with bempedoic acid and 2.0% of patients treated with placebo.10
+This distinction between the specific risk of rupture and the general risk of tendinopathy is critically important. The data from the largest and longest trial do not support the conclusion that bempedoic acid causes an overall increase in tendon problems or tendonitis compared to placebo. The risk signal appears to be highly specific to the most severe outcome: a complete tendon rupture. This suggests that while the drug may not initiate the process of tendon inflammation, it could potentially play a role in a very small number of individuals where an underlying or developing tendinopathy progresses to a full rupture. For a patient with existing tendonitis, this finding is nuanced; the evidence does not suggest the drug would cause their condition, but it does underscore the need for caution and vigilance regarding the potential for a more severe injury.
+
+1.3 Findings from Meta-Analyses: The Challenge of Grouped Endpoints
+
+Systematic reviews and meta-analyses, which pool data from multiple studies, are often considered a high level of evidence. Several have been conducted for bempedoic acid, but their findings on musculoskeletal events require careful interpretation.
+A meta-analysis published in PLOS One in 2024, which pooled data from 16 RCTs involving over 18,000 patients, concluded that bempedoic acid did not significantly impact the overall risk of "muscle-associated occurrences" (Odds Ratio 1.00, 95% Confidence Interval [CI] 0.77 to 1.31).21 Similarly, another comprehensive meta-analysis published in
+Cardiovascular Diabetology in 2023, which included 11 studies and over 18,000 patients, pre-specified "muscle-related adverse events" as a safety endpoint but did not report a significant increase in this broad category, focusing instead on the increased risk of gout.23
+At first glance, these conclusions seem to contradict the specific tendon rupture signal seen in the clinical trials. The discrepancy arises from the use of broad, composite endpoints. The category of "muscle-related" or "muscle-associated" events includes a wide range of conditions, such as the more common adverse events of muscle spasms (reported in 3.6% of bempedoic acid patients vs. 2.3% placebo in early trials), back pain (3.3% vs. 2.2%), and pain in extremity (3.0% vs. 1.7%).11 Tendon rupture, being a much rarer event (1.2% in CLEAR Outcomes), constitutes only a small fraction of this larger pool of musculoskeletal complaints.
+When a meta-analysis combines rare events with more common ones into a single outcome, a "masking" or "dilution" effect can occur. The statistical weight of the more frequent events, which may show little or no difference between the drug and placebo, can overwhelm and obscure the signal from the rare event. The small but specific and consistent signal for tendon rupture becomes statistically non-significant when diluted by the "noise" of more frequent but less severe musculoskeletal symptoms. This demonstrates the critical importance of examining the specific, adjudicated endpoint data from the primary clinical trials themselves, as these provide the most precise estimate of risk for a particular adverse event. A conclusion of "no increased risk of muscle-related events" from a meta-analysis should not be misinterpreted as negating the specific, albeit small, risk of tendon rupture identified in the primary trial data.
+
+Section 2: Identifying the At-Risk Patient: A Multifactorial Perspective
+
+Understanding the overall incidence of an adverse event is only part of the equation. A crucial next step is to identify specific patient characteristics or concomitant factors that may increase this risk. The scientific and regulatory literature provides a consistent profile of the patient who may be at higher risk for tendon injury while taking bempedoic acid.
+
+2.1 Officially Recognized Risk Factors (FDA & EMA)
+
+Both the US FDA and the EMA, along with the drug's manufacturer, have established a clear and consistent set of risk factors based on clinical trial data and general pharmacological principles. This information is prominently featured in the "Warnings and Precautions" section of the prescribing information for all bempedoic acid-containing products.7
+The patient profile considered to be at a higher risk for tendon rupture includes:
+Age over 60 years: Advanced age is a well-known independent risk factor for tendon degeneration and injury.6
+Concomitant use of corticosteroid drugs: Systemic or locally injected corticosteroids are known to have detrimental effects on tendon integrity.6
+Concomitant use of fluoroquinolone antibiotics: This class of antibiotics carries its own significant, well-documented risk of tendinopathy and rupture.6
+Patients with renal failure: Impaired kidney function is associated with a host of metabolic changes that can negatively affect connective tissue health.6
+Patients with a previous history of tendon disorders or rupture: A prior injury or underlying tendinopathy inherently makes a tendon more vulnerable to future events.6
+The clinical guidance from regulatory bodies is unequivocal. Physicians are advised to discontinue bempedoic acid immediately if a patient experiences a tendon rupture. Furthermore, they should consider discontinuing the medication if a patient develops joint pain, swelling, or inflammation, which could be signs of tendinitis.11 For patients with a known history of tendon disorders, the recommendation is to consider alternative therapies altogether.13
+
+2.2 The Indirect Pathway: Hyperuricemia and Gout
+
+Beyond direct risk factors, bempedoic acid has a well-established metabolic effect that may create an indirect pathway to tendon injury. The drug is known to increase levels of uric acid in the blood (hyperuricemia).6 This occurs because bempedoic acid's glucuronide metabolite competes with uric acid for excretion by a specific transporter in the kidneys known as organic anion transporter 2 (OAT2).1 This competitive inhibition reduces the clearance of uric acid from the body, leading to its accumulation.
+This effect is not trivial. In clinical trials, gout, the clinical manifestation of hyperuricemia where uric acid crystals deposit in joints, was reported more frequently in patients taking bempedoic acid (1.5% to 3.2%) compared to those on placebo (0.4% to 2.2%).11 The risk was substantially higher for patients who already had a history of gout.13
+This is highly relevant to tendon health because gout itself is a recognized cause of tendinopathy. The deposition of monosodium urate crystals within and around tendons can provoke an inflammatory response, leading to pain, swelling (tendonitis), and structural weakening of the tendon matrix. This creates a scientifically plausible indirect mechanism for the observed increase in tendon ruptures. It is conceivable that bempedoic acid does not exert a direct toxic effect on tendon cells (tenocytes) but instead fosters a pro-tendinopathic environment in a subset of susceptible individuals by elevating their uric acid levels. This hypothesis suggests that careful monitoring and, if necessary, management of uric acid levels in patients treated with bempedoic acid could be a viable strategy to mitigate the risk of tendon-related adverse events.
+
+2.3 Real-World Evidence vs. Clinical Trial Data: A Crucial Discrepancy
+
+While RCTs provide the cleanest signal for a drug's effect, real-world evidence (RWE) offers a broader perspective on how a drug performs in a larger, more heterogeneous patient population with multiple comorbidities and concomitant medications. A recent and particularly insightful RWE study analyzed US administrative claims data from over 5.5 million patients with ASCVD to determine the background prevalence and risk factors for tendon rupture and tendinopathies (TRT).10
+The key finding of this large-scale analysis was striking: in this real-world setting, the use of either bempedoic acid or statins was not found to be associated with an increased risk of TRT.10 Instead, the factors most powerfully associated with tendon injuries in this population were underlying patient characteristics:
+Increasing age (particularly the 45-64 year age group)
+Obesity
+Rheumatoid arthritis
+This discrepancy between the signal in RCTs and the lack of a signal in RWE is a common phenomenon in pharmacovigilance and is critical for contextualizing clinical risk. RCTs are designed to isolate the effect of a single variable (the drug) in a carefully selected, relatively uniform population. This controlled environment is excellent for detecting small, real drug effects but can sometimes amplify signals that may be less relevant in the broader clinical landscape.
+In contrast, RWE reflects the complex, "messy" reality of clinical practice, where a patient's outcome is the result of numerous interacting variables. The fact that the association between bempedoic acid and TRT disappears in the real-world data, while the strong association with underlying comorbidities like age and obesity persists, strongly suggests that the drug's contribution to tendon risk is likely very small. The background health status of the patient population for whom the drug is indicated—often older, with metabolic issues and established ASCVD—appears to be a much more powerful driver of tendon problems than the medication itself. This finding is highly reassuring, as it suggests that the small risk observed in the controlled setting of a trial may not translate into a clinically significant, observable risk in routine practice. It emphasizes that managing a patient's overall health, particularly factors like weight and other inflammatory conditions, may be more impactful for preserving tendon health than the specific choice of lipid-lowering agent.
+
+Section 3: A Comparative Risk Analysis: Putting the Numbers in Context
+
+To fully appreciate the magnitude of the tendon risk associated with bempedoic acid, it is essential to compare it to other relevant medications. This comparative analysis provides a valuable sense of scale and perspective.
+
+3.1 Bempedoic Acid vs. Statins: A Murky and Controversial Association
+
+The relationship between statins and tendon injuries is one of the most debated topics in musculoskeletal medicine. Unlike the clear warning for statin-associated muscle symptoms (SAMS), the evidence linking statins to tendinopathy is inconsistent and contradictory.
+A comprehensive systematic review from 2022, which analyzed 48 different studies, found a complete lack of consensus: 17 of the studies indicated an increased risk of tendon disorders with statins, 7 reported a decreased risk, and 6 found no correlation at all.34 An earlier systematic review from 2016 also found no positive association between statin therapy and tendon rupture and even suggested that one statin, simvastatin, might be protective.35 Conversely, a large nationwide cohort study from Korea published in 2023 did find that statin use was associated with a greater risk of tendinopathy overall.37
+This conflicting body of evidence means there is no scientific consensus on the issue. The risk of tendon injury with bempedoic acid, therefore, should not be viewed as a unique or novel danger in the landscape of lipid-lowering therapies. Rather, it is a small, specific signal within a broader, poorly understood area of potential musculoskeletal side effects where underlying patient comorbidities may ultimately play a more significant role than the drugs themselves. For a patient considering bempedoic acid, often due to intolerance of statins, the warning about tendon rupture should be understood in this context: the risk associated with the standard-of-care alternative (statins) is itself not clearly defined and remains a subject of ongoing scientific debate.
+
+3.2 Bempedoic Acid vs. Fluoroquinolones: A Benchmark for Significant Risk
+
+A more illuminating comparison is with a class of drugs where the risk of tendon injury is significant, well-documented, and universally recognized: fluoroquinolone antibiotics (e.g., ciprofloxacin, levofloxacin). This class of drugs carries a prominent "black box" warning from the FDA specifically for the risk of tendinitis and tendon rupture.
+The incidence of fluoroquinolone-induced tendon injury is estimated to be between 0.14% and 0.4% in the general population, a baseline risk that is already comparable to or higher than the excess risk seen with bempedoic acid.38 However, this risk is dramatically magnified by the same factors that confer risk for bempedoic acid. Concomitant use of corticosteroids with fluoroquinolones can increase the risk of tendon rupture by as much as 46-fold.39 The overall risk for Achilles tendinitis/rupture with fluoroquinolones can be 3.8 times greater than with other classes of antibiotics.39
+This comparison provides a crucial benchmark. The risk associated with fluoroquinolones is of a different order of magnitude and is unequivocally established in the scientific literature. Presenting these figures side-by-side frames the bempedoic acid risk appropriately. It is a low-level safety signal that warrants caution and patient counseling, but it does not place the drug in the same high-risk category as medications like fluoroquinolones, for which the risk is a major, established safety concern. This perspective is vital for effective risk communication, allowing patients and clinicians to understand that while the warning for bempedoic acid must be taken seriously, the absolute magnitude of the risk is small.
+
+Table 1: Comparative Incidence and Risk Profile of Tendon Rupture Across Medications
+
+Drug/Group
+Incidence of Tendon Rupture
+Key Context and Notes
+Bempedoic Acid
+1.2% (CLEAR Outcomes trial) 10
+
+0.5% (Early Phase III trials) 11
+Small absolute risk increase (0.3%) observed in a large, long-term cardiovascular outcomes trial. No increased risk of general tendinopathy (tendonitis) versus placebo was observed. The risk signal is specific to rupture.
+Placebo
+0.9% (CLEAR Outcomes trial) 10
+
+0.0% (Early Phase III trials) 11
+Represents the background risk of tendon rupture in a high-risk, statin-intolerant population with established or high risk for ASCVD over approximately 3.4 years.
+Statins
+No consensus; evidence is conflicting.
+The association is highly debated. Multiple systematic reviews show contradictory findings, with some suggesting increased risk, some no effect, and some even a protective effect for certain statins.34 The link is not definitively established.
+Fluoroquinolones
+0.14% - 0.4% in healthy population.
+Well-established, significant risk that is dramatically increased by concomitant corticosteroid use (up to 46-fold), advanced age, and renal failure. Carries an FDA black-box warning.38
+
+Section 4: The Unresolved Question of Biological Mechanism
+
+While clinical trials can identify an association between a drug and an adverse event, they do not explain the biological reason for it. Understanding the "why"—the underlying pathophysiological mechanism—is a critical area of pharmacological research. At present, the precise mechanism by which bempedoic acid may increase the risk of tendon rupture is unknown.
+
+4.1 Bempedoic Acid's Known Mechanism: Liver-Specific Action
+
+Bempedoic acid is administered as a prodrug, which is an inactive compound that must be metabolically converted in the body to its active form.3 This conversion is carried out by the enzyme very-long-chain acyl-CoA synthetase 1 (ACSVL1), which attaches coenzyme A to bempedoic acid, forming the active metabolite bempedoyl-CoA.3
+A key feature of bempedoic acid's pharmacology is the tissue-specific expression of ACSVL1. This enzyme is highly expressed in the liver but is reportedly undetectable in skeletal muscle tissue.2 This liver-specific activation is the fundamental reason why bempedoic acid has a favorable profile with respect to the muscle pain (myalgia) commonly associated with statins. Because it is not activated in muscle, it does not inhibit the cholesterol synthesis pathway within muscle cells, thereby avoiding the primary proposed mechanism for statin-associated muscle symptoms.47
+
+4.2 The Knowledge Gap: A Direct Mechanism on Tendons is Unknown
+
+A comprehensive review of the scientific literature, including preclinical and basic science studies, reveals a significant knowledge gap: there are currently no published studies that have directly investigated the effect of bempedoic acid on tenocytes, the primary cells responsible for maintaining tendon health.1 Research has not yet explored whether the drug or its metabolites affect tenocyte proliferation, apoptosis (programmed cell death), or, most importantly, the synthesis and organization of collagen, the primary structural protein of tendons. Therefore, the association between bempedoic acid and tendon rupture remains a clinical observation without a confirmed biological explanation.
+
+4.3 Exploring Potential Pathophysiological Links: An Evidence-Informed Hypothesis
+
+In the absence of direct evidence, it is possible to formulate a scientifically plausible hypothesis based on preclinical findings in other cell types. Tendons are composed predominantly of Type I collagen, and their structural integrity depends on a delicate balance between collagen synthesis and degradation, a process orchestrated by tenocytes. Any disruption to this process could weaken the tendon matrix and increase its susceptibility to injury.
+Preclinical research has shown that bempedoic acid can influence collagen-related pathways. Specifically, studies conducted in primary mouse and human hepatic stellate cells—liver cells that play a key role in the development of liver fibrosis—demonstrated that bempedoic acid lowered liver fibrosis by "downregulating pathways involved in collagen deposition".4 Another preclinical study in a rat model noted that bempedoic acid limited the induction of collagen type-1 in mesenteric arteries.64
+This raises a compelling, albeit speculative, question: could a drug that modulates collagen regulation in one tissue (the liver) have a similar, perhaps unintended, off-target effect in another collagen-rich tissue (the tendon)? If bempedoic acid were to slightly downregulate or disrupt the normal homeostatic process of collagen synthesis and repair within tendons, it could, over time, lead to a weaker tendon matrix. A structurally compromised tendon would be more prone to rupture under the physiological loads of daily activity or exercise.
+This "collagen dysregulation hypothesis" represents the most promising line of inquiry for a potential direct biological mechanism. It connects a known preclinical finding with the observed clinical adverse event. However, it is crucial to emphasize that this is a hypothesis that has not been proven. Dedicated research involving the direct study of bempedoic acid's effects on tenocytes is required to confirm or refute this potential mechanism.
+
+Conclusion and Actionable Recommendations for the Patient
+
+
+Synthesized Summary
+
+The available scientific evidence presents a nuanced picture of the relationship between bempedoic acid and tendon health. In the highly controlled environment of randomized clinical trials, bempedoic acid is associated with a small but statistically significant increase in the absolute risk of tendon rupture (approximately 0.3% over 3.4 years) when compared to placebo.10 This signal was sufficient to prompt regulatory warnings from the FDA and EMA. Importantly, however, these same large-scale trials did not find an increased risk for the broader category of tendon problems, including
+tendonitis, suggesting the risk is specific to the most severe outcome.10
+
+The Real-World Context
+
+This clinical trial finding must be balanced against emerging real-world evidence. A very large analysis of medical claims data did not find an association between bempedoic acid use and an increased risk of tendon injuries in routine clinical practice.10 This suggests that in the general patient population, underlying comorbidities such as advanced age, obesity, and inflammatory conditions like rheumatoid arthritis are likely the dominant drivers of tendon risk, potentially outweighing the small effect of the drug itself.10
+
+The Mechanism
+
+The biological mechanism behind the tendon rupture signal remains unknown. The two most plausible hypotheses are an indirect effect, whereby the drug's known propensity to cause hyperuricemia and gout creates a pro-tendinopathic environment in susceptible individuals, and a potential (but currently unproven) direct effect on collagen regulation within the tendon matrix itself.4
+
+Actionable Recommendations for Discussion with Your Physician
+
+This comprehensive analysis provides the basis for an informed, data-driven conversation with a healthcare provider. The decision to initiate or continue therapy with bempedoic acid should be a shared one, weighing its proven cardiovascular benefits against this potential risk. The following points can serve as a guide for that discussion:
+Assess Your Personal Risk Profile: Discuss with your doctor how your individual health status aligns with the officially recognized risk factors for tendon rupture. This includes your age (especially if over 60), your kidney function, any personal or family history of tendon problems, and, critically, any concurrent or recent use of corticosteroid medications or fluoroquinolone antibiotics.25
+Monitor Uric Acid Levels: Given the established link between bempedoic acid, hyperuricemia, and gout—a known risk factor for tendinopathy—it would be prudent to discuss the monitoring of your blood uric acid levels. Proactively managing hyperuricemia, should it develop, may be a strategy to mitigate this indirect risk pathway.14
+Practice Symptom Vigilance: Be highly aware of the signs and symptoms of tendon injury. According to the FDA, these include the sudden onset of pain, swelling, hearing or feeling a "pop" or "snap" in a tendon area (most commonly the shoulder, biceps, or Achilles tendon), bruising that appears after a minor injury in a tendon area, or an inability to move the affected joint or bear weight on the affected limb.27
+Immediate Action if Symptoms Occur: The official guidance is clear: at the first sign of tendinitis (pain, swelling, inflammation) or a suspected tendon rupture, you should rest the affected area and contact your healthcare provider immediately. The medication should be discontinued if a rupture occurs.13
+A Shared Decision: Ultimately, the choice to use bempedoic acid involves a clinical judgment that balances its established efficacy in lowering LDL-cholesterol and reducing the risk of heart attack and coronary revascularization against this small but recognized potential risk of tendon rupture.6 This report is intended to equip you with the detailed scientific evidence needed to partner with your physician in making the best decision for your specific health circumstances and risk tolerance.
+Works cited
+Bempedoic Acid - StatPearls - NCBI Bookshelf, accessed June 15, 2025, https://www.ncbi.nlm.nih.gov/books/NBK594232/
+Full article: Bempedoic acid and its role in contemporary management of hyperlipidemia in atherosclerosis, accessed June 15, 2025, https://www.tandfonline.com/doi/full/10.1080/07853890.2022.2059559
+What is the mechanism of Bempedoic acid? - Patsnap Synapse, accessed June 15, 2025, https://synapse.patsnap.com/article/what-is-the-mechanism-of-bempedoic-acid
+Bempedoic Acid: for Whom and When - PMC - PubMed Central, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC9474414/
+Landmark CLEAR Outcomes Study Demonstrates NEXLETOL (bempedoic acid) Tablet is the Only LDL-C Lowering Therapy Since Statins to Reduce Hard Ischemic Events in a Broad Population - Diagnostic and Interventional Cardiology | DAIC, accessed June 15, 2025, https://www.dicardiology.com/content/landmark-clear-outcomes-study-demonstrates-nexletol-bempedoic-acid-tablet-only-ldl-c
+Landmark CLEAR Outcomes Study Demonstrates NEXLETOL® (bempedoic acid) Tablet is the Only LDL-C Lowering Therapy Since Statins to Reduce Hard Ischemic Events in a Broad Population of Both Primary Prevention and Secondary Prevention Patients | Esperion Therapeutics, Inc., accessed June 15, 2025, https://www.esperion.com/news-releases/news-release-details/landmark-clear-outcomes-study-demonstrates-nexletolr-bempedoic
+U.S. FDA Approves Broad New Labels for NEXLETOL® and NEXLIZET® to Prevent Heart Attacks and Cardiovascular Procedures in Both Primary and Secondary Prevention Patients, Regardless of Statin Use | Esperion Therapeutics, Inc., accessed June 15, 2025, https://www.esperion.com/news-releases/news-release-details/us-fda-approves-broad-new-labels-nexletolr-and-nexlizetr-prevent
+Clear CVD Benefit With Bempedoic Acid: CLEAR Outcomes - TCTMD.com, accessed June 15, 2025, https://www.tctmd.com/news/clear-cvd-benefit-bempedoic-acid-clear-outcomes
+CHMP Issues Positive Opinions For Both Bempedoic Acid And The Bempedoic Acid / Ezetimibe Fixed-Dose Combination Tablet As Treatments For Hypercholesterolemia And Significantly Reducing Cardiovascular Events, accessed June 15, 2025, https://www.esperion.com/news-releases/news-release-details/chmp-issues-positive-opinions-both-bempedoic-acid-and-bempedoic
+Safety of Bempedoic Acid in Patients at High Cardiovascular Risk and with Statin Intolerance - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/publication/375122464_Safety_of_Bempedoic_Acid_in_Patients_at_High_Cardiovascular_Risk_and_with_Statin_Intolerance
+NEXLIZET (bempedoic - This label may not be the latest approved by FDA. For current labeling information, please visit https://www.fda.gov/drugsatfda, accessed June 15, 2025, https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/211617s000lbl.pdf
+Reference ID: 5351645 - accessdata.fda.gov, accessed June 15, 2025, https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/211616s012s013lbl.pdf
+nexletol - This label may not be the latest approved by FDA. For current labeling information, please visit https://www.fda.gov/drugsatfda, accessed June 15, 2025, https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211616s015lbl.pdf
+HIGHLIGHTS OF PRESCRIBING INFORMATION These highlights do not include all the information needed to use NEXLETOL™ safely and e - accessdata.fda.gov, accessed June 15, 2025, https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/211616s000lbl.pdf
+Esperion Announces Submission of Application for Expanded Indication with the European Medicines Agency (EMA) for NILEMDO® (bempedoic acid) Tablet and NUSTENDI® (bempedoic acid and ezetimibe) Tablet, accessed June 15, 2025, https://www.esperion.com/news-releases/news-release-details/esperion-announces-submission-application-expanded-indication
+Esperion Supports Collaborative Study with an Integrated and Learning Health Care Delivery System in Northern California to Study the Effects of NEXLIZET® (bempedoic acid and ezetimibe) in Reducing LDL-Cholesterol Following a Recent Acute Coronary Syndrome, accessed June 15, 2025, https://www.esperion.com/news-releases/news-release-details/esperion-supports-collaborative-study-integrated-and-learning
+CLEAR Program – Clear Outcomes - Esperion Science, accessed June 15, 2025, https://esperionscience.com/clear-outcomes/
+BEMPEDOIC ACID (ETC-1002) A RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED STUDY TO ASSESS THE EFFECTS OF BEMPEDOIC ACID (ETC-1002 - ClinicalTrials.gov, accessed June 15, 2025, https://cdn.clinicaltrials.gov/large-docs/06/NCT02993406/Prot_000.pdf
+Clinical Studies - This label may not be the latest approved by FDA. For current labeling information, please visit https://www.fda.gov/drugsatfda, accessed June 15, 2025, https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/211617s016s017lbl.pdf
+Prevalence of Tendon Rupture and Tendinopathies Among Patients with Atherosclerotic Cardiovascular Disease Derived From United States Administrative Claims Data | springermedizin.de, accessed June 15, 2025, https://www.springermedizin.de/prevalence-of-tendon-rupture-and-tendinopathies-among-patients-w/27345474
+Safety and efficacy of bempedoic acid among patients with statin ..., accessed June 15, 2025, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297854
+Safety and efficacy of bempedoic acid among patients with statin intolerance and those without: A meta-analysis and a systematic - PLOS, accessed June 15, 2025, https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0297854
+Safety and efficacy of bempedoic acid: a systematic review and meta-analysis of randomised controlled trials, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC10685600/
+Bempedoic Acid Side Effects: Common, Severe, Long Term - Drugs.com, accessed June 15, 2025, https://www.drugs.com/sfx/bempedoic-acid-side-effects.html
+NEXLIZET® & NEXLETOL® HCP Information - Official Site, accessed June 15, 2025, https://www.nexlizethcp.com/
+FDA Approves Expanded Indications for NEXLIZET® & NEXLETOL®, accessed June 15, 2025, http://www.nexlizethcp.com/wp-content/uploads/2024/03/product-information.pdf?v=1.0
+NEXLIZET® Clinical Trial Results - See How It Performed, accessed June 15, 2025, https://www.nexlizet.com/nexlizet-clinical-trial-results/
+Bempedoic acid: what prospective uses? | European Heart Journal Supplements, accessed June 15, 2025, https://academic.oup.com/eurheartjsupp/article/25/Supplement_C/C109/7143254
+Drug Interaction Report - delafloxacin bempedoic acid, accessed June 15, 2025, https://www.drugs.com/interactions-check.php?drug_list=4132-0,3813-0&professional=1
+Bempedoic acid Disease Interactions - Drugs.com, accessed June 15, 2025, https://www.drugs.com/disease-interactions/bempedoic-acid.html
+Bempedoic Acid (Nexletol) for the Treatment of Hyperlipidemia and Familial Hypercholesterolemia | AAFP, accessed June 15, 2025, https://www.aafp.org/pubs/afp/issues/2021/0315/p377.html
+Prevalence of Tendon Rupture and Tendinopathies Among Patients with Atherosclerotic Cardiovascular Disease Derived From United States Administrative Claims Data - PubMed, accessed June 15, 2025, https://pubmed.ncbi.nlm.nih.gov/39003659/
+(PDF) Prevalence of Tendon Rupture and Tendinopathies Among Patients with Atherosclerotic Cardiovascular Disease Derived From United States Administrative Claims Data - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/publication/382252324_Prevalence_of_Tendon_Rupture_and_Tendinopathies_Among_Patients_with_Atherosclerotic_Cardiovascular_Disease_Derived_From_United_States_Administrative_Claims_Data
+Do statins increase the risk of tendon rupture? A qualitative systematic review, accessed June 15, 2025, https://ojs.pum.edu.pl/pomjlifesci/article/view/923
+Statins and tendinopathy: a systematic review | The Medical Journal of Australia, accessed June 15, 2025, https://www.mja.com.au/journal/2016/204/3/statins-and-tendinopathy-systematic-review
+Statins and tendinopathy: A systematic review | Request PDF - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/publication/294103432_Statins_and_tendinopathy_A_systematic_review
+Effects of Statin Treatment on the Development of Tendinopathy: A Nationwide Population-Based Cohort Study, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC10350772/
+academic.oup.com, accessed June 15, 2025, https://academic.oup.com/cid/article/36/11/1404/304264#:~:text=The%20incidence%20of%20fluoroquinolone%2Dinduced,a%20patient%20to%20such%20injury.
+The Risk of Fluoroquinolone-induced Tendinopathy and Tendon Rupture: What Does The Clinician Need To Know?, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC2921747/
+Relative and Absolute Risk of Tendon Rupture with Fluoroquinolone and Concomitant Fluoroquinolone/Corticosteroid Therapy: Population-Based Nested Case–Control Study, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC6394638/
+Bempedoic acid - Wikipedia, accessed June 15, 2025, https://en.wikipedia.org/wiki/Bempedoic_acid
+NEXLIZET® & NEXLETOL® Mechanism of Action Video (Full Info), accessed June 15, 2025, https://www.nexlizethcp.com/mechanism-of-action/
+Reshaping Dyslipidaemia Treatment with Bempedoic Acid—A Narrative Review - MDPI, accessed June 15, 2025, https://www.mdpi.com/2227-9059/13/6/1460
+Bempedoic acid: what prospective uses? - PMC, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC10132602/
+Homo sapiens - WikiPathways, accessed June 15, 2025, https://www.wikipathways.org/search.html?query=SMS&species=Homo+sapiens&title=Special%3ASearchPathways&doSearch=1&ids=&codes=&type=query
+(PDF) Bempedoic Acid: For Whom and When - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/publication/361801386_Bempedoic_Acid_For_Whom_and_When
+Mechanism of action and therapeutic use of bempedoic acid in atherosclerosis and metabolic syndrome, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC9650075/
+Can't Take Statins? There's Another Choice for Lowering Cholesterol | Duke Health, accessed June 15, 2025, https://www.dukehealth.org/blog/cant-take-statins-theres-another-choice-lowering-cholesterol
+Bempedoic Acid Use in Statin Intolerance - U.S. Pharmacist, accessed June 15, 2025, https://www.uspharmacist.com/article/bempedoic-acid-use-in-statin-intolerance
+Bempedoic Acid: A New Tool for LDL-Cholesterol Control in Patients with Coronary Artery Disease - PMC, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11273861/
+Efficacy and safety of bempedoic acid added to ezetimibe in statin-intolerant patients with hypercholesterolemia: A randomized, placebo-controlled study - PubMed, accessed June 15, 2025, https://pubmed.ncbi.nlm.nih.gov/29910030/
+AMPK in Health and Disease | Physiological Reviews, accessed June 15, 2025, https://journals.physiology.org/doi/abs/10.1152/physrev.00011.2008
+Addition of Bempedoic Acid to Statin–Ezetimibe versus Statin Titration in Patients with High Cardiovascular Risk: A Single-Centre Prospective Study - MDPI, accessed June 15, 2025, https://www.mdpi.com/2308-3425/11/9/286
+BEMPEDOIC ACID EFFICACY AND SAFETY IN HIGH CVD RISK PATIENTS TREATED WITH OR WITHOUT EZETIMIBE: POOLED ANALYSIS OF 4 PHASE 3 CLINICAL TRIALS | Request PDF - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/publication/339964784_BEMPEDOIC_ACID_EFFICACY_AND_SAFETY_IN_HIGH_CVD_RISK_PATIENTS_TREATED_WITH_OR_WITHOUT_EZETIMIBE_POOLED_ANALYSIS_OF_4_PHASE_3_CLINICAL_TRIALS
+State-of the-art and future perspective in co-culture systems for tendon engineering - PMC, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11932666/
+Tendinopathy in diabetes mellitus patients-Epidemiology, pathogenesis, and management | Request PDF - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/publication/312588368_Tendinopathy_in_diabetes_mellitus_patients-Epidemiology_pathogenesis_and_management
+Int. J. Mol. Sci., Volume 24, Issue 17 (September-1 2023) – 642 articles - MDPI, accessed June 15, 2025, https://www.mdpi.com/1422-0067/24/17
+Obesity Increases the Risk of Tendinopathy, Tendon Tear and Rupture, and Postoperative Complications: A Systematic Review of Clinical Studies | Request PDF - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/publication/340642301_Obesity_Increases_the_Risk_of_Tendinopathy_Tendon_Tear_and_Rupture_and_Postoperative_Complications_A_Systematic_Review_of_Clinical_Studies
+Supporting Cell-Based Tendon Therapy: Effect of PDGF-BB and Ascorbic Acid on Rabbit Achilles Tenocytes In Vitro - PubMed Central, accessed June 15, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC7014238/
+Effects of shock waves on tenocyte proliferation and extracellular matrix metabolism - PubMed, accessed June 15, 2025, https://pubmed.ncbi.nlm.nih.gov/18222032/
+Tendon Homeostasis in Hypercholesterolemia | Request PDF - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/publication/306232965_Tendon_Homeostasis_in_Hypercholesterolemia
+Is Statin Use Associated With Tendon Rupture? A Population-Based Retrospective Cohort Analysis | Request PDF - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/publication/259875975_Is_Statin_Use_Associated_With_Tendon_Rupture_A_Population-Based_Retrospective_Cohort_Analysis
+Combined Degree Program Annual Retreat - Perelman School of Medicine at the University of Pennsylvania, accessed June 15, 2025, https://www.med.upenn.edu/mstp/assets/user-content/documents/2024-retreatbooklet-online-final-duplicate.pdf
+Effect of Bempedoic acid on the liver fibrotic and inflammation gene - ResearchGate, accessed June 15, 2025, https://www.researchgate.net/figure/Effect-of-Bempedoic-acid-on-the-liver-fibrotic-and-inflammation-gene-protein-expression_fig4_354366568
+Bempedoic acid: Uses, Dosage, Side Effects, Warnings - Drugs.com, accessed June 15, 2025, https://www.drugs.com/bempedoic-acid.html
