@@ -35,7 +35,7 @@ jobs:
           # -I "..." : Ignore files/dirs. Use '|' to separate patterns.
           # --noreport: Don't show the "X directories, Y files" at the bottom
           # -o "..." : Output directly to the index.html file
-          tree -H "$BASE_URL" -L 10 -T "$PAGE_TITLE" -I "index.html|.github|LICENSE|test|test2|*.yml" --noreport -o "index.html" --charset utf-8
+          tree -H "$BASE_URL" -L 10 -T "$PAGE_TITLE" -I "index.html|.github|LICENSE|test|test2|*.yml|*.zip" --noreport -o "index.html" --charset utf-8
           
           echo "Generated index.html"
 
