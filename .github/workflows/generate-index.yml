@@ -18,11 +18,17 @@ jobs:
       - name: Generate single recursive index.html
         run: |
           # --- Configure Your Settings ---
-          TARGET_DIR="docs/files"   # The directory to index
-          PAGE_TITLE="Index of Files"      # The <title> and <h1> of the page
+          TARGET_DIR="Health_Research"   # The directory to index
+          PAGE_TITLE="Index of Health Research"    # The <title> and <h1> of the page
           # -------------------------------
           
           echo "Generating index for $TARGET_DIR..."
+          
+          # Check if the target directory exists
+          if [ ! -d "$TARGET_DIR" ]; then
+            echo "Directory $TARGET_DIR does not exist. Creating it."
+            mkdir -p $TARGET_DIR
+          fi
           
           # Navigate into the target directory so all links are relative
           cd $TARGET_DIR
@@ -43,11 +49,11 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Add the single index.html file
-          git add "docs/files/index.html" 
+          # Add the single index.html file from the correct directory
+          git add "Health_Research/index.html" 
           
           if ! git diff --staged --quiet; then
-            git commit -m "docs: auto-generate recursive directory index"
+            git commit -m "docs: auto-generate Health_Research index"
             git push
           else
             echo "No changes to commit."
