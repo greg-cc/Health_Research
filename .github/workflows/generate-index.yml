@@ -18,29 +18,19 @@ jobs:
       - name: Generate single recursive index.html
         run: |
           # --- Configure Your Settings ---
-          TARGET_DIR="Health_Research"   # The directory to index
           PAGE_TITLE="Index of Health Research"    # The <title> and <h1> of the page
           # -------------------------------
           
-          echo "Generating index for $TARGET_DIR..."
-          
-          # Check if the target directory exists
-          if [ ! -d "$TARGET_DIR" ]; then
-            echo "Directory $TARGET_DIR does not exist. Creating it."
-            mkdir -p $TARGET_DIR
-          fi
-          
-          # Navigate into the target directory so all links are relative
-          cd $TARGET_DIR
+          echo "Generating index for root directory..."
           
           # Use tree to generate an HTML file
           # -H '.' : Generate HTML with links relative to the current dir ('.')
           # -L 10  : Set a recursion depth limit of 10 levels
           # -T "..." : Sets the page <title> and <h1>
-          # -I "..." : Ignore the index.html file itself from the listing
+          # -I "..." : Ignore files/dirs. Use '|' to separate patterns.
           # --noreport: Don't show the "X directories, Y files" at the bottom
           # -o "..." : Output directly to the index.html file
-          tree -H '.' -L 10 -T "$PAGE_TITLE" -I "index.html" --noreport -o "index.html" --charset utf-8
+          tree -H '.' -L 10 -T "$PAGE_TITLE" -I "index.html|.github|LICENSE|test|test2|*.yml" --noreport -o "index.html" --charset utf-8
           
           echo "Generated index.html"
 
@@ -49,8 +39,8 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Add the single index.html file from the correct directory
-          git add "Health_Research/index.html" 
+          # Add the single index.html file from the root directory
+          git add "index.html" 
           
           if ! git diff --staged --quiet; then
             git commit -m "docs: auto-generate Health_Research index"
@@ -58,3 +48,4 @@ jobs:
           else
             echo "No changes to commit."
           fi
+
